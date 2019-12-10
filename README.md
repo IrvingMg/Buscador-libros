@@ -1,6 +1,8 @@
 # Asistente inteligente para la búsqueda de libros
 
-El “Asistente inteligente para la búsqueda de libros” se basa en el principio de unificación para encontrar la información de los libros. Esta información está distribuida en un repositorio con 54 documentos bajo el formato rdf. Para poder trabajar con este formato en Prolog, se utilizó el paquete “SWI-Prolog Semantic Web Library 3.0” el cual permite analizar la estructura y el contenido de los archivos con extensión .rdf. Para el manejo de interfaces gráficas, SWI-Prolog también provee una biblioteca llamada “XPCE” la cual fue utilizada en este proyecto. El código del asistente se encuentra distribuido en 3 archivos con extensión .pl. En el archivo principal “Buscador.pl” se encuentran los predicados necesarios para la interacción con el usuario, como las interfaces gráficas y mensajes de bienvenida. Desde el archivo principal se procesa la entrada del usuario y se envía al siguiente archivo, “Gramatica.pl”. Como su nombre lo indica, ahí se encuentra la gramática encargada de validar la frase de ayuda introducida y hacer la consulta del término buscado en el repositorio utilizando los predicados definidos en “búsqueda_rdf.pl”.
+El “Asistente inteligente para la búsqueda de libros” se basa en el principio de unificación para encontrar la información de los libros. Esta información está distribuida en un repositorio con 54 documentos bajo el formato rdf. Para poder trabajar con este formato en Prolog, se utilizó el paquete "SWI-Prolog Semantic Web Library 3.0" el cual permite analizar la estructura y el contenido de los archivos con extensión .rdf. Para el manejo de interfaces gráficas, SWI-Prolog también provee una biblioteca llamada “XPCE” la cual fue utilizada en este proyecto.
+
+El código del asistente se encuentra distribuido en 3 archivos con extensión .pl. En el archivo principal "Buscador.pl" se encuentran los predicados necesarios para la interacción con el usuario, como las interfaces gráficas y mensajes de bienvenida. Desde el archivo principal se procesa la entrada del usuario y se envía al siguiente archivo, “Gramatica.pl”. Como su nombre lo indica, ahí se encuentra la gramática encargada de validar la frase de ayuda introducida y hacer la consulta del término buscado en el repositorio utilizando los predicados definidos en "búsqueda_rdf.pl".
 
 ## Reconocimiento de frases
 
@@ -120,6 +122,7 @@ Para devolver los resultados de una búsqueda, el programa analiza 8 campos de l
 8. Tema/Subtema/Lección
 
 La búsqueda por temas, subtemas y lecciones se toma como un solo tipo de búsqueda debido a que el asistente considera todo el contenido de los libros como temas, sin hacer la distinción entre subtemas y lecciones. Aunque las frases de ayuda no dependen del tipo de búsqueda, a continuación se muestra una tabla con las frases que se deberían usar para cada búsqueda.
+
 | Frase de ayuda | Tipo de búsqueda |
 | ---- | ---- |
 | Buscar | Área/Ficha/Título/Autor/Clasificación/Año/Ejemplares/Tema |
