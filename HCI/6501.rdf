@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/HCI/">
+
+<rdf:Description
+rdf:about="USER CENTERED SYSTEM DESIGN : NEW PERSPECTIVES ON HUMAN-COMPUTER INTERACTION">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Preface</rdf:li>
+      <rdf:li>Authors and Participants</rdf:li>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>User Centered System Design</rdf:li>
+      <rdf:li>The Interface Experience</rdf:li>
+      <rdf:li>Users' Understandings</rdf:li>
+      <rdf:li>User Activities</rdf:li>
+      <rdf:li>Toward a Pragmatics of Human-Machine Communication</rdf:li>
+      <rdf:li>Information Flow</rdf:li>
+      <rdf:li>The Context of Computing</rdf:li>
+      <rdf:li>Glossary</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Index</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="User Centered System Design">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Architectural Design: An Analogy</rdf:li>
+      <rdf:li>Issues in Design: Some Notes</rdf:li>
+      <rdf:li>Cognitive Engineering</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The Interface Experience">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Interface as Mimesis</rdf:li>
+      <rdf:li>Direct Manipulation Interfaces</rdf:li>
+      <rdf:li>Notes on the Future of Programming: Breaking the Utility Barrier</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Users' Understandings">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>User Understanding</rdf:li>
+      <rdf:li>Understanding What's Happening in System Interactions</rdf:li>
+      <rdf:li>Naive Theories of Computation</rdf:li>
+      <rdf:li>Models of Computation</rdf:li>
+      <rdf:li>Knowledge-Based Interface Design</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="User Activities">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The Structure of User's Activities</rdf:li>
+      <rdf:li>Psychological Issues in Support of Multiple Activities</rdf:li>
+      <rdf:li>Communication Paradigms for a Window System</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Toward a Pragmatics of Human-Machine Communication">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>There's More to Interaction Than Meets the Eye: Some Issues in Manual Input</rdf:li>
+      <rdf:li>Display Managers as the Basis for User-Machine Communication</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Information Flow">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Answers First, Then Questions</rdf:li>
+      <rdf:li>Helping Users Help Themselves</rdf:li>
+      <rdf:li>Helping Users Help Each Other</rdf:li>
+      <rdf:li>Designing for Error</rdf:li>
+      <rdf:li>Computer-Mediated Communication</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The Context of Computing">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>From Cognitive to Social Ergonomics and Beyond</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

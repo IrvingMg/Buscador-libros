@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/AI/">
+
+<rdf:Description
+rdf:about="A FONDO: INTELIGENCIA ARTIFICIAL">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Colaboradores</rdf:li>
+      <rdf:li>Prólogo</rdf:li>
+      <rdf:li>Prefacio</rdf:li>
+      <rdf:li>¿Qué es inteligencia artificial?</rdf:li>
+      <rdf:li>Historia de la inteligencia artificial</rdf:li>
+      <rdf:li>Sistemas expertos</rdf:li>
+      <rdf:li>Procesamiento del lenguaje natural</rdf:li>
+      <rdf:li>Ampliación de las aptitudes humanas</rdf:li>
+      <rdf:li>Otras aplicaciones de inteligencia artificial</rdf:li>
+      <rdf:li>Procesamiento simbólico</rdf:li>
+      <rdf:li>Herramientas de desarrollo de sistemas expertos</rdf:li>
+      <rdf:li>Máquinas LISP</rdf:li>
+      <rdf:li>Continuidad de los esfuerzos en inteligencia artificial</rdf:li>
+      <rdf:li>Gloasario</rdf:li>
+      <rdf:li>Bibliografía</rdf:li>
+      <rdf:li>Indice alfabético</rdf:li>
+      <rdf:li>Respuestas a los cuestionarios</rdf:li>
+      <rdf:li>Marcas registradas</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="¿Qué es inteligencia artificial?">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Cuestionario</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Historia de la inteligencia artificial">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Cuestionario</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Sistemas expertos">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Cuestionario</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Procesamiento del lenguaje natural">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Cuestionario</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Ampliación de las aptitudes humanas">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Cuestionario</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Otras aplicaciones de inteligencia artificial">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Cuestionario</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Procesamiento simbólico">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Cuestionario</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Herramientas de desarrollo de sistemas expertos">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Cuestionario</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Máquinas LISP">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Cuestionario</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Continuidad de los esfuerzos en inteligencia artificial">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Cuestionario</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+
+</rdf:RDF> 

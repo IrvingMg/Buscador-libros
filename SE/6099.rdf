@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/SE/">
+
+<rdf:Description
+rdf:about="Ingeniería del Software: Un enfoque práctico">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>EL PRODUCTO Y EL PROCESO</rdf:li>
+      <rdf:li>GESTIÓN DE PROYECTOS DE SOFTWARE </rdf:li>
+      <rdf:li>MÉTODOS CONVENCIONALES PARA LA INGENIERÍA DEL SOFTWARE</rdf:li>
+      <rdf:li>INGENIERIA DEL SOFTWARE ORIENTADA A OBJETOS</rdf:li>
+      <rdf:li>TEMAS AVANZADOS EN INGENIERÍA DEL SOFTWAWARE </rdf:li>
+      <rdf:li>APÉNDICE</rdf:li>
+      <rdf:li>ÍNDICE</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="EL PRODUCTO Y EL PROCESO">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>EL PRODUCTO</rdf:li>
+      <rdf:li>EL PROCESO</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="GESTIÓN DE PROYECTOS DE SOFTWARE">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>CONCEPTOS SOBRE GESTIÓN DE PROYECTOS</rdf:li>
+      <rdf:li>PROCESO DE SOFTWARE Y MÉTRICAS DE PROYECTOS</rdf:li>
+      <rdf:li>PLANIFICACIÓN DE PROYECTOS DE SOFTWARE</rdf:li>
+      <rdf:li>ANÁLISIS Y GESTIÓN DEL RIESGO</rdf:li>
+      <rdf:li>PLANIFICACIÓN TEMPORAL Y SEGUIMIENTO DEL PROYECTO</rdf:li>
+      <rdf:li>GARANTIA DE CALIDAD DEL SOFTWARE (SQAICCS)</rdf:li>
+      <rdf:li>GESTIÓN DE LA CONFIGURACIÓN DEL SOFTWARE (GCSISCM)</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="MÉTODOS CONVENCIONALES PARA LA INGENIERÍA DEL SOFTWARE">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>INGENIERIA DE SISTEMAS</rdf:li>
+      <rdf:li>CONCEPTOS Y PRINCIPIOS DEL ANALISIS</rdf:li>
+      <rdf:li>MODELADO DEL ANÁLISIS</rdf:li>
+      <rdf:li>CONCEPTOS Y PRINCIPIOS DE DISENO</rdf:li>
+      <rdf:li>DISEÑO ARQUITECTÓNICO</rdf:li>
+      <rdf:li>DISEÑO DE LA INTERFAZ DE USUARIO</rdf:li>
+      <rdf:li>DISEÑO A NIVEL DE COMPONENTES</rdf:li>
+      <rdf:li>TÉCNICAS DE PRUEBA DEL SOFTWARE</rdf:li>
+      <rdf:li>ESTRATEGIAS DE PRUEBA DEL SOFTWARE</rdf:li>
+      <rdf:li>MÉTRICAS TÉCNICAS DEL SOFTWARE</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="INGENIERIA DEL SOFTWARE ORIENTADA A OBJETOs ">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>CONCEPTOS Y PRINCIPIOS ORIENTADOS A OBJETOS</rdf:li>
+      <rdf:li>ANÁLISIS ORIENTADO A OBJETOS</rdf:li>
+      <rdf:li>DISEÑO ORIENTADO A OBJETOS</rdf:li>
+      <rdf:li>PRUEBAS ORIENTADAS A OBJETOS</rdf:li>
+      <rdf:li>MÉTRICAS TÉCNICAS PARA SISTEMAS ORIENTADOS A OBJETOS</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="TEMAS AVANZADOS EN INGENIERÍA DEL SOFTWAWARE">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>MÉTODOS FORMALES</rdf:li>
+      <rdf:li>INGENIERIA DEL SOFTWARE DE SALA LIMPIA</rdf:li>
+      <rdf:li>INGENIERIA DEL SOFTWARE BASADA EN COMPONENTES</rdf:li>
+      <rdf:li>INGENIERÍA DEL SOFTWARE DEL COMERCIO ELECTRóNICO CLIENTE SERVIDOR</rdf:li>
+      <rdf:li>INGENIERÍA WEB</rdf:li>
+      <rdf:li>REINGENIERIA</rdf:li>
+      <rdf:li>NGENIERÍA DEL SOFTWARE ASISTIDA POR COMPUTADORA</rdf:li>
+      <rdf:li>PERSPECTIVAS FUTURAS</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

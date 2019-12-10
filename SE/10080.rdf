@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/SE/">
+
+<rdf:Description
+rdf:about="ALGEBRAIC SPECIFICATIONS IN SOFTWARE ENGINEERING: AN INTRODUCTION">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Abstract Data Types as Initial Algebras</rdf:li>
+      <rdf:li>An algebraic Specification Language</rdf:li>
+      <rdf:li>Constructive Specifications</rdf:li>
+      <rdf:li>A case Study: the Feery Problem</rdf:li>
+      <rdf:li>A Case Study: the Mini-PABX</rdf:li>
+      <rdf:li>Error Handling</rdf:li>
+      <rdf:li>Abstract Implementations</rdf:li>
+      <rdf:li>Conclusions</rdf:li>
+      <rdf:li>Apendix A: Syntax</rdf:li>
+      <rdf:li>Apendix B: Rapid Prototyping, the Mini-PABX</rdf:li>
+      <rdf:li>Bibliography</rdf:li>
+      <rdf:li>Index</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Introduction">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Software Engineering</rdf:li>
+      <rdf:li>Software Life Cycle</rdf:li>
+      <rdf:li>Abstract Data Types and Specifications</rdf:li>
+      <rdf:li>Why Specifications?</rdf:li>
+      <rdf:li>Why Formal Specifications?</rdf:li>
+      <rdf:li>Algebraic Specifications, an Intuitive Approach</rdf:li>
+      <rdf:li>Survey</rdf:li>
+      <rdf:li>Historical Remarks on Algebraic Specifications</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Abstract Data Types as Initial Algebras">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Many-Sorted Algebra. Signature and Graphical Notation</rdf:li>
+      <rdf:li>Homomorphism and Isomorphism</rdf:li>
+      <rdf:li>Variable-Free Termlanguague</rdf:li>
+      <rdf:li>Word Algebra</rdf:li>
+      <rdf:li>Signature, Variety and Termalgebra</rdf:li>
+      <rdf:li>Signature and Initial Algebra</rdf:li>
+      <rdf:li>Abstract Data Types Defined by a Signature</rdf:li>
+      <rdf:li>Termlanguague</rdf:li>
+      <rdf:li>Substitution and Ground Substitution</rdf:li>
+      <rdf:li>Assignment</rdf:li>
+      <rdf:li>Axioms and Presentation</rdf:li>
+      <rdf:li>Presentation, Variety and Termalgebra</rdf:li>
+      <rdf:li>Equational Reasoning</rdf:li>
+      <rdf:li>Presentation and Initial Algebra</rdf:li>
+      <rdf:li>Abstract Data Types Defined by a Presentation</rdf:li>
+      <rdf:li>Examples</rdf:li>
+      <rdf:li>Induction</rdf:li>
+      <rdf:li>Hidden Operations and Sorts</rdf:li>
+      <rdf:li>Bibliographic Notes</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="An Algebraic Specification Language">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Modularity</rdf:li>
+      <rdf:li>Hierarchical Specifications</rdf:li>
+      <rdf:li>Notational Extensions</rdf:li>
+      <rdf:li>Parameterized Specifications</rdf:li>
+      <rdf:li>Clusters</rdf:li>
+      <rdf:li>Bibliographic Notes</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Modularity">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Modules</rdf:li>
+      <rdf:li>Import and Export Clauses</rdf:li>
+      <rdf:li>Export of the import</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Notational Extensions">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Ifthenelse Construct</rdf:li>
+      <rdf:li>Mixflix Notations</rdf:li>
+      <rdf:li>Conditional Axioms</rdf:li>
+      <rdf:li>Case Constructs</rdf:li>
+      <rdf:li>Let Constructs</rdf:li>
+      <rdf:li>Qualified Names and Renaming</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Constructive Specifications">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Simple Example</rdf:li>
+      <rdf:li>Constructive Specifications</rdf:li>
+      <rdf:li>Theorems</rdf:li>
+      <rdf:li>Equality Operation</rdf:li>
+      <rdf:li>Example</rdf:li>
+      <rdf:li>Constructor Axioms</rdf:li>
+      <rdf:li>Semi-Constructive Specifications</rdf:li>
+      <rdf:li>Inconsistency</rdf:li>
+      <rdf:li>On Constructing Requeriments</rdf:li>
+      <rdf:li>Claiming Modules</rdf:li>
+      <rdf:li>The Cartesian Product of Sorts</rdf:li>
+      <rdf:li>Constructivity and Abstraction</rdf:li>
+      <rdf:li>Bibliographics Notes</rdf:li>
+      <rdf:li></rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="A case Study: the Feery Problem">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Informal Description of the Ferry Problem</rdf:li>
+      <rdf:li>Formal Specification of the Ferry Problem</rdf:li>
+      <rdf:li>The Farmer, the Wolf, the Goat and the Cabbage</rdf:li>
+      <rdf:li>The Missionaries and the Cannibals</rdf:li>
+      <rdf:li>Specifications of a Search Strategy</rdf:li>
+      <rdf:li>Conclusion</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="A case Study: the Mini-PABX">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Object-Oriented Design Method</rdf:li>
+      <rdf:li>Modularity</rdf:li>
+      <rdf:li>The Abstract Data Type Phone</rdf:li>
+      <rdf:li>Error Handling</rdf:li>
+      <rdf:li>The Abstract Data Type Mini-PABX</rdf:li>
+      <rdf:li>The Scheduling of the Messages</rdf:li>
+      <rdf:li>Skeleton of the Mini-PABX</rdf:li>
+      <rdf:li>A Two-Party Voice Call</rdf:li>
+      <rdf:li>Enquiry Call</rdf:li>
+      <rdf:li>User Actions</rdf:li>
+      <rdf:li>Conclusion</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="A Two-Party Voice Call">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>The module Phone</rdf:li>
+      <rdf:li>The module PhoneMessages</rdf:li>
+      <rdf:li>The module NextPhone</rdf:li>
+      <rdf:li>The module OutPhone</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Error Handling">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The Need for an Error Handling System</rdf:li>
+      <rdf:li>Safety Functions</rdf:li>
+      <rdf:li>Safety and Unsafety Markers</rdf:li>
+      <rdf:li>Method of Error Specification</rdf:li>
+      <rdf:li>Safety Conditions</rdf:li>
+      <rdf:li>Miscellanies</rdf:li>
+      <rdf:li>Bibliographic Notes</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Abstract Implementations">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Example of Stacks</rdf:li>
+      <rdf:li>Concepts of Abastract Implementations</rdf:li>
+      <rdf:li>Implementation Constrains</rdf:li>
+      <rdf:li>Example: Scheme of Stacks</rdf:li>
+      <rdf:li>Example: Scheme of Symbol Tables</rdf:li>
+      <rdf:li>Properties and Relations</rdf:li>
+      <rdf:li>Bibliographic Notes</rdf:li>
+      <rdf:li></rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Concepts of Abstract Implementations">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Data Representation Part of !A</rdf:li>
+      <rdf:li>Procedure Implementation Part of !A</rdf:li>
+      <rdf:li>Representation Function</rdf:li>
+      <rdf:li>Implementation Invariant</rdf:li>
+      <rdf:li>Abstraction Function</rdf:li>
+      <rdf:li>Equivalence Relation</rdf:li>
+      <rdf:li>A Multi-Step Implementation Method</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+</rdf:RDF> 

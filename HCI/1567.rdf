@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/HCI/">
+
+<rdf:Description
+rdf:about="DESIGNING INTERFACES">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>WHAT USERS DO</rdf:li>
+      <rdf:li>ORGANIZING THE CONTENT: INFORMATION ARCHITECTURE AND APPLICATION STRUCTURE</rdf:li>
+      <rdf:li>GETTING AROUND: NAVIGATION, SIGNPOSTS, AND WAYFINDING</rdf:li>
+      <rdf:li>ORGANIZING THE PAGE: LAYOUT OF PAGE ELEMENTS</rdf:li>
+      <rdf:li>DOING THINGS: ACTIONS AND COMMANDS</rdf:li>
+      <rdf:li>SHOWING COMPLEX DATA: TREES, TABLES, AND OTHER INFORMATION GRAPHICS</rdf:li>
+      <rdf:li>GETTING INPUT FROM USERS: FORMS AND CONTROLS</rdf:li>
+      <rdf:li>BUILDERS AND EDITORS</rdf:li>
+      <rdf:li>MAKING IT LOOK GOOD: VISUAL STYLE AND AESTHETICS</rdf:li>
+      <rdf:li>REFRENCES</rdf:li>
+      <rdf:li>INDEX</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="WHAT USERS DO">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>A Means to an End</rdf:li>
+      <rdf:li>The Basics of User Research</rdf:li>
+      <rdf:li>Users' Motivation to Learn</rdf:li>
+      <rdf:li>The Patterns</rdf:li>
+      <rdf:li>safe exploration</rdf:li>
+      <rdf:li>instant gratification</rdf:li>
+      <rdf:li>satisficing</rdf:li>
+      <rdf:li>changes in midstream</rdf:li>
+      <rdf:li>deferred choices</rdf:li>
+      <rdf:li>incremental construction</rdf:li>
+      <rdf:li>habituation</rdf:li>
+      <rdf:li>spatial memory</rdf:li>
+      <rdf:li>prospective memory</rdf:li>
+      <rdf:li>streamlined repetition</rdf:li>
+      <rdf:li>keyboard only</rdf:li>
+      <rdf:li>other people's advice</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ORGANIZING THE CONTENT: INFORMATION ARCHITECTURE AND APPLICATION STRUCTURE">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The Basics of Information Architecture: Dividing Stuff Up</rdf:li>
+      <rdf:li>Physical Structure</rdf:li>
+      <rdf:li>The Patterns</rdf:li>
+      <rdf:li>two-panel selector</rdf:li>
+      <rdf:li>canavs plus palette</rdf:li>
+      <rdf:li>one-window drilldown</rdf:li>
+      <rdf:li>alternative views</rdf:li>
+      <rdf:li>wizard</rdf:li>
+      <rdf:li>extras on demand</rdf:li>
+      <rdf:li>intriguing branches</rdf:li>
+      <rdf:li>multi-level help</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="GETTING AROUND: NAVIGATION, SIGNPOSTS, AND WAYFINDING">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Staying Found</rdf:li>
+      <rdf:li>The Cost of Navigation</rdf:li>
+      <rdf:li>The Patterns</rdf:li>
+      <rdf:li>clear entry points</rdf:li>
+      <rdf:li>global navigation</rdf:li>
+      <rdf:li>hub and spoke</rdf:li>
+      <rdf:li>pyramid</rdf:li>
+      <rdf:li>modal panel</rdf:li>
+      <rdf:li>sequence map</rdf:li>
+      <rdf:li>breadcrumbs</rdf:li>
+      <rdf:li>annotated scrollbar</rdf:li>
+      <rdf:li>color-coded sections</rdf:li>
+      <rdf:li>animated transition</rdf:li>
+      <rdf:li>escape hatch</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ORGANIZING THE PAGE: LAYOUT OF PAGE ELEMENTS">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The Basic of Page Layout</rdf:li>
+      <rdf:li>The Patterns</rdf:li>
+      <rdf:li>visual framework</rdf:li>
+      <rdf:li>center stage</rdf:li>
+      <rdf:li>titled sections</rdf:li>
+      <rdf:li>card stack</rdf:li>
+      <rdf:li>closable panels</rdf:li>
+      <rdf:li>movable panels</rdf:li>
+      <rdf:li>right/left alignment</rdf:li>
+      <rdf:li>diagonal balance</rdf:li>
+      <rdf:li>property sheet</rdf:li>
+      <rdf:li>responsive disclosure</rdf:li>
+      <rdf:li>responsive enabling</rdf:li>
+      <rdf:li>liquid layout</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="DOING THINGS: ACTIONS AND COMMANDS">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Pushing the Boundaries</rdf:li>
+      <rdf:li>The Patterns</rdf:li>
+      <rdf:li>button groups</rdf:li>
+      <rdf:li>action panel</rdf:li>
+      <rdf:li>prominent "done" button</rdf:li>
+      <rdf:li>smart menu items</rdf:li>
+      <rdf:li>preview</rdf:li>
+      <rdf:li>progress indicator</rdf:li>
+      <rdf:li>cancelability</rdf:li>
+      <rdf:li>multi-level undo</rdf:li>
+      <rdf:li>command history</rdf:li>
+      <rdf:li>macros</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="SHOWING COMPLEX DATA: TREES, TABLES, AND OTHER INFORMATION GRAPHICS">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The Basics of Information Graphics</rdf:li>
+      <rdf:li>The Patterns</rdf:li>
+      <rdf:li>overview plus detail</rdf:li>
+      <rdf:li>datatips</rdf:li>
+      <rdf:li>dynamic queries</rdf:li>
+      <rdf:li>data brushing</rdf:li>
+      <rdf:li>local zooming</rdf:li>
+      <rdf:li>row striping</rdf:li>
+      <rdf:li>sortable table</rdf:li>
+      <rdf:li>jump to item</rdf:li>
+      <rdf:li>new-item row</rdf:li>
+      <rdf:li>cascading lists</rdf:li>
+      <rdf:li>tree table</rdf:li>
+      <rdf:li>multi-y graph</rdf:li>
+      <rdf:li>small multiples</rdf:li>
+      <rdf:li>treemap</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="GETTING INPUT FROM USERS: FORMS AND CONTROLS">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The Basics of Form Design</rdf:li>
+      <rdf:li>Control Choice</rdf:li>
+      <rdf:li>The Patterns</rdf:li>
+      <rdf:li>forgiving format</rdf:li>
+      <rdf:li>structured format</rdf:li>
+      <rdf:li>fill-in-the-blanks</rdf:li>
+      <rdf:li>input hints</rdf:li>
+      <rdf:li>input prompt</rdf:li>
+      <rdf:li>autocompletion</rdf:li>
+      <rdf:li>dropdown chooser</rdf:li>
+      <rdf:li>illustrated choices</rdf:li>
+      <rdf:li>list builder</rdf:li>
+      <rdf:li>good defaults</rdf:li>
+      <rdf:li>same-page error messages</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="BUILDERS AND EDITORS">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The Basics of Editor Design</rdf:li>
+      <rdf:li>The Patterns</rdf:li>
+      <rdf:li>edit-in-place</rdf:li>
+      <rdf:li>smart selection</rdf:li>
+      <rdf:li>composite selection</rdf:li>
+      <rdf:li>one-off mode</rdf:li>
+      <rdf:li>spring-loaded mode</rdf:li>
+      <rdf:li>constrained resize</rdf:li>
+      <rdf:li>magnetism</rdf:li>
+      <rdf:li>guides</rdf:li>
+      <rdf:li>paste variations</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="MAKING IT LOOK GOOD: VISUAL STYLE AND AESTHETICS">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Same Content, Different Styles</rdf:li>
+      <rdf:li>The Basics of Visual Design</rdf:li>
+      <rdf:li>What This Means for Desktop Applications</rdf:li>
+      <rdf:li>The Patterns</rdf:li>
+      <rdf:li>deep background</rdf:li>
+      <rdf:li>few hues, many values</rdf:li>
+      <rdf:li>corner treatments</rdf:li>
+      <rdf:li>borders that echo fonts</rdf:li>
+      <rdf:li>hairlines</rdf:li>
+      <rdf:li>constrasting font weights</rdf:li>
+      <rdf:li>skins</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

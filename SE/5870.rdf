@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/SE/">
+
+<rdf:Description
+rdf:about="UNA INTRODUCCION A LA INGENIERIA DE SOFTWARE: CARACTERISTICAS DE LA CALIDAD DEL SOFTWARE">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Introducción</rdf:li>
+      <rdf:li>El desarrollo de la ingeniería de software</rdf:li>
+      <rdf:li>Concepto de la Ingeniería de Software</rdf:li>
+      <rdf:li>Características de la calidad del software</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+</rdf:RDF> 

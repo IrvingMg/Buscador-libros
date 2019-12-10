@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/HCI/">
+
+<rdf:Description
+rdf:about="HANDBOOK OF USABILITY TESTING : HOW TO PLAN, DESIGN, AND CONDUCT EFFECTIVE TESTS">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Introduction to Usability Testing</rdf:li>
+      <rdf:li>Preparing for Usability Testing</rdf:li>
+      <rdf:li>Six Stages of Conducting a Test</rdf:li>
+      <rdf:li>Expanding Usability</rdf:li>
+      <rdf:li>Appendix</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Index</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Introduction to Usability Testing">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The Problem of Unusable Products and Systems</rdf:li>
+      <rdf:li>Overview of Usability Testing</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The Problem of Unusable Products and Systems">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>User-Centered Design</rdf:li>
+      <rdf:li>Three Principles of User Centered-Design</rdf:li>
+      <rdf:li>Attributes of Organizations that Practice UCD</rdf:li>
+      <rdf:li>UCD: A Brief Review of Techniques, Methods, and Practices</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Overview of Usability Testing">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Goals of Testing</rdf:li>
+      <rdf:li>Limitations of Testing</rdf:li>
+      <rdf:li>Basics of Test Methodology</rdf:li>
+      <rdf:li>Four Types of Tests: An Overview</rdf:li>
+      <rdf:li>Exploratory Test</rdf:li>
+      <rdf:li>Assessment Test</rdf:li>
+      <rdf:li>Validation Test</rdf:li>
+      <rdf:li>Comparison Test</rdf:li>
+      <rdf:li>Hypothetical Case Study Using the Four Tests</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Preparing for Usability Testing">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Setting Up a Testing Environment</rdf:li>
+      <rdf:li>Testing Roles With Special Emphasis on the Test Monitor</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Setting Up a Testing Environment">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Setting Up the Testing Area</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Testing Roles With Special Emphasis on the Test Monitor">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>The Different Testing Roles</rdf:li>
+      <rdf:li>Role of the Test Monitor</rdf:li>
+      <rdf:li>Characteristics of a Good Test Monitor</rdf:li>
+      <rdf:li>Typical Test Monitor Problems</rdf:li>
+      <rdf:li>Getting the Most Out of Your Participants</rdf:li>
+      <rdf:li>How to Improve Your Test Monitoring Skills</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Six Stages of Conducting a Test">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Developing the Test Plan</rdf:li>
+      <rdf:li>Selecting and Acquiring Participants</rdf:li>
+      <rdf:li>Preparing the Test Materials</rdf:li>
+      <rdf:li>Conducting the Test</rdf:li>
+      <rdf:li>Debriefing the Participant</rdf:li>
+      <rdf:li>Transforming Data into Findings and Recommendations</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Developing the Test Plan">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Suggested Format</rdf:li>
+      <rdf:li>Sample Test Plan</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Selecting and Acquiring Participants">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Characterize the User</rdf:li>
+      <rdf:li>Where to Look for Information About the End User</rdf:li>
+      <rdf:li>Differentiate Between Purchaser and End User</rdf:li>
+      <rdf:li>Divide the User Profile into Distinct End User Categories</rdf:li>
+      <rdf:li>Operationally Define and Document the Criteria for Each Group</rdf:li>
+      <rdf:li>Choose the Number of Participants to Test</rdf:li>
+      <rdf:li>Include a Few Least Competent Users in Every Testing Sample</rdf:li>
+      <rdf:li>Some Other Considerations for Participant Selection</rdf:li>
+      <rdf:li>Acquiring Particpants</rdf:li>
+      <rdf:li>Some Thoughts on Participant Compensation</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Preparing the Test Materials">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>The Screening Questionnaire</rdf:li>
+      <rdf:li>The Orientation Script</rdf:li>
+      <rdf:li>The Background Questionnaire</rdf:li>
+      <rdf:li>The Data Collection Instruments (Data Loggers)</rdf:li>
+      <rdf:li>The Nondisclosure Agreement and Tape Consent Form</rdf:li>
+      <rdf:li>The Pretest Questionnaire</rdf:li>
+      <rdf:li>The Task Scenarios</rdf:li>
+      <rdf:li>The Prerequisite Training Materials (Optional)</rdf:li>
+      <rdf:li>The Written Posttest Questionnaire</rdf:li>
+      <rdf:li>The Debriefing Topics Guide</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Conducting the Test">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Guidelines for Monitoring the Test</rdf:li>
+      <rdf:li>Using Checklists</rdf:li>
+      <rdf:li>Some Frequently Asked Questions</rdf:li>
+      <rdf:li>What Not to Say to Participants</rdf:li>
+      <rdf:li>Variations on the Basic Testing Method</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Debriefing the Participant">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Purpose</rdf:li>
+      <rdf:li>Some General Interrogation Guidelines</rdf:li>
+      <rdf:li>Where to Hold the Debriefing Session</rdf:li>
+      <rdf:li>Basic Debriefing Guidelines</rdf:li>
+      <rdf:li>Advanced Debriefing Guidelines and Techniques</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Transforming Data into Findings and Recommendations">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Compile and Summarize Data</rdf:li>
+      <rdf:li>Analyze Data</rdf:li>
+      <rdf:li>Develop Recommendations</rdf:li>
+      <rdf:li>Produce the Final Report</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Expanding Usability">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Establishing a Usability Program: Strategis and Tactics</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Establishing a Usability Program: Strategis and Tactics">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Phase I: Getting Started</rdf:li>
+      <rdf:li>Phase II: Extending Further</rdf:li>
+      <rdf:li>Phase III: Sowing the Seeds</rdf:li>
+      <rdf:li>Phase IV: New Horizons</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+</rdf:RDF> 

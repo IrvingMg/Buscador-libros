@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/AI/">
+
+<rdf:Description
+rdf:about="ARTIFICIAL INTELLIGENCE">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>What Is Artificial Intelligence?</rdf:li>
+      <rdf:li>Problems, Problem Spaces, and Search</rdf:li>
+      <rdf:li>Heuristic Search Techniques</rdf:li>
+      <rdf:li>Knowledge Representation Issues</rdf:li>
+      <rdf:li>Using Predicate Logic</rdf:li>
+      <rdf:li>Representing Knowledge Using Rules</rdf:li>
+      <rdf:li>Symbolic Reasoning under Uncertainty</rdf:li>
+      <rdf:li>Statistical Reasoning</rdf:li>
+      <rdf:li>Weak Slot-and-Filler-Structures</rdf:li>
+      <rdf:li>Strong Slot-and-Filler Structures</rdf:li>
+      <rdf:li>Knowledge Representation Summary</rdf:li>
+      <rdf:li>Game Playing</rdf:li>
+      <rdf:li>Planning</rdf:li>
+      <rdf:li>Understanding</rdf:li>
+      <rdf:li>Natural Language Processing</rdf:li>
+      <rdf:li>Parallel and Distributed AI</rdf:li>
+      <rdf:li>Learning</rdf:li>
+      <rdf:li>Connectionist Models</rdf:li>
+      <rdf:li>Common Sense</rdf:li>
+      <rdf:li>Expert Systems</rdf:li>
+      <rdf:li>Perception and Action</rdf:li>
+      <rdf:li>Conclusion</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Acknowledgements</rdf:li>
+      <rdf:li>Author Index</rdf:li>
+      <rdf:li>Subject Index</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="What Is Artificial Intelligence?">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The AI Problems</rdf:li>
+      <rdf:li>The Underlying Assumption</rdf:li>
+      <rdf:li>What Is an Ai Technique?</rdf:li>
+      <rdf:li>The Level of the Model</rdf:li>
+      <rdf:li>Criteria for Success</rdf:li>
+      <rdf:li>Some General References</rdf:li>
+      <rdf:li>One Final Word</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Problems, Problem Spaces, and Search">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Defining the Problem as a State Space Search</rdf:li>
+      <rdf:li>Production Systems</rdf:li>
+      <rdf:li>Problem Characteristics</rdf:li>
+      <rdf:li>Production System Characteristics</rdf:li>
+      <rdf:li>Issues in the Design of Search Programs</rdf:li>
+      <rdf:li>Additional Problems</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Heuristic Search Techniques">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Generate-and-Test</rdf:li>
+      <rdf:li>Hill Climbing</rdf:li>
+      <rdf:li>Best-First Search</rdf:li>
+      <rdf:li>Problem Reduction</rdf:li>
+      <rdf:li>Constraint Satisfaction</rdf:li>
+      <rdf:li>Means-End-Analysis</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Knowledge Representation Issues">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Representations and Mappings</rdf:li>
+      <rdf:li>Approaches to Knowledge Representation</rdf:li>
+      <rdf:li>Issues in Knowledge Representation</rdf:li>
+      <rdf:li>The Frame Problem</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Using Predicate Logic">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Representing Simple Facts in Logic</rdf:li>
+      <rdf:li>Representing Instance and Isa Relationships</rdf:li>
+      <rdf:li>Computable Functions and Predicates</rdf:li>
+      <rdf:li>Resolution</rdf:li>
+      <rdf:li>Natural Deduction</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Representing Knowledge Using Rules">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Procedural versus Declarative Knowledge</rdf:li>
+      <rdf:li>Logic Programming</rdf:li>
+      <rdf:li>Forward versus Backward Reasoning</rdf:li>
+      <rdf:li>Matching</rdf:li>
+      <rdf:li>Control Knowledge</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Symbolic Reasoning under Uncertainty">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction to Nonmonotonic Reasoning</rdf:li>
+      <rdf:li>Logics for Nonmonotonic Reasoning</rdf:li>
+      <rdf:li>Implementation Issues</rdf:li>
+      <rdf:li>Augmenting a Problem Solver</rdf:li>
+      <rdf:li>Implementation: Depth-First Search</rdf:li>
+      <rdf:li>Implementation: Breadth-First Search</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Statistical Reasoning">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Probability and Bayes' Theorem</rdf:li>
+      <rdf:li>Certainty Factors and Rule-Based Systems</rdf:li>
+      <rdf:li>Bayesian Networks</rdf:li>
+      <rdf:li>Dempster-Shafer Theory</rdf:li>
+      <rdf:li>Fuzzy Logic</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Weak Slot-and-Filler-Structures">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Semantic Nets</rdf:li>
+      <rdf:li>Frames</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Strong Slot-and-Filler Structures">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Conceptual Dependency</rdf:li>
+      <rdf:li>Scripts</rdf:li>
+      <rdf:li>CYC</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Knowledge Representation Summary">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Syntactic-Semantic Spectrum of Representation</rdf:li>
+      <rdf:li>Logic and Slot-and-Filler Structures</rdf:li>
+      <rdf:li>Other Representational Techniques</rdf:li>
+      <rdf:li>Summary of the Role of Knowledge</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

@@ -1,0 +1,77 @@
+
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/HCI/">
+
+<rdf:Description
+rdf:about="The Psychology of Human-Computer Interaction">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Preface</rdf:li>
+      <rdf:li>SCIENCE BASE</rdf:li>
+      <rdf:li>TEXT-EDITING</rdf:li>
+      <rdf:li>ENGINEERING MODELS</rdf:li>
+      <rdf:li>TEXT-EDITING</rdf:li>
+      <rdf:li>Symbol Glossary</rdf:li>
+      <rdf:li>Bibliographic Index</rdf:li>
+      <rdf:li>Subject Index</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Preface">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>An Applied Information-Processing Psychology</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="SCIENCE BASE">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The Human Information-Processor</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="TEXT-EDITING">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>System and User Variability</rdf:li>
+      <rdf:li>An Exercise in Task Analysis</rdf:li>
+      <rdf:li>The GOMS Model of Manuscript Editing</rdf:li>
+      <rdf:li>Extensions of the GOMS Analysis</rdf:li>
+      <rdf:li>Models of Devices for Text Selection</rdf:li> 
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ENGINEERING MODELS">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The Keystroke-Level Model</rdf:li>
+      <rdf:li>The Unit-Task Level of Analysis</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="EXTENSIONS AND GENERALIZATIONS">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>An Exploration into Circuit Desingn</rdf:li>
+      <rdf:li>Cognitive Skill</rdf:li>
+      <rdf:li>Applying Psychology to Design</rdf:li>
+      <rdf:li>Reprise</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

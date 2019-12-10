@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/SE/">
+
+<rdf:Description
+rdf:about="INGENIERÍA DEL SOFTWARE DE GESTIÓN : ANÁLISIS Y DISEÑO DE APLICACIONES">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>ASPECTOS CONCEPTUALES</rdf:li>
+      <rdf:li>DESCRIPCIÓN DE UNA METODOLOGÍA DE DESARROLLO SOFTWARE (SSADM-V4)</rdf:li>
+      <rdf:li>CÓMO APLICAR LA METODOLOGÍA</rdf:li>
+      <rdf:li>BIBLIOGRAFIA</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ASPECTOS CONCEPTUALES">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>CLARIFICANDO TÉRMINOS</rdf:li>
+      <rdf:li>¿POR QUÉ EL EMPLEO DE UNA METODOLOGÍA DE DESARROLLO DEL SOFTWARE?</rdf:li>
+      <rdf:li>¿QUE HAY QUE SABER PARA ELEGIR O CONSTRUIR UNA METODOLOGÍA?</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="CLARIFICANDO TÉRMINOS">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Ingeniería del software</rdf:li>
+      <rdf:li>Ciclo de desarrollo del software</rdf:li>
+      <rdf:li>Tipos de ciclo de vida</rdf:li>
+      <rdf:li>Metodologías de desarrollo software</rdf:li>
+      <rdf:li>Técicas</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="¿POR QUÉ EL EMPLEO DE UNA METODOLOGÍA DE DESARROLLO DEL SOFTWARE?">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Nivel de madurez software del proceso</rdf:li>
+      <rdf:li>Situación de la industria software española</rdf:li>
+      <rdf:li>La importancia de la metodología</rdf:li>
+      <rdf:li>¿Super programadores o metodología?</rdf:li>
+      <rdf:li>¿No supone la metodología una gran carga?</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="¿QUE HAY QUE SABER PARA ELEGIR O CONSTRUIR UNA METODOLOGÍA?">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Criterios para evaluar una metodología</rdf:li>
+      <rdf:li>¿Qué criterios son más importantes en una metodología?</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="DESCRIPCIÓN DE UNA METODOLOGÍA DE DESARROLLO SOFTWARE (SSADM-V4)">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>MODELO ESTRUCTURAL</rdf:li>
+      <rdf:li>DESCRIPCIÓN DETALLADA</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="MODELO ESTRUCTURAL">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Módulo I: Estudio de facilidad</rdf:li>
+      <rdf:li>Módulo II: Análisis de requisitos</rdf:li>
+      <rdf:li>Módulo III: Especificación de requisitos</rdf:li>
+      <rdf:li>Módulo IV: Especificación del sistema lógico</rdf:li>
+      <rdf:li>Módulo V: Diseño físico</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="DESCRIPCIÓN DETALLADA">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Módulo I: Estudio de facilidad</rdf:li>
+      <rdf:li>Módulo II: Análisis de requisitos</rdf:li>
+      <rdf:li>Módulo III: Especificación de requisitos</rdf:li>
+      <rdf:li>Módulo IV: Especificación del sistema lógico</rdf:li>
+      <rdf:li>Módulo V: Diseño físico</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+
+<rdf:Description
+rdf:about="CÓMO APLICAR LA METODOLOGÍA">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>RELACIONES ENTRE LAS TÉCNICAS Y CASO PRACTICO</rdf:li>
+      <rdf:li>MODELO DE FLUJO DE DATOS (DFM)</rdf:li>
+      <rdf:li>MODELIZACIÓN LÓGICA DE DATOS</rdf:li>
+      <rdf:li>DEFINICIÓN DE REQUISITOS</rdf:li>
+      <rdf:li>DEFINICIÓN DE FUNCIONES</rdf:li>
+      <rdf:li>ANÁLISIS RELACIONAL DE DATOS (ARD)</rdf:li>
+      <rdf:li>MODELIZACIÓN ENTIDADES/EVENTOS</rdf:li>
+      <rdf:li>DISEÑO DE LOS PROCESOS DE DAOS LÓGICA</rdf:li>
+      <rdf:li>DISEÑO DE DIÁLOGOS</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="RELACIONES ENTRE LAS TÉCNICAS Y CASO PRACTICO">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Qué tecnicas utiliza la metodología SSADM y cuándo se utiliza</rdf:li>
+      <rdf:li>Interdependencia entre las técnicas</rdf:li>
+      <rdf:li>Exposición de un caso práctico</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="MODELO DE FLUJO DE DATOS (DFM)">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Qué es</rdf:li>
+      <rdf:li>Componentes</rdf:li>
+      <rdf:li>Para qué sirve</rdf:li>
+      <rdf:li>Proceso de diseño</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="MODELIZACIÓN LÓGICA DE DATOS">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Qué es</rdf:li>
+      <rdf:li>Componentes</rdf:li>
+      <rdf:li>Para qué sirve</rdf:li>
+      <rdf:li>Proceso de diseño</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="DEFINICIÓN DE REQUISITOS">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Qué es</rdf:li>
+      <rdf:li>Componentes</rdf:li>
+      <rdf:li>Para qué sirve</rdf:li>
+      <rdf:li>Proceso de diseño</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="DEFINICIÓN DE FUNCIONES">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Qué es</rdf:li>
+      <rdf:li>Componentes</rdf:li>
+      <rdf:li>Para qué sirve</rdf:li>
+      <rdf:li>Proceso de diseño</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ANÁLISIS RELACIONAL DE DATOS (ARD)">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Qué es</rdf:li>
+      <rdf:li>Componentes</rdf:li>
+      <rdf:li>Para qué sirve</rdf:li>
+      <rdf:li>Proceso de diseño</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="MODELIZACIÓN ENTIDADES/EVENTOS">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Qué es</rdf:li>
+      <rdf:li>Componentes</rdf:li>
+      <rdf:li>Para qué sirve</rdf:li>
+      <rdf:li>Proceso de diseño</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="DISEÑO DE LOS PROCESOS DE LA BASE DE LA LÓGICA">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Qué es</rdf:li>
+      <rdf:li>Componentes</rdf:li>
+      <rdf:li>Para qué sirve</rdf:li>
+      <rdf:li>Proceso de diseño</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="DISEÑO DE DIÁLOGOS">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Qué es</rdf:li>
+      <rdf:li>Componentes</rdf:li>
+      <rdf:li>Para qué sirve</rdf:li>
+      <rdf:li>Proceso de diseño</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+</rdf:RDF> 

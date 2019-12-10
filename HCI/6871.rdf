@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/HCI/">
+
+<rdf:Description
+rdf:about="USABILITY ENGINEERING">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Preface</rdf:li>
+      <rdf:li>Executive Summary</rdf:li>
+      <rdf:li>What Is Usability?</rdf:li>
+      <rdf:li>Generations of User Interfaces</rdf:li>
+      <rdf:li>The Usability Engineering Lifecycle</rdf:li>
+      <rdf:li>Usability Heuristics</rdf:li>
+      <rdf:li>Usability Testing</rdf:li>
+      <rdf:li>Usability Assessment Methods beyond Testing</rdf:li>
+      <rdf:li>Interface Standards</rdf:li>
+      <rdf:li>International User Interfaces</rdf:li>
+      <rdf:li>Future Developments</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+      <rdf:li>Bibliography</rdf:li>
+      <rdf:li>Author Index</rdf:li>
+      <rdf:li>Subject Index</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Preface">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Audience</rdf:li>
+      <rdf:li>Teaching Usability Engineering</rdf:li>
+      <rdf:li>Acknowledgments</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Executive Summary">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Cost Savings</rdf:li>
+      <rdf:li>Usability Now!</rdf:li>
+      <rdf:li>Usability Slogans</rdf:li>
+      <rdf:li>Discount Usability Engineering</rdf:li>
+      <rdf:li>Recipe For Action</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="What Is Usability?">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Usabilityand Other Considerations</rdf:li>
+      <rdf:li>Definition of Usability</rdf:li>
+      <rdf:li>Example: measuring the Usability of Icons</rdf:li>
+      <rdf:li>Usability Trade-Offs</rdf:li>
+      <rdf:li>Categories of Users and Individual User Differences</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Generations of User Interfaces">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Batch Systems</rdf:li>
+      <rdf:li>Line-Oriented Interfaces</rdf:li>
+      <rdf:li>Full-Screen Interfaces</rdf:li>
+      <rdf:li>Graphical User Interfaces</rdf:li>
+      <rdf:li>Next-Generation Interfaces</rdf:li>
+      <rdf:li>Long-Term Trends in Usability</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The Usability Engineering Lifecycle">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Know the User</rdf:li>
+      <rdf:li>Competitive Analysis</rdf:li>
+      <rdf:li>Goal Setting</rdf:li>
+      <rdf:li>Parallel Design</rdf:li>
+      <rdf:li>Participatory Design</rdf:li>
+      <rdf:li>Coordinating the Total Interface</rdf:li>
+      <rdf:li>Guideline and Heuristic Evaluation</rdf:li>
+      <rdf:li>Prototyping</rdf:li>
+      <rdf:li>Interface Evaluation</rdf:li>
+      <rdf:li>Iterative Design</rdf:li>
+      <rdf:li>Follow-Up Studies of Installed Systems</rdf:li>
+      <rdf:li>Meta-Methods</rdf:li>
+      <rdf:li>Prioritizing Usability Activities</rdf:li>
+      <rdf:li>Be Prepared</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Usability Heuristics">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Simple and Natural Dialogue</rdf:li>
+      <rdf:li>Speak the User's Language</rdf:li>
+      <rdf:li>Minimize User Memory Load</rdf:li>
+      <rdf:li>Consistency</rdf:li>
+      <rdf:li>Feedback</rdf:li>
+      <rdf:li>Clearly Marked Exits</rdf:li>
+      <rdf:li>Shortcuts</rdf:li>
+      <rdf:li>Good Error Messages</rdf:li>
+      <rdf:li>Prevent Errors</rdf:li>
+      <rdf:li>Help and Documentation</rdf:li>
+      <rdf:li>Heuristic Evaluation</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Usability Testing">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Test Goals and Test Plans</rdf:li>
+      <rdf:li>Getting Tests Users</rdf:li>
+      <rdf:li>Choosing Experimenters</rdf:li>
+      <rdf:li>Ethical Aspects of Tests with Human Subjects</rdf:li>
+      <rdf:li>Test Tasks</rdf:li>
+      <rdf:li>Stages of a Test</rdf:li>
+      <rdf:li>Performance Measurement</rdf:li>
+      <rdf:li>Thinking Aloud</rdf:li>
+      <rdf:li>Usability Laboratories</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Usability Assessment Methods beyond Testing">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Observation</rdf:li>
+      <rdf:li>Questionnaires and Interviews</rdf:li>
+      <rdf:li>Focus Groups</rdf:li>
+      <rdf:li>Logging Actual Use</rdf:li>
+      <rdf:li>User Feedback</rdf:li>
+      <rdf:li>Choosing Usability Methods</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Interface Standards">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>National, International and Vendor Standars</rdf:li>
+      <rdf:li>Producing Usable In-House Standards</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="International User Interfaces">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>International Graphical Interfaces</rdf:li>
+      <rdf:li>International Usability Engineering</rdf:li>
+      <rdf:li>Guidelines for Internationalization</rdf:li>
+      <rdf:li>Resource Separation</rdf:li>
+      <rdf:li>Multilocale Interfaces</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Future Developments">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Theoretical Solutions</rdf:li>
+      <rdf:li>Technological Solutions</rdf:li>
+      <rdf:li>CAUSE Tools: Computer-Aided Usability Engineering</rdf:li>
+      <rdf:li>Technology Transfer</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Bibliography">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Conference Proceedings</rdf:li>
+      <rdf:li>Journals</rdf:li>
+      <rdf:li>Introduction and Textbooks</rdf:li>
+      <rdf:li>Handbook</rdf:li>
+      <rdf:li>Reprint Collections</rdf:li>
+      <rdf:li>Important Monographs and Collections of Original Papers</rdf:li>
+      <rdf:li>Guidelines</rdf:li>
+      <rdf:li>Videotapes</rdf:li>
+      <rdf:li>Other Bibliographies</rdf:li>
+      <rdf:li>References</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

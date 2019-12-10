@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/AI/">
+
+<rdf:Description
+rdf:about="CONTROVERSIA SOBRE MENTES Y MAQUINAS">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Introducción</rdf:li>
+      <rdf:li>Maquinaria computadora e inteligencia</rdf:li>
+      <rdf:li>El concepto mecánico de mente</rdf:li>
+      <rdf:li>Mentes, máquinas y Gödel</rdf:li>
+      <rdf:li>El juego de imitación</rdf:li>
+      <rdf:li>Mentes y máquinas</rdf:li>
+      <rdf:li>El sentir de los robots</rdf:li>
+      <rdf:li>El profesor Ziff y los robots</rdf:li>
+      <rdf:li>Robots, S.A.</rdf:li>
+      <rdf:li>Bibliografía</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+</rdf:RDF> 

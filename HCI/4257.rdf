@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/HCI/">
+
+<rdf:Description
+rdf:about="THE GUI GUIDE : INTERNATIONAL TERMINOLOGY FOR THE WINDOWS INTERFACE ">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>GUI Terminology Definitions</rdf:li>
+      <rdf:li>GUI Terminology Translations</rdf:li>
+      <rdf:li>Appendixes</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="GUI Terminology Definitions">
+  <bib:subtema>
+    <rdf:Seq>
+    	<rdf:li>THE GUI WINDOWS</rdf:li>
+      <rdf:li>THE GUI MENU</rdf:li>
+      <rdf:li>THE GUI Dialog Box</rdf:li>
+      <rdf:li>Other GUI Visual Elements</rdf:li>
+      <rdf:li>GUI Messages and Status Indicators</rdf:li>
+      <rdf:li>GUI Shortcut and Access Keys</rdf:li>
+      <rdf:li>User Actions</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="GUI Terminology Translations">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Czech</rdf:li>
+      <rdf:li>Danish</rdf:li>
+      <rdf:li>Dutch</rdf:li>
+      <rdf:li>Finnish</rdf:li>
+      <rdf:li>French</rdf:li>
+      <rdf:li>German</rdf:li>
+      <rdf:li>Hungarian</rdf:li>
+      <rdf:li>Italian</rdf:li>
+      <rdf:li>Norwegian</rdf:li>
+      <rdf:li>Polish</rdf:li>
+      <rdf:li>Portuguese</rdf:li>
+      <rdf:li>Russian</rdf:li>
+      <rdf:li>Spanish</rdf:li>
+      <rdf:li>Swedish</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendixes">
+  <bib:subtema>
+    <rdf:Seq>
+    	<rdf:li>Appendix A Keyborads</rdf:li>
+      <rdf:li>Appendix B National Standards</rdf:li>
+      <rdf:li>Appendix C Character Sets</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The GUI Window">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Main Window Elements</rdf:li>
+      <rdf:li>Window Arragements</rdf:li>
+      <rdf:li>Icons</rdf:li>
+      <rdf:li>Pointers and the Focus</rdf:li>
+      <rdf:li>Icons</rdf:li>
+      <rdf:li>Sizing Controls</rdf:li>
+      <rdf:li>Scrolling and Splitting Controls</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The GUI Menu">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Menu Elements</rdf:li>
+      <rdf:li>Menu Commands</rdf:li>
+      <rdf:li>Guidelines for Localizing Menu Names and Menu Commands</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The GUI Dialog Box">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Dialog Box Elements</rdf:li>
+      <rdf:li>Command Buttons</rdf:li>
+      <rdf:li>Dialog Box Controls</rdf:li>
+      <rdf:li>Edit Controls</rdf:li>
+      <rdf:li>Elements of a Font Dialog Box</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Other GUI Visual Elements">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Toolbars and Rulers</rdf:li>
+      <rdf:li>Sizing Handles</rdf:li>
+      <rdf:li>Text Frames</rdf:li>
+      <rdf:li>Toolboxes and Other Graphical Options</rdf:li>
+      <rdf:li>Multimedia Controls</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="GUI Messages and Status Indicators">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Messages Boxes</rdf:li>
+      <rdf:li>Status Bars</rdf:li>
+      <rdf:li>Progress Indicators</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="GUI Shortcut and Access Keys">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Shortcut Keys</rdf:li>
+      <rdf:li>Access Keys</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="User Actions">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Keyboard Actions</rdf:li>
+      <rdf:li>Mouse Actions</rdf:li>
+      <rdf:li>Manipulating Window Appearance</rdf:li>
+      <rdf:li>Selecting Options or Content</rdf:li>
+      <rdf:li>Viewing Document Content</rdf:li>
+      <rdf:li>Removing Document Content</rdf:li>
+      <rdf:li>Linking, Embedding, and Manipulating Objects</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Czech">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Terminology by Category</rdf:li>
+      <rdf:li>Terminology by Alphabet</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Danish">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Terminology by Category</rdf:li>
+      <rdf:li>Terminology by Alphabet</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Dutch">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Terminology by Category</rdf:li>
+      <rdf:li>Terminology by Alphabet</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Finnish">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Terminology by Category</rdf:li>
+      <rdf:li>Terminology by Alphabet</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="French">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Terminology by Category</rdf:li>
+      <rdf:li>Terminology by Alphabet</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="German">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Terminology by Category</rdf:li>
+      <rdf:li>Terminology by Alphabet</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+</rdf:RDF> 

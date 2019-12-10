@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/AI/">
+
+<rdf:Description
+rdf:about="INTELIGENCIA ARTIFICIAL : LA GRAN GUIA">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>LAS RAMAS DE LA IA</rdf:li>
+      <rdf:li>LOS LENGUAJES DE LA IA</rdf:li>
+      <rdf:li>SISTEMAS EXPERTOS</rdf:li>
+      <rdf:li>APRENDIZAJE AUTOMÁTICO</rdf:li>
+      <rdf:li>EL FUTURO DE LA IA</rdf:li>      
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LAS RAMAS DE LA IA">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>¿QUÉ PRETENDE LA IA?</rdf:li>
+      <rdf:li>LA ELECCIÓN DE LOS TEMAS</rdf:li>
+      <rdf:li>GLOSARIO/I</rdf:li>
+      <rdf:li>BIBLIOGRAFÍA ANOTADA/I</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="¿QUÉ PRETENDE LA IA?">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>LA INTELIGENCIA ARTIFICIAL</rdf:li>
+      <rdf:li>LA INTELIGENCIA NATURAL</rdf:li>
+      <rdf:li>LA ACTIVIDAD DE LAS PERSONAS QUE SE DEDICAN A LA IA</rdf:li>
+      <rdf:li>¿CUÁNDO COMENZÓ TODO ESTO?</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LA ELECCIÓN DE LOS TEMAS">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>FUENTES DE REFERENCIA</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LOS LENGUAJES DE LA IA">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>¿POR QUÉ LENGUAJES DE LA IA?</rdf:li>
+      <rdf:li>LISP: PROCESANDO LISTAS</rdf:li>
+      <rdf:li>PROLOG: LA PROGRAMACIÓN VISTA POR LA MATEMATICA</rdf:li>
+      <rdf:li>LA PROGRAMACIÓN ORIENTADA A OBJETOS</rdf:li>
+      <rdf:li>GLOSARIO/II</rdf:li>
+      <rdf:li>BIBLIOGRAFIA ANOTADA/II</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="¿POR QUÉ LENGUAJES DE LA IA?">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>¿POR QUÉ SON IMPORTANTES LOS SÍMBOLOS EN IA?</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LISP: PROCESANDO LISTAS">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>EL ENTORNO TÍPICO</rdf:li>
+      <rdf:li>LAS PRIMERAS EXPRESIONES</rdf:li>
+      <rdf:li>EVALUACIÓN DE EXPRESIONES SIMBÓLICAS</rdf:li>
+      <rdf:li>ALGUNAS FUNCIONES MÁS</rdf:li>
+      <rdf:li>DEFINICIÓN DE FUNCIONES</rdf:li>
+      <rdf:li>LA POTENCIA DE LISP</rdf:li>
+      <rdf:li>NOTAS HISTÓRICAS Y BIBLIOGRÁFICAS</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="PROLOG: LA PROGRAMACIÓN VISTA POR LA MATEMATICA">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>PROGRAMACIÓN IMPERATIVA VS PROGRAMACIÓN DECLARATIVA</rdf:li>
+      <rdf:li>ELEMENTOS BÁSICOS</rdf:li>
+      <rdf:li>CONSULTAS COMPLEJAS</rdf:li>
+      <rdf:li>REGLAS</rdf:li>
+      <rdf:li>LISTAS</rdf:li>
+      <rdf:li>COSAS PENDIENTES</rdf:li>
+      <rdf:li>NOTAS HISTÓRICAS Y BIBLIOGRÁFICAS</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="LA PROGRAMACIÓN ORIENTADA A OBJETOS">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>OBJETOS</rdf:li>
+      <rdf:li>MÉTODOS Y MENSAJES</rdf:li>
+      <rdf:li>JERARQUÍAS</rdf:li>
+      <rdf:li>¿QUÉ TIENE QUE VER LA PROO CON LA IA?</rdf:li>
+      <rdf:li>SMALLTALK</rdf:li>
+      <rdf:li>NOTAS HISTÓRICAS Y BIBLIOGRÁFICAS</rdf:li>
+      <rdf:li>APÉNDICE. UN EJEMPLO EN LISP, PROLOG Y SMALLTALK</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="SISTEMAS EXPERTOS">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>¿QUÉ ES UN SISTEMA EXPERTO?</rdf:li>
+      <rdf:li>CONSTRUCCIÓN DE SISTEMAS EXPERTOS</rdf:li>
+      <rdf:li>HERRAMIENTAS</rdf:li>
+      <rdf:li>OPORTUNIDADES EMPRESARIALES. SISTEMAS EXPERTOS EN ORGANIZACIONES</rdf:li>
+      <rdf:li>GLOSARIO/III</rdf:li>
+      <rdf:li>BIBLIOGRAFIA ANOTADA/III</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="¿QUÉ ES UN SISTEMA EXPERTO?">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>SISTEMAS EXPERTOS VS PROGRAMAS CONVENCIONALES</rdf:li>
+      <rdf:li>CÓMO SE REPRESENTA EL CONOCIMIENTO EN UN SISTEMA EXPERTO</rdf:li>
+      <rdf:li>ESTRUCTURA Y FUNCIONAMIENTO DE UN SISTEMA EXPERTO</rdf:li>
+      <rdf:li>ENCADENAMIENTO DE REGLAS</rdf:li>
+      <rdf:li>EL PROBLEMA DE LA IMPRECISIÓN EN EL CONOCIMIENTO</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="CONSTRUCCIÓN DE SISTEMAS EXPERTOS">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>¿QUÉ ES LA INGENIERÍA DEL CONOCIMIENTO?</rdf:li>
+      <rdf:li>FASES DE CONSTRUCCIÓN DE UN SISTEMA EXPERTO</rdf:li>
+      <rdf:li>METODOLOGÍAS DE CONSTRUCCIÓN. VALIDACIÓN Y VERIFICACIÓN</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="HERRAMIENTAS">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>LOS PROBLEMAS TÍPICOS PARA UN SISTEMA EXPERTO</rdf:li>
+      <rdf:li>CLASIFICACIÓN DE LAS HCSES</rdf:li>
+      <rdf:li>¿QUÉ HAY QUE BUSCAR EN UNA HCSE?</rdf:li>
+      <rdf:li>SISTEMAS COMERCIALES</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="OPORTUNIDADES EMPRESARIALES: SISTEMAS EXPERTOS EN ORGANIZACIONES">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>CÓMO INTRODUCIR LA TECNOLOGÍA</rdf:li>
+      <rdf:li>VENDIENDO LA IDEA</rdf:li>
+      <rdf:li>LA ELECCIÓN DEL PROBLEMA</rdf:li>
+      <rdf:li>LA ELECCIÓN DE LA HERRAMIENTA</rdf:li>
+      <rdf:li>ANTICIPAR PROBLEMAS ORGANIZATIVOS</rdf:li>
+      <rdf:li>FASES EN AL ADOPCIÓN DE LA TECNOLOGÍA</rdf:li>
+      <rdf:li>AREAS DE APLICACIÓN</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="APRENDIZAJE AUTOMÁTICO">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>EL APRENDIZAJE AUTOMÁTICO</rdf:li>
+      <rdf:li>EL ID3</rdf:li>
+      <rdf:li>REDES NEURONALES</rdf:li>
+      <rdf:li>GLOSARIO/IV</rdf:li>
+      <rdf:li>BIBLIOGRAFIA ANOTADA/IV</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

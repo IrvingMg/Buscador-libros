@@ -1,0 +1,1013 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/AI/">
+
+<rdf:Description
+rdf:about="INTELIGENCIA ARTIFICIAL: UN ENFOQUE MODERNO">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Prólogo</rdf:li>
+      <rdf:li>Sobre los autores</rdf:li>
+      <rdf:li>Introducción</rdf:li>
+      <rdf:li>Agentes inteligentes</rdf:li>
+      <rdf:li>Resolver problemas mediante búsqueda</rdf:li>
+      <rdf:li>Búsqueda informada y exploración</rdf:li>      
+      <rdf:li>Problemas de satisfacción de restricciones</rdf:li>
+      <rdf:li>Búsqueda entre adversarios</rdf:li>
+      <rdf:li>Agentes lógicos</rdf:li>
+      <rdf:li>Lógica de primer orden</rdf:li>
+      <rdf:li>Inferencia en lógica de primer orden</rdf:li>
+      <rdf:li>Representación del conocimiento</rdf:li>
+      <rdf:li>Planificación</rdf:li>
+      <rdf:li>Planificación y acción en el mundo real</rdf:li>      
+      <rdf:li>Incertidumbre</rdf:li>
+      <rdf:li>Razonamiento probabilista</rdf:li>
+      <rdf:li>Razonamiento probabilista en el tiempo</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Introducción">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>¿Qué es la IA?</rdf:li>
+      <rdf:li>Los fundamentos de la inteligencia artificial</rdf:li>
+      <rdf:li>Historia de la inteligencia artificial</rdf:li>
+      <rdf:li>El estado del arte</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="¿Qué es la IA?">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Comportamiento humano: el enfoque de la Prueba de Turing</rdf:li>
+      <rdf:li>Pensar como un humano: el enfoque del modelo cognitivo</rdf:li>
+      <rdf:li>Pensamiento racional: el enfoque de las "leyes del pensamiento"</rdf:li>
+      <rdf:li>Actuar de forma racional: el enfoque del agente racional</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Los fundamentos de la inteligencia artificial">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Filosofía (desde el año 428 a.c. hasta el presente)</rdf:li>
+      <rdf:li>Matemáticas (aproximadamente desde el año 800 al presente)</rdf:li>
+      <rdf:li>Economía (desde el año 1776 hasta el presente)</rdf:li>
+      <rdf:li>Neurociencia (desde el año 186 1 hasta el presente)</rdf:li>
+      <rdf:li>Psicología (desde el año 1879 hasta el presente)</rdf:li>
+      <rdf:li>Ingeniería computacional (desde el año 1940 hasta el presente)</rdf:li>
+      <rdf:li>Teoría de control y cibernética (desde e1 año 1948 hasta el presente)</rdf:li>
+      <rdf:li>Lingüística (desde el año 1957 hasta el presente)</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Historia de la inteligencia artificial">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Génesis de la inteligencia artificial (1943- 1955)</rdf:li>
+      <rdf:li>Nacimiento de la inteligencia artificial (1956)</rdf:li>
+      <rdf:li>Entusiasmo inicial, grandes esperanzas (1952- 1969)</rdf:li>
+      <rdf:li>Una dosis de realidad (1966- 1973)</rdf:li>
+      <rdf:li>Sistemas basados en el conocimiento: ¿clave del poder (1969-1979)</rdf:li>
+      <rdf:li>La IA se convierte en una industria (desde 1980 hasta el presente)</rdf:li>
+      <rdf:li>Regreso de las redes neuronales (desde 1986 hasta el presente)</rdf:li>
+      <rdf:li>IA se convierte en una ciencia (desde 1987 hasta el presente)</rdf:li>
+      <rdf:li>Emergencia de los sistemas inteligentes (desde 1995 hasta el presente)</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Agentes inteligentes">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Agentes y su entorno</rdf:li>
+      <rdf:li>Buen comportamiento: el concepto de racionalidad</rdf:li>
+      <rdf:li>La naturaleza del entorno</rdf:li>
+      <rdf:li>Estructura de los agentes</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Buen comportamiento: el concepto de racionalidad">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Medidas de rendimiento</rdf:li>
+      <rdf:li>Racionalidad</rdf:li>
+      <rdf:li>Omnisciencia, aprendizaje y autonomía</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La naturaleza del entorno">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Especificación del entorno de trabajo</rdf:li>
+      <rdf:li>Propiedades de los entornos de trabajo</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Estructura de los agentes">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Programas de los agentes</rdf:li>
+      <rdf:li>Agentes reactivos simples</rdf:li>
+      <rdf:li>Agentes reactivos simples</rdf:li>
+      <rdf:li>Agentes reactivos basados en modelos</rdf:li>
+      <rdf:li>Agentes basados en modelos</rdf:li>
+      <rdf:li>Agentes basados en objetivos</rdf:li>
+      <rdf:li>Agentes vasados en utilidad</rdf:li>
+      <rdf:li>Agentes que aprenden</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Resolver problemas mediante búsqueda">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Agentes resolventes-problemas</rdf:li>
+      <rdf:li>Ejemplos de problemas</rdf:li>
+      <rdf:li>Búsqueda de soluciones</rdf:li>
+      <rdf:li>Estrategias de búsqueda no informada</rdf:li>
+      <rdf:li>Evitar estados repetidos</rdf:li>
+      <rdf:li>Búsqueda con información parcial</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Agentes resolventes-problemas">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Problemas y soluciones bien definidos</rdf:li>
+      <rdf:li>Formular los problemas</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Ejemplos de problemas">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Problemas de juguete</rdf:li>
+      <rdf:li>Problemas del mundo real</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Búsqueda de soluciones">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Medir el rendimiento de la resolución del problema</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Estrategias de búsqueda no informada">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Búsqueda primero en anchura</rdf:li>
+      <rdf:li>Búsqueda de costo uniforme</rdf:li>
+      <rdf:li>Búsqueda primero en profundidad</rdf:li>
+      <rdf:li>Búsqueda de profundidad limitada</rdf:li>
+      <rdf:li>Búsqueda primero en profundidad con profundidad iterativa</rdf:li>
+      <rdf:li>Búsqueda bidireccional</rdf:li>
+      <rdf:li>Comparación de las estrategias de búsqueda no informada</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Búsqueda con información parcial">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Problemas sin sensores</rdf:li>
+      <rdf:li>Problemas de contingencia</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Búsqueda informada y exploración">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Estrategias de búsqueda informada (heurísticas)</rdf:li>
+      <rdf:li>Funciones heurísticas</rdf:li>
+      <rdf:li>Algoritmos de búsqueda local y problemas de optimización</rdf:li>
+      <rdf:li>Búsqueda local en espacios continuos</rdf:li>
+      <rdf:li>Agentes de búsqueda online y ambientes desconocidos</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Estrategias de búsqueda informada (heurísticas)">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Búsqueda voraz primero el mejor</rdf:li>
+      <rdf:li>Búsqueda A*: minimizar el costo estimado total de la solución</rdf:li>
+      <rdf:li>Búsqueda heurística con memoria acotada</rdf:li>
+      <rdf:li>Aprender a buscar mejor</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Funciones heurísticas">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>El efecto de la precisión heurística en el rendimiento</rdf:li>
+      <rdf:li>Inventar funciones heurísticas admisibles</rdf:li>
+      <rdf:li>Aprendizaje de heurísticas desde la experiencia</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Algoritmos de búsqueda local y problemas de optimización">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Búsqueda de ascensión de colinas</rdf:li>
+      <rdf:li>Búsqueda de temple simulado</rdf:li>
+      <rdf:li>Búsqueda por haz local</rdf:li>
+      <rdf:li>Algoritmos genéticos</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Agentes de búsqueda online y ambientes desconocidos">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Problemas de búsqueda en línea (online)</rdf:li>
+      <rdf:li>Agentes de búsqueda en línea (online)</rdf:li>
+      <rdf:li>Búsqueda local en línea (online)</rdf:li>
+      <rdf:li>Aprendizaje en la búsqueda en línea (online)</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Problemas de satisfacción de restricciones">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Problemas de satisfacción de restricciones</rdf:li>
+      <rdf:li>Búsqueda con vuelta atrás para PSR</rdf:li>
+      <rdf:li>Búsqueda local para problemas de satisfacción de restricciones</rdf:li>
+      <rdf:li>La estructura de los problemas</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Búsqueda con vuelta atrás para PSR">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Variable y ordenamiento de valor</rdf:li>
+      <rdf:li>Propagación de la información a través de las restricciones</rdf:li>
+      <rdf:li>Comprobación hacia delante</rdf:li>
+      <rdf:li>Propagación de restricciones</rdf:li>
+      <rdf:li>Manejo de restricciones especiales</rdf:li>
+      <rdf:li>Vuelta atrás inteligente: mirando hacia atrás</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Búsqueda entre adversarios">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Juegos</rdf:li>
+      <rdf:li>Decisiones óptimas en juegos</rdf:li>
+      <rdf:li>Poda alfa-beta</rdf:li>
+      <rdf:li>Decisiones en tiempo real imperfectas</rdf:li>
+      <rdf:li>Juegos que incluyen un elemento de posibilidad</rdf:li>
+      <rdf:li>Programas de juegos</rdf:li>
+      <rdf:li>Discusión</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Decisiones óptimas en juegos">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Estrategias óptimas</rdf:li>
+      <rdf:li>El algoritmo minimax</rdf:li>
+      <rdf:li>Decisiones óptimas en juegos multi-jugador</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Decisiones en tiempo real imperfectas">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Funciones de evaluación</rdf:li>
+      <rdf:li>Corte de la búsqueda</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Juegos que incluyen un elemento de posibilidad">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Evaluación de la posición en juegos con nodos de posibilidad</rdf:li>
+      <rdf:li>Complejidad del minimaxesperado</rdf:li>
+      <rdf:li>Juegos de cartas</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Agentes lógicos">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Agentes basados en conocimiento</rdf:li>
+      <rdf:li>El mundo en wumpus</rdf:li>
+      <rdf:li>Lógica</rdf:li>
+      <rdf:li>Lógica proposicional: una lógica muy sencilla</rdf:li>
+      <rdf:li>Patrones de razonamiento en lógica proposicional</rdf:li>
+      <rdf:li>Inferencia proposicional efectiva</rdf:li>
+      <rdf:li>Agentes basados en lógica proposicional</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Lógica proposicional: una lógica muy sencilla">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Sintaxis</rdf:li>
+      <rdf:li>Semántica</rdf:li>
+      <rdf:li>Una base de conocimiento sencilla</rdf:li>
+      <rdf:li>Inferencia</rdf:li>
+      <rdf:li>Equivalencia, validez y satisfacibilidad</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Patrones de razonamiento en lógica proposicional">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Resolución</rdf:li>
+      <rdf:li>Forma normal conjuntiva</rdf:li>
+      <rdf:li>Un algoritmo de resolución</rdf:li>
+      <rdf:li>Completitud de la resolución</rdf:li>
+      <rdf:li>Encadenamiento hacia delante y hacia atrás</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Inferencia proposicional efectiva">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Un algoritmo completo con backtracking ("vuelta atrás")</rdf:li>
+      <rdf:li>Algoritmos de búsqueda local</rdf:li>
+      <rdf:li>Problemas duros de satisfacibilidad</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Agentes basados en lógica proposicional">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Encontrar hoyos y wumpus utilizando la inferencia lógica</rdf:li>
+      <rdf:li>Guardar la pista acerca de la localización y la orientación del agente</rdf:li>
+      <rdf:li>Agentes basados en circuitos</rdf:li>
+      <rdf:li>Una comparación</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Lógica de primer orden">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Revisión de la representación</rdf:li>
+      <rdf:li>Sintaxis y semántica de la lógica de primer orden</rdf:li>
+      <rdf:li>Utilizar la lógica de primer orden</rdf:li>
+      <rdf:li>Ingeniería del conocimiento con lógica de primer orden</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Sintaxis y semántica de la lógica de primer orden">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Modelos en lógica de primer orden</rdf:li>
+      <rdf:li>Símbolose interpretaciones</rdf:li>
+      <rdf:li>Términos</rdf:li>
+      <rdf:li>Sentencias atómicas</rdf:li>
+      <rdf:li>Sentencias compuestas</rdf:li>
+      <rdf:li>Cuantificadores</rdf:li>
+      <rdf:li>Cuantificador universal</rdf:li>
+      <rdf:li>Cuantificación existencial</rdf:li>
+      <rdf:li>Cuantificadores anidados</rdf:li>
+      <rdf:li>Conexiones entre cuantificador universal y existencial</rdf:li>
+      <rdf:li>Igualdad</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Utilizar la lógica de primer orden">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Aserciones y peticiones en lógica de primer orden</rdf:li>
+      <rdf:li>El dominio del parentesco</rdf:li>
+      <rdf:li>Números, conjuntos y listas</rdf:li>
+      <rdf:li>El mundo de wumpus</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Ingeniería del conocimiento con lógica de primer orden">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>El proceso de ingeniería del conocimiento</rdf:li>
+      <rdf:li>El dominio de los circuitos electrónicos</rdf:li>
+      <rdf:li>Identificar la tarea</rdf:li>
+      <rdf:li>Recopilar el conocimiento relevante</rdf:li>
+      <rdf:li>Decidir el vocabulario</rdf:li>
+      <rdf:li>Codificar el conocimiento general del dominio</rdf:li>
+      <rdf:li>Codificar la instancia del problema específico</rdf:li>
+      <rdf:li>Plantear peticiones al procedimiento de inferencia</rdf:li>
+      <rdf:li>Depurar la base de conocimiento</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Inferencia en lógica de primer orden">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Lógica proposicional vs Lógica de primer orden</rdf:li>
+      <rdf:li>Unificación y sustitución</rdf:li>
+      <rdf:li>Encadenamiento hacia delante</rdf:li>
+      <rdf:li>Encadenamiento hacias atrás</rdf:li>
+      <rdf:li>Resolución</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Lógica proposicional vs Lógica de primer orden">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Reglas de inferencia para cuantificadores</rdf:li>
+      <rdf:li>Reducción a la inferencia proposicional</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Unificación y sustitución">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Una regla de inferencia de primer orden</rdf:li>
+      <rdf:li>Unificación</rdf:li>
+      <rdf:li>Almacenamiento y recuperación</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Encadenamiento hacia delante">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Cláusulas positivas de primer orden</rdf:li>
+      <rdf:li>Un algoritmo sencillo de encadenamiento hacia delante</rdf:li>
+      <rdf:li>Encadenamiento hacia delante eficiente</rdf:li>
+      <rdf:li>Emparejar reglas con los hechos conocidos</rdf:li>
+      <rdf:li>Encadenamiento hacia delante incremental</rdf:li>
+      <rdf:li>Hechos irrelevantes</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Encadenamiento hacias atrás">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Un algoritmo de encadenamiento hacia atrás</rdf:li>
+      <rdf:li>Programación lógica</rdf:li>
+      <rdf:li>Implementación eficiente de programas lógicos</rdf:li>
+      <rdf:li>Inferencia redundante y bucles infinitos</rdf:li>
+      <rdf:li>Programación lógica con restricciones</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Resolución">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Formas normales conjuntivas en lógica de primer orden</rdf:li>
+      <rdf:li>La regla de inferencia de resolución</rdf:li>
+      <rdf:li>Demostraciones de ejemplo</rdf:li>
+      <rdf:li>Completitud de la resolución</rdf:li>
+      <rdf:li>Manejar la igualdad</rdf:li>
+      <rdf:li>Estrategias de resolución</rdf:li>
+      <rdf:li>Resolución unitaria</rdf:li>
+      <rdf:li>Resolución mediante conjunto soporte</rdf:li>
+      <rdf:li>Resolución lineal</rdf:li>
+      <rdf:li>Subsunción</rdf:li>
+      <rdf:li>Demostradores de teoremas</rdf:li>
+      <rdf:li>Diseño de un demostrador de teoremas</rdf:li>
+      <rdf:li>Ampliar el Prolog</rdf:li>
+      <rdf:li>Demostradores de teoremas como asistentes</rdf:li>
+      <rdf:li>Usos prácticos de los demostradores de teoremas</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Representación del conocimiento">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Ingeniería ontológica</rdf:li>
+      <rdf:li>Categoría y objetos</rdf:li>
+      <rdf:li>Acciones, situaciones y eventos</rdf:li>
+      <rdf:li>Eventos mentales y objetos mentales</rdf:li>
+      <rdf:li>El mundo de la compra por internet</rdf:li>
+      <rdf:li>Sistemas de razonamiento para categorías</rdf:li>
+      <rdf:li>Razonamiento con información por defecto</rdf:li>
+      <rdf:li>Sistemas de mantenimiento de verdad</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Categoría y objetos">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Objetos compuestos</rdf:li>
+      <rdf:li>Medidas</rdf:li>
+      <rdf:li>Sustancias y objetos</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Acciones, situaciones y eventos">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>La ontología del cálculo de situaciones</rdf:li>
+      <rdf:li>Descripción de acciones en el cálculo de situaciones</rdf:li>
+      <rdf:li>Resolver el problema de la representación del marco</rdf:li>
+      <rdf:li>Resolver el problema de la inferencia del marco</rdf:li>
+      <rdf:li>El tiempo y el cálculo de eventos</rdf:li>
+      <rdf:li>Eventos generalizados</rdf:li>
+      <rdf:li>Procesos</rdf:li>
+      <rdf:li>Intervalos</rdf:li>
+      <rdf:li>Flujos y objetos</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eventos mentales y objetos mentales">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Una teoría formal de creencias</rdf:li>
+      <rdf:li>Conocimiento y creencia</rdf:li>
+      <rdf:li>Conocimiento, tiempo y acción</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El mundo de la compra por internet">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Comparación de ofertas</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Sistemas de mantenimiento de verdad">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Redes semánticas</rdf:li>
+      <rdf:li>Lógica descriptiva</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Razonamiento con información por defecto">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Mundos abiertos y cerrados</rdf:li>
+      <rdf:li>Negación como fallo y semánticas de modelado estables</rdf:li>
+      <rdf:li>Circunscripción y lógica por defecto</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Planificación">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>El problema de planifcación</rdf:li>
+      <rdf:li>Planificación con búsquedas en espacios de estado</rdf:li>
+      <rdf:li>Planificación ordenada parcialmente</rdf:li>
+      <rdf:li>Grafos de planificación</rdf:li>
+      <rdf:li>Planificación con lógica proposicional</rdf:li>
+      <rdf:li>Análisis de los enfoques de planificación</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El problema de planifcación">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>El lenguaje de los problemas de planificación</rdf:li>
+      <rdf:li>Expresividad y extensiones</rdf:li>
+      <rdf:li>Ejemplo: transporte de carga aéreo</rdf:li>
+      <rdf:li>Ejemplo: el problema de la rueda de recambio</rdf:li>
+      <rdf:li>Ejemplo: el mundo de los bloques</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Planificación con búsquedas en espacios de estado">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Búsquedas hacia-delante en el espacio de estados</rdf:li>
+      <rdf:li>Búsqedas hacia-atras en el espacio de estados</rdf:li>
+      <rdf:li>Heurísticas para la búsqueda en el espacio de estados</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Planificación ordenada parcialmente">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Ejemplo de planificación de orden parcial</rdf:li>
+      <rdf:li>Planificación de orden parcial con variables independientes</rdf:li>
+      <rdf:li>Heurísticas para planificación de orden parcial</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Grafos de planificación">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Grafos de planificación para estimación de heurísticas</rdf:li>
+      <rdf:li>El algoritmo GRAPHPLAN</rdf:li>
+      <rdf:li>Interrupción de GRAPHPLAN</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Planificación con lógica proposicional">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Descripción de problemas de planificación en lógica proposicional</rdf:li>
+      <rdf:li>Complejidad de codificaciones proposicionales</rdf:li>
+      <rdf:li>Sustancias y objetos</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Planificación y acción en el mundo real">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Tiempo, planificación y recursos</rdf:li>
+      <rdf:li>Redes de planificación jerárquica de tareas</rdf:li>
+      <rdf:li>Planificación y acción en dominios no deterministas</rdf:li>
+      <rdf:li>Planificación condicional</rdf:li>
+      <rdf:li>Vigilancia de ejecución y replanificación</rdf:li>
+      <rdf:li>Planificación continua</rdf:li>
+      <rdf:li>Planificación multiagente</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Tiempo, planificación y recursos">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Programación con restricción de recursos</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Redes de planificación jerárquica de tareas">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Representación de descomposición de acciones</rdf:li>
+      <rdf:li>Modificación de planificadores para su descomposición</rdf:li>
+      <rdf:li>Discusión</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Planificación condicional">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Planificación condicional en entornos completamente observables</rdf:li>
+      <rdf:li>Planificación condicional en entornos parcialmente observables</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Planificación multiagente">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Cooperación: planes y objetivos conjuntos</rdf:li>
+      <rdf:li>Planificación condicional en entornos parcialmente observables</rdf:li>
+      <rdf:li>Mecanismos de coordinación</rdf:li>
+      <rdf:li>Mecanismos de coordinación</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Incertidumbre">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Comportamiento bajo incertidumbre</rdf:li>
+      <rdf:li>Notación básica con probabilidades</rdf:li>
+      <rdf:li>Los axiomas de la probabilidad</rdf:li>
+      <rdf:li>Inferencia usando las distribuciones conjuntas totales</rdf:li>
+      <rdf:li>Independencia</rdf:li>
+      <rdf:li>La Regla de Bayes y su uso</rdf:li>
+      <rdf:li>El mundo wumpus revisado</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Comportamiento bajo incertidumbre">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Manipulación del conocimiento incierto</rdf:li>
+      <rdf:li>Incertidumbre y decisiones racionales</rdf:li>
+      <rdf:li>Diseño de un agente de decisión teórico</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Notación básica con probabilidades">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Proposiciones</rdf:li>
+      <rdf:li>Sucesos atómicos</rdf:li>
+      <rdf:li>Probabilidad priori</rdf:li>
+      <rdf:li>Probabilidad condicional</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Los axiomas de la probabilidad">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Utilización de los axiomas de probabilidad</rdf:li>
+      <rdf:li>Por qué los axiomas de la probabilidad son razonables</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La Regla de Bayes y su uso">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Aplicación de la regla de Bayes: el caso sencillo</rdf:li>
+      <rdf:li>Utilización de la regla de Bayes: combinación de evidencia</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Razonamiento probabilista">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>La representación del conocimiento en un dominio incierto</rdf:li>
+      <rdf:li>La semántica de las redes bayesianas</rdf:li>
+      <rdf:li>Representación eficiente de las distribuciones condicionales</rdf:li>
+      <rdf:li>Inferencia exacta en redes bayesianas</rdf:li>
+      <rdf:li>Inferencia aproximada en redes bayesianas</rdf:li>
+      <rdf:li>Extensión de la probabilidad a representaciones de primer orden</rdf:li>
+      <rdf:li>Otros enfoques al razonamiento con incertidumbre</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La semántica de las redes bayesianas">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>La representación de la distribución conjunta completa</rdf:li>
+      <rdf:li>Un método para la construcción de redes bayesianas</rdf:li>
+      <rdf:li>Compactación y ordenación de nodos</rdf:li>
+      <rdf:li>Relaciones de independencia condicional en redes bayesianas</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Representación eficiente de las distribuciones condicionales">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Redes bayesianas con variables continuas</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Inferencia exacta en redes bayesianas">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Inferencia por enumeración</rdf:li>
+      <rdf:li>El algoritmo de eliminación de variables</rdf:li>
+      <rdf:li>La complejidad de la inferencia exacta</rdf:li>
+      <rdf:li>Algoritmos basados en grupos</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Inferencia aproximada en redes bayesianas">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Métodos de muestreo directo</rdf:li>
+      <rdf:li>Muestreo por rechazo en redes bayesianas</rdf:li>
+      <rdf:li>Ponderación de la verosimilitud</rdf:li>
+      <rdf:li>Inferencia por simulación en cadenas de Markov</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Otros enfoques al razonamiento con incertidumbre">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Métodos basados en reglas para razonamiento con incertidumbre</rdf:li>
+      <rdf:li>Representación de la ignorancia: teoría de Dempster-Shafer</rdf:li>
+      <rdf:li>Representación de la vaguedad: conjuntos difusos y lógica difusa</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Razonamiento probabilista en el tiempo">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>El tiempo y la incertidumbre</rdf:li>
+      <rdf:li>Inferencia en modelos temporales</rdf:li>
+      <rdf:li>Modelos oculos de Markov</rdf:li>
+      <rdf:li>Filtros de Kalman</rdf:li>
+      <rdf:li>Redes bayesianas dinámicas</rdf:li>
+      <rdf:li>Reconocimientos del habla</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Notas bibliograficas e históricas</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El tiempo y la incertidumbre">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Estados y observaciones</rdf:li>
+      <rdf:li>Procesos estacionarios e hipótesis de Markov</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Inferencia en modelos temporales">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Filtrado y predicción</rdf:li>
+      <rdf:li>Suavizado</rdf:li>
+      <rdf:li>Encontrar la secuencia más probable</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Modelos oculos de Markov">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Algoritmos matriciales simplificados</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Filtros de Kalman">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Actualización de distribuciones gaussianas</rdf:li>
+      <rdf:li>Un ejemplo unidimensional sencillo</rdf:li>
+      <rdf:li>El caso general</rdf:li>
+      <rdf:li>Aplicabilidad del filtrado de Kalman</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Redes bayesianas dinámicas">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Construcción de RBDs</rdf:li>
+      <rdf:li>Inferencia exacta en RBDs</rdf:li>
+      <rdf:li>Inferencia aproximada en RBDs</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Reconocimientos del habla">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Sonidos del habla</rdf:li>
+      <rdf:li>Palabras</rdf:li>
+      <rdf:li>Oraciones</rdf:li>
+      <rdf:li>Construcción de un reconocedor del habla</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+</rdf:RDF> 

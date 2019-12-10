@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/AI/">
+
+<rdf:Description
+rdf:about="FILOSOFÍA DE LA INTELIGENCIA ARTIFICIAL">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Abreviaturas</rdf:li>
+      <rdf:li>Introducción</rdf:li>
+      <rdf:li>Bibliografía</rdf:li>
+      <rdf:li>Un cálculo lógico de las ideas inmanentes en la actividad nerviosa</rdf:li>
+      <rdf:li>La maquinaria de computación y la inteligencia</rdf:li>
+      <rdf:li>Mentes, cerebros y programas</rdf:li>
+      <rdf:li>Escape de la habitación china</rdf:li>
+      <rdf:li>La ciencia de la computación como investigación empírica: símbolos y búsqueda</rdf:li>
+      <rdf:li>La inteligencia artificial: un punto de vista personal</rdf:li>
+      <rdf:li>Las ruedas de conocimiento: el problema estructural de la IA</rdf:li>
+      <rdf:li>El manifiesto de la física naïve</rdf:li>
+      <rdf:li>Una crítica de la razón pura</rdf:li>
+      <rdf:li>Los motivos, los mecanismos y las emociones</rdf:li>
+      <rdf:li>Las representaciones distribuidas</rdf:li>
+      <rdf:li>El conexionismo, su competencia y su explicación</rdf:li>
+      <rdf:li>La construcción de una mente versus el modelaje del cerebro: la inteligencia artificial regresa a un punto de ramificación</rdf:li>
+      <rdf:li>Algunas estrategias reductivas en la neurobiología cognoscitiva</rdf:li>
+      <rdf:li>La constucciónconexionista de conceptos</rdf:li>
+      <rdf:li>Acerca de los autores</rdf:li>
+      <rdf:li>Bibliografía seleccionada</rdf:li>
+      <rdf:li>Índice onomástico</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Un cálculo lógico de las ideas inmanentes en la actividad nerviosa">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introducción</rdf:li>
+      <rdf:li>La teoría: redes sin círculos</rdf:li>
+      <rdf:li>La teoría: redes con círculos</rdf:li>
+      <rdf:li>Consecuencias</rdf:li>
+      <rdf:li>Bibliografía</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La teoría: redes sin círculos">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Teorema I</rdf:li>
+      <rdf:li>Teorema II</rdf:li>
+      <rdf:li>Teorema III</rdf:li>
+      <rdf:li>Teorema IV</rdf:li>
+      <rdf:li>Teorema V</rdf:li>
+      <rdf:li>Teorema VI</rdf:li>
+      <rdf:li>Teorema VII</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La teoría: redes con círculos">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Leccion VIII</rdf:li>
+      <rdf:li>Leccion IX</rdf:li>
+      <rdf:li>Leccion X</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La maquinaria de computación y la inteligencia">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>El juego de la imitación</rdf:li>
+      <rdf:li>La crítica del nuevo problema</rdf:li>
+      <rdf:li>Las máquinas que participan en el juego</rdf:li>
+      <rdf:li>Las computadoras digitales</rdf:li>
+      <rdf:li>La universalidad de las computadoras digitales</rdf:li>
+      <rdf:li>Opiniones contrarias a la pregunta principal</rdf:li>
+      <rdf:li>Máquinas que aprenden</rdf:li>
+      <rdf:li>Bibliografía</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Opiniones contrarias a la pregunta principal">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>La objeción teológica</rdf:li>
+      <rdf:li>La objeción de la "cabeza en la arena"</rdf:li>
+      <rdf:li>La objeción matemática</rdf:li>
+      <rdf:li>El argumento de la conciencia</rdf:li>
+      <rdf:li>Argumentos sobre diversas incapacidades</rdf:li>
+      <rdf:li>La objeción de la Lady Lovelace</rdf:li>
+      <rdf:li>El argumento de la continuidad del sistema nervioso</rdf:li>
+      <rdf:li>El argumento de la informalidad del comportamiento</rdf:li>
+      <rdf:li>El argumento de la percepción extrasensorial</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Mentes, cerebros y programas">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>La réplica de los sistemas (Berkeley)</rdf:li>
+      <rdf:li>La réplica del robot (Yale)</rdf:li>
+      <rdf:li>La réplica del simulador de cerebros (Berkeley y MIT)</rdf:li>
+      <rdf:li>La réplica de la combinación (Berkeley y Stanford)</rdf:li>
+      <rdf:li>La réplica de las otras mentes (Yale)</rdf:li>
+      <rdf:li>La réplica de las mansiones múltiples (Berkeley)</rdf:li>
+      <rdf:li>Bibliografía</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La ciencia de la computación como investigación empírica: símbolos y búsqueda">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Los símbolos y los sistemas de símbolos físicos</rdf:li>
+      <rdf:li>La búsqueda heurística</rdf:li>
+      <rdf:li>Conclusiones</rdf:li>
+      <rdf:li>Bibliografía</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Los símbolos y los sistemas de símbolos físicos">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Las leyes de estructura cualitativa</rdf:li>
+      <rdf:li>Los sistemas de símbolos físicos</rdf:li>
+      <rdf:li>El desarrollo de la hipótesis de los sistemas de símbolos</rdf:li>
+      <rdf:li>Las pruebas</rdf:li>
+      <rdf:li>Conclusiones</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La búsqueda heurística">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>La resolución de problemas</rdf:li>
+      <rdf:li>La búsqueda en la resolución de problemas</rdf:li>
+      <rdf:li>Inteligencia sin tanta búsqueda</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La inteligencia artificial: un punto de vista personal">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Las implicaciones de este punto de vista</rdf:li>
+      <rdf:li>Las tendencias actuales</rdf:li>
+      <rdf:li>Imitación versus exploración</rdf:li>
+      <rdf:li>Bibliografía</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Las ruedas de conocimiento: el problema estructural de la IA">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Bibliografía</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El manifiesto de la física naïve">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introducción</rdf:li>
+      <rdf:li>La propuesta: un resumen</rdf:li>
+      <rdf:li>Lo que la propuesta no es</rdf:li>
+      <rdf:li>La gráfica del concepto de axioma: los conglomerados y la densidad</rdf:li>
+      <rdf:li>La proporcion A/C y las formalizaciones reduccionistas</rdf:li>
+      <rdf:li>Los significados, la teoría del modelo y la fidelidad</rdf:li>
+      <rdf:li>La integridad y el cierre</rdf:li>
+      <rdf:li>Algunos conglomerados probables y sus conceptos</rdf:li>
+      <rdf:li>Algunas técnicas estructuradas de formalización</rdf:li>
+      <rdf:li>Por qué necesita hacerse</rdf:li>
+      <rdf:li>Cómo hacerlo</rdf:li>
+      <rdf:li>¿Es esto una ciencia?</rdf:li>
+      <rdf:li>Bibliografía</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

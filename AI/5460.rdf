@@ -1,0 +1,591 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/AI/">
+
+<rdf:Description
+rdf:about="INTRODUCTION TO ARTIFICIAL INTELLIGENCE">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>TAI and Internal Representation</rdf:li>
+      <rdf:li>Lisp</rdf:li>
+      <rdf:li>Vision</rdf:li>
+      <rdf:li>Parsing Language</rdf:li>
+      <rdf:li>Search</rdf:li>
+      <rdf:li>Logic and Deduction</rdf:li>
+      <rdf:li>Memory Organization and Deduction</rdf:li>
+      <rdf:li>Abduction, Uncertainty and Expert Systems</rdf:li>
+      <rdf:li>Managing Plans of Action</rdf:li>
+      <rdf:li>Language Comprehension</rdf:li>
+      <rdf:li>Learning</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Index</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="TAI and Internal Representation">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Artificial Intelligence and the World</rdf:li>
+      <rdf:li>What Is Artificial Intelligence?</rdf:li>
+      <rdf:li>Representation in AI</rdf:li>
+      <rdf:li>The Predicate Calculus</rdf:li>
+      <rdf:li>Other Kinds of Interface</rdf:li>
+      <rdf:li>Indexing, Pointers, and Alternative Notations</rdf:li>
+      <rdf:li>References and Further Reading</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Predicate Calculus">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Predicate Calculus</rdf:li>
+      <rdf:li>Conectives</rdf:li>
+      <rdf:li>Variables and Quabtification</rdf:li>
+      <rdf:li>How to Use the Predicate Calculus</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Indexing, Pointers, and Alternative Notations">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Indexing</rdf:li>
+      <rdf:li>The Isa Hierarchy</rdf:li>
+      <rdf:li>Slot-Assertinon Notation</rdf:li>
+      <rdf:li>Frame Notacion</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Lisp">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Why Lisp?</rdf:li>
+      <rdf:li>Lips</rdf:li>
+      <rdf:li>Typing at Lisp</rdf:li>
+      <rdf:li>Defining Programs</rdf:li>
+      <rdf:li>Basic Flow of Control in Lisp</rdf:li>
+      <rdf:li>Lisp Style</rdf:li>
+      <rdf:li>Atoms and Lists</rdf:li>
+      <rdf:li>Basic Debugging</rdf:li>
+      <rdf:li>Building Up List Structure</rdf:li>
+      <rdf:li>More on Predicates</rdf:li>
+      <rdf:li>Properties</rdf:li>
+      <rdf:li>Pointers, Cell Notation, and the Internals(Almost) of List</rdf:li>
+      <rdf:li>Destructive Modification of Lists</rdf:li>
+      <rdf:li>The for Function</rdf:li>
+      <rdf:li>Recursion</rdf:li>
+      <rdf:li>Scope of Variables</rdf:li>
+      <rdf:li>Input/Output</rdf:li>
+      <rdf:li>Macros</rdf:li>
+      <rdf:li>References and Further Reading</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Vision">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Defining the Problem</rdf:li>
+      <rdf:li>Overview of the Solution</rdf:li>
+      <rdf:li>Early Processing</rdf:li>
+      <rdf:li>Representing and Recognizing Scenes</rdf:li>
+      <rdf:li>References and Further Reading</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Eary Processing">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Gray-Level Image to Primal Sketch</rdf:li>
+      <rdf:li>Convolution with Gaussians (Optional)</rdf:li>
+      <rdf:li>Virtual Lines</rdf:li>
+      <rdf:li>Stereo Disparity</rdf:li>
+      <rdf:li>Texture</rdf:li>
+      <rdf:li>Intrinsic Image</rdf:li>
+      <rdf:li>Cooperative Algorithms</rdf:li>
+      <rdf:li>Vertex Analysis and Line Labeling</rdf:li>      
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Representing and Recognizing Scenes">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Shape Description</rdf:li>
+      <rdf:li>Matching Shape Descriptions</rdf:li>
+      <rdf:li>Finding a Known Shape to Match Against</rdf:li>
+      <rdf:li>Describing a Seen Shape</rdf:li>
+      <rdf:li>References and Further Reading</rdf:li>
+      <rdf:li>Exercises</rdf:li>    
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Parsing Language">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Levels of Language</rdf:li>
+      <rdf:li>Expressing the Rules of Syntax</rdf:li>
+      <rdf:li>Syntatic Parsing</rdf:li>
+      <rdf:li>Building an ATN Interpreter (Optional)</rdf:li>
+      <rdf:li>From Syntax to Semantics</rdf:li>
+      <rdf:li>When Semantics, When Syntax?</rdf:li>
+      <rdf:li>References and Further Reading</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Expressing the Rules of Syntax">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Why We Need Rulex of Syntax</rdf:li>
+      <rdf:li>Diagramming Sentences</rdf:li>
+      <rdf:li>Why Do We Care about Setence Structure?</rdf:li>
+      <rdf:li>Context-Free Grammars</rdf:li>
+      <rdf:li>Dictionaries and Features</rdf:li>
+      <rdf:li>Transformational Grammar (Optional)</rdf:li>    
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Syntactic Parsing">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Top-Down and Bottom-Up Parsing</rdf:li>
+      <rdf:li>Transition Network Parser</rdf:li>
+      <rdf:li>Augmented Transition Networks (Optional)</rdf:li>
+      <rdf:li> Movement Rules in ATN Grammars (Optional)</rdf:li>   
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Building an ATN Interpreter (Optional)">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>A Non-Backtracking ATN Interpreter</rdf:li>
+      <rdf:li> A Backtracking ATN Interpreter</rdf:li>
+      <rdf:li>  Alternative Search Strategies</rdf:li>   
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="From Syntax to Semantic">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>The Interpretation of Definite Noun Phrases</rdf:li>
+      <rdf:li> Case Grammar and the Meaning of Verbs</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="When Semantics, When Syntax">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>The Syntactic Use of Semantic Knowledge</rdf:li>
+      <rdf:li>The Organization of Parsing</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Search">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>A Search Algorithm</rdf:li>
+      <rdf:li>Goal Trees</rdf:li>
+      <rdf:li>Game Trees (Optional)</rdf:li>
+      <rdf:li>Avoiding Repeated States</rdf:li>
+      <rdf:li>Transition-oriented State Representations (Optional)</rdf:li>
+      <rdf:li>GPS</rdf:li>
+      <rdf:li>Continuous Optimization (Optional)</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>References and Further Reading</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Introduction">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>The Need for Guesswork</rdf:li>
+      <rdf:li> Search Problems</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Goal Trees">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Formal Definition</rdf:li>
+      <rdf:li>Searching Goal Tree</rdf:li>
+      <rdf:li>Formalism Revisited</rdf:li>
+      <rdf:li>ATN Parsing as a Search Problem (Optional)</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Game Trees (Optional)">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Game Trees as Goal Trees</rdf:li>
+      <rdf:li>Minimax Search</rdf:li>
+      <rdf:li>Actual Game Playing</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Logic and Deduction">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Using Predicate Calculus</rdf:li>
+      <rdf:li>Deduction as Search</rdf:li>
+      <rdf:li>GApplications of Theorem Proving</rdf:li>
+      <rdf:li>Advanced Topics in Representation</rdf:li>
+      <rdf:li>Complete Resolution (Optional)</rdf:li>
+      <rdf:li>References and Further Reading</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Using Predicate Calculus">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Syntax and Semantics</rdf:li>
+      <rdf:li>Some Abstract Representations</rdf:li>
+      <rdf:li>Quantifiers and Axioms</rdf:li>
+      <rdf:li>Encoding Facts as Predicate Calculus</rdf:li>
+      <rdf:li>Discussion</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Deduction as Search">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Forward Chaining and Unification</rdf:li>
+      <rdf:li>Skolemization</rdf:li>
+      <rdf:li>Backward Chaining</rdf:li>
+      <rdf:li>Goal Trees for Backward Chaining</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Applications of Theorem Proving">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Mathematical Theorem Proving</rdf:li>
+      <rdf:li>Deductive Retrieval and Logic Programming</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Advanced Topics in Representation">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Nonmonotonic Reasoning</rdf:li>
+      <rdf:li>Using X-Expressions as Descriptions (Optional)</rdf:li>
+      <rdf:li> Modal and Intensional Logics (Optional)</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Complete Resolution (Optional)">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>The General Resolution Rule</rdf:li>
+      <rdf:li>Search Algorithms for Resolution</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Memory Organization and Deduction">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The Importance of Memory Organization</rdf:li>
+      <rdf:li>Approaches to Memory Organization</rdf:li>
+      <rdf:li>Data Dependencies</rdf:li>
+      <rdf:li>Reasoning Involving Time</rdf:li>
+      <rdf:li>Spatial Reasoning</rdf:li>
+      <rdf:li>Rule-Based Programming</rdf:li>
+      <rdf:li>References and Further Reading</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Approaches to Memory Organization">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Indexing Predicate-Calculus Assertions</rdf:li>
+      <rdf:li>Associative Networks</rdf:li>
+      <rdf:li>Property Inheritance</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Reasoning Involving Time">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>The Situation Calculus</rdf:li>
+      <rdf:li>Temporal System Analysis</rdf:li>
+      <rdf:li>Time-Map Management</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Abduction, Uncertainty and Expert Systems">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>What Is Abduction?</rdf:li>
+      <rdf:li>Statistics in Abduction</rdf:li>
+      <rdf:li>The Mycin Program for Infectious Diseases</rdf:li>
+      <rdf:li>Search Considerations in Abduction</rdf:li>
+      <rdf:li>Multiple Diseases</rdf:li>
+      <rdf:li>Caduceus</rdf:li>
+      <rdf:li>Bayesian Inference Network</rdf:li>
+      <rdf:li>Still More Complicated Cases</rdf:li>
+      <rdf:li>References and Further Reading</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="What Is Abduction?">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Abduction and Causation</rdf:li>
+      <rdf:li>Abduction and Evidence</rdf:li>
+      <rdf:li>Expert System</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Statistics in Abduction">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Basic Definitions</rdf:li>
+      <rdf:li>Bayes's Theorem</rdf:li>
+      <rdf:li>The Problem of Multiple Symptoms</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Search Considerations in Abduction">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Search Strategy in Mycin</rdf:li>
+      <rdf:li>Bottom-Up Abduction</rdf:li>
+      <rdf:li>Search in Caduceus</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Multiple Diseases">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Multiple Diseases According to Bayes</rdf:li>
+      <rdf:li>Bottom-Up Abduction</rdf:li>
+      <rdf:li>Heuristic Techniques</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Managing Plans of Action">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>What Is Abduction?</rdf:li>
+      <rdf:li>Basic Plan Interpreter</rdf:li>
+      <rdf:li>Planning Decisions</rdf:li>
+      <rdf:li>Execution Monitoring and Replanning</rdf:li>
+      <rdf:li>Domains of Application</rdf:li>
+      <rdf:li>References and Further Reading</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Planning Decisions">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Anticipating Protection Violations</rdf:li>
+      <rdf:li>Choosing Objects to Use</rdf:li>
+      <rdf:li>Temporally Restricted Goals</rdf:li>
+      <rdf:li>Planning by Searching through Situation</rdf:li>
+      <rdf:li>Shallow Reasoning about Plan</rdf:li>
+      <rdf:li>Decision Theory</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Planning Decisions">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Robot Motion Planning</rdf:li>
+      <rdf:li>Game Playing</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Language Comprehension">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Story Comprehension as Abduction</rdf:li>
+      <rdf:li>Determining Motivation</rdf:li>
+      <rdf:li>Generalizing the Model</rdf:li>
+      <rdf:li>Details of Motivation Analysis (Optional)</rdf:li>
+      <rdf:li>Speech Acts and Conversation</rdf:li>
+      <rdf:li>Disambiguation of Language</rdf:li>
+      <rdf:li>Where We Have Been, and Where We Are Going</rdf:li>
+      <rdf:li>References and Further Reading</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Determining Motivation">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Motivation Analysis = Plan Synthesis in Reverse</rdf:li>
+      <rdf:li>Deciding Between Motivations</rdf:li>
+      <rdf:li>When to Stop</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Generalizing the Model">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Abductive Projection</rdf:li>
+      <rdf:li>Understanding Obstacles to Plans</rdf:li>
+      <rdf:li>Subsumption Goals and repeat-until</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Details of Motivation Analysis (Optional)">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Abductive Matching</rdf:li>
+      <rdf:li>Finding Possible Motivations </rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Details of Motivation Analysis (Optional)">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Speech Acts in Problem Solving</rdf:li>
+      <rdf:li>The Recognition of Speech Acts</rdf:li>
+      <rdf:li>Conversations</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Disambiguation of Language">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Referential Ambiguity and Context</rdf:li>
+      <rdf:li>Conversation and Reference</rdf:li>
+      <rdf:li>Word Sense Disambiguation</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Learning">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Learning as Induction</rdf:li>
+      <rdf:li>Failure-driven Learning</rdf:li>
+      <rdf:li>Learning by Being Told</rdf:li>
+      <rdf:li>Learning by Exploration</rdf:li>
+      <rdf:li>Learning Language</rdf:li>
+      <rdf:li>References and Further Reading</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Learning as Induction">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>The Empiricist Algorithm</rdf:li>
+      <rdf:li>Generalization and Specialization</rdf:li>
+      <rdf:li>Matching</rdf:li>
+      <rdf:li>A Matching Algorithm (Optional)</rdf:li>
+      <rdf:li>Analogy</rdf:li>
+      <rdf:li>Indexing for Learning</rdf:li>
+      <rdf:li>Assessment</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Learning Language">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>An Outline of the Problem</rdf:li>
+      <rdf:li> Determining the Internal Representation</rdf:li>
+      <rdf:li>Learning Phrase-structure Rules</rdf:li>
+      <rdf:li>Learning Transformational Rules</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+</rdf:RDF> 

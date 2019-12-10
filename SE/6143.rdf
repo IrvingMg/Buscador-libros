@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/SE/">
+
+<rdf:Description
+rdf:about="SOFTWARE ENGINEERING WITH REUSABLE COMPONENTS">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Software Reuse</rdf:li>
+      <rdf:li>Software Components</rdf:li>
+      <rdf:li>Software Engineering</rdf:li>
+      <rdf:li>Software Documentation</rdf:li>
+      <rdf:li>Closing</rdf:li>
+      <rdf:li>References</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Software Reuse">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Software Reuse</rdf:li>
+      <rdf:li>Technical Aspects of Software Reuse</rdf:li>
+      <rdf:li>Nontechnical Aspects of Software Reuse</rdf:li>
+      <rdf:li>Installing a Reuse Program</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Software Reuse">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introduction and Motivation</rdf:li>
+      <rdf:li>Benefits of Software Reuse</rdf:li>
+      <rdf:li>Obstacles to Software Reuse</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Technical Aspects of Software Reuse">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Reuse Facets</rdf:li>
+      <rdf:li>Reuse Substances</rdf:li>
+      <rdf:li>Reuse Scopes</rdf:li>
+      <rdf:li>Reuse Techniques</rdf:li>
+      <rdf:li>Reuse Intentions</rdf:li>
+      <rdf:li>Reuse Products</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Nontechnical Aspects of Software Reuse">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Legal Issues</rdf:li>
+      <rdf:li>Economic Issues</rdf:li>
+      <rdf:li>Organizationnal Issues</rdf:li>
+      <rdf:li>Measurement Issues</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Installing a Reuse Program">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Steps to Install a Reuse Program</rdf:li>
+      <rdf:li>Management Commitment</rdf:li>
+      <rdf:li>Reuse Motivation</rdf:li>
+      <rdf:li>Third-Party Components</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Software Components">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Software Components</rdf:li>
+      <rdf:li>Component Composition</rdf:li>
+      <rdf:li>Component Attributes</rdf:li>
+      <rdf:li>Component Taxonomy</rdf:li>
+      <rdf:li>Component Examples</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Software Components">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Component Definition</rdf:li>
+      <rdf:li>Component Interfaces</rdf:li>
+      <rdf:li>Component Platforms</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Component Composition">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Forms of Composition</rdf:li>
+      <rdf:li>Forms of Interoperation</rdf:li>
+      <rdf:li>Composition Mismatches</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Component Attributes">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Functionality</rdf:li>
+      <rdf:li>Interactivity</rdf:li>
+      <rdf:li>Interaction</rdf:li>
+      <rdf:li>Concurrency</rdf:li>
+      <rdf:li>Distribution</rdf:li>
+      <rdf:li>Forms of Adaptation</rdf:li>
+      <rdf:li>Quality Control</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Component Taxonomy">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Taxonomy</rdf:li>
+      <rdf:li>Relacted Work</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Component Examples">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Visual Basic: Reuse of Visual Controls</rdf:li>
+      <rdf:li>Java: Reuse on the Worl-Wide Web</rdf:li>
+      <rdf:li>Unix Filters: Reuse based on ASCII Pipes</rdf:li>
+      <rdf:li>FrameMarker: Reuse of an Application</rdf:li>
+      <rdf:li>Field: Reuse in a Programming Environment</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Software Engineering">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Software Engineering</rdf:li>
+      <rdf:li>Software Process Models</rdf:li>
+      <rdf:li>Domain Engineering</rdf:li>
+      <rdf:li>Component Engineering</rdf:li>
+      <rdf:li>Application Engineering</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Software Engineering">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Software Managament</rdf:li>
+      <rdf:li>Software Specification</rdf:li>
+      <rdf:li>Software Design</rdf:li>
+      <rdf:li>Software Implementation</rdf:li>
+      <rdf:li>Software Testing</rdf:li>
+      <rdf:li>Software Maintenance</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Software Process Models">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Waterfall Model</rdf:li>
+      <rdf:li>Exploratory Model</rdf:li>
+      <rdf:li>Prototyping Model</rdf:li>
+      <rdf:li>Spiral Model</rdf:li>
+      <rdf:li>Twin Life Cycle</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Software Documentation">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Software Documentation</rdf:li>
+      <rdf:li>Reuse Documentation</rdf:li>
+      <rdf:li>Literate Programming</rdf:li>
+      <rdf:li>Reuse Measurement in Literate Programs</rdf:li>
+      <rdf:li>Documentation Reuse</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Closing">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Conclusion</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

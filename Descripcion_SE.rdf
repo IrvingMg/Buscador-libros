@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/">
+
+<rdf:Description
+rdf:about="se/5870.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>5870</bib:ficha>
+  <bib:titulo>UNA INTRODUCCION A LA INGENIERIA DE SOFTWARE : CARACTERISTICAS DE LA CALIDAD DEL SOFTWARE</bib:titulo>
+  <bib:autor>ARDISSON, MONICA</bib:autor>
+  <bib:clasificacion>QA76.758 A735</bib:clasificacion>
+  <bib:anio>1988</bib:anio>
+  <bib:ejemplares>2</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/5952.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>5952</bib:ficha>
+  <bib:titulo>INGENIERIA DE SOFTWARE : CICLO DE VIDA DEL DESARROLLO DEL SOFTWARE</bib:titulo>
+  <bib:autor>ARDISSON, MONICA</bib:autor>
+  <bib:clasificacion>QA76.758 A73</bib:clasificacion>
+  <bib:anio>1988</bib:anio>
+  <bib:ejemplares>2</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/10080.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>10080</bib:ficha>
+  <bib:titulo>ALGEBRAIC SPECIFICATIONS IN SOFTWARE ENGINEERING : AN INTRODUCTION</bib:titulo>
+  <bib:autor>HOREBEEK, IVO VAN</bib:autor>
+  <bib:clasificacion>QA76.758 H67</bib:clasificacion>
+  <bib:anio>1989</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/6444.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>6444</bib:ficha>
+  <bib:titulo>SOFTWARE REENGINEERING : A CASE STUDY AND LESSONS</bib:titulo>
+  <bib:autor>RUHL, MARY K.</bib:autor>
+  <bib:clasificacion>QA76.758 R84</bib:clasificacion>
+  <bib:anio>1991</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/6087.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>6087</bib:ficha>
+  <bib:titulo>A DISCIPLINE FOR SOFTWARE ENGINEERING</bib:titulo>
+  <bib:autor>HUMPHREY, WATTS S.</bib:autor>
+  <bib:clasificacion>QA76.758 H84</bib:clasificacion>
+  <bib:anio>1995</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/6376.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>6376</bib:ficha>
+  <bib:titulo>THE MYTHICAL MAN-MONTH : ESSAYS ON SOFTWARE ENGINE</bib:titulo>
+  <bib:autor>BROOKS, FREDERICK P.</bib:autor>
+  <bib:clasificacion>QA76.758 B76</bib:clasificacion>
+  <bib:anio>1995</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/6382.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>6382</bib:ficha>
+  <bib:titulo>INGENIERIA DEL SOFTWARE DE GESTION : ANALISIS Y DISEÑO DE APLICACIONES</bib:titulo>
+  <bib:autor></bib:autor>
+  <bib:clasificacion>QA76.758 I54</bib:clasificacion>
+  <bib:anio>1995</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/5913.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>5913</bib:ficha>
+  <bib:titulo>PROCEEDINGS OF THE FIRST IFIP TC10 INTERNATIONAL WORKSHOP ON PARALLEL AND DISTRIBUTED SOFTWARE ENGINEERING, MARCH 1996</bib:titulo>
+  <bib:autor>INTERNATIONAL WORKSHOP ON PARALLEL AND DISTRIBUTED SOFTWARE ENGINEERING</bib:autor>
+  <bib:clasificacion>QA76.758 I58</bib:clasificacion>
+  <bib:anio>1996</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/5888.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>5888</bib:ficha>
+  <bib:titulo>PRIMER ENCUENTRO DE COMPUTACION ENC 97 : MEMORIAS</bib:titulo>
+  <bib:autor>ENCUENTRO DE COMPUTACION ENC 97</bib:autor>
+  <bib:clasificacion>QA76.758 E53</bib:clasificacion>
+  <bib:anio>1997</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/6143.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>6143</bib:ficha>
+  <bib:titulo>SOFTWARE ENGINEERING WITH REUSABLE COMPONENTS</bib:titulo>
+  <bib:autor>SAMETINGER, J.</bib:autor>
+  <bib:clasificacion>QA76.758 S24</bib:clasificacion>
+  <bib:anio>1997</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/6383.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>6383</bib:ficha>
+  <bib:titulo>REQUIREMENTS ENGINEERING : PROCESSES AND TECHNIQUE</bib:titulo>
+  <bib:autor>KOTONYA, GERALD</bib:autor>
+  <bib:clasificacion>QA76.758 K68</bib:clasificacion>
+  <bib:anio>1997</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/6099.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>6099</bib:ficha>
+  <bib:titulo>INGENIERiA DEL SOFTWARE : UN ENFOQUE PRACTICO</bib:titulo>
+  <bib:autor>PRESSMAN, ROGER S.</bib:autor>
+  <bib:clasificacion>QA76.758 P747</bib:clasificacion>
+  <bib:anio>1998</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/6181.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>6181</bib:ficha>
+  <bib:titulo>CLEANROOM SOFTWARE ENGINEERING : TECHNOLOGY AND PROCESS</bib:titulo>
+  <bib:autor></bib:autor>
+  <bib:clasificacion>QA76.758 C44</bib:clasificacion>
+  <bib:anio>1999</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/6145.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>6145</bib:ficha>
+  <bib:titulo>SOFTWARE ENGINEERING PROCESSES : PRINCIPLES AND APPLICATIONS</bib:titulo>
+  <bib:autor>WANG, YINGXU</bib:autor>
+  <bib:clasificacion>QA76.758 W35</bib:clasificacion>
+  <bib:anio>2000</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/6347.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>6347</bib:ficha>
+  <bib:titulo>INTRODUCTION TO SOFTWARE ENGINEERING</bib:titulo>
+  <bib:autor>LEACH, RONALD J.</bib:autor>
+  <bib:clasificacion>QA76.758 L43</bib:clasificacion>
+  <bib:anio>2000</bib:anio>
+  <bib:ejemplares>3</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/6374.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>6374</bib:ficha>
+  <bib:titulo>OBJECT-ORIENTED SOFTWARE ENGINEERING : CONQUERING COMPLEX AND CHANGING SYSTEMS</bib:titulo>
+  <bib:autor>BRUEGGE, BERND</bib:autor>
+  <bib:clasificacion>QA76.758 B79</bib:clasificacion>
+  <bib:anio>2000</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/6144.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>6144</bib:ficha>
+  <bib:titulo>AUTOMATED THEOREM PROVING IN SOFTWARE ENGINEERING</bib:titulo>
+  <bib:autor>SCHUMANN, JOHANN M.</bib:autor>
+  <bib:clasificacion>QA76.758 S39</bib:clasificacion>
+  <bib:anio>2001</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/5949.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>5949</bib:ficha>
+  <bib:titulo>INGENIERiA DE SOFTWARE</bib:titulo>
+  <bib:autor>SOMMERVILLE, IAN</bib:autor>
+  <bib:clasificacion>QA76.758 S64</bib:clasificacion>
+  <bib:anio>2002</bib:anio>
+  <bib:ejemplares>3</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/6380.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>6380</bib:ficha>
+  <bib:titulo>SOFTWARE ENGINEERING FOR REAL-TIME SYSTEMS</bib:titulo>
+  <bib:autor>COOLING, JIM</bib:autor>
+  <bib:clasificacion>QA76.758 C66</bib:clasificacion>
+  <bib:anio>2002</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/11528.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>11528</bib:ficha>
+  <bib:titulo>SOFTWARE ENGINEERING THEORY AND PRACTICE</bib:titulo>
+  <bib:autor>PFLEEGER, SHARI LAWRENCE</bib:autor>
+  <bib:clasificacion>QA76.758 P45</bib:clasificacion>
+  <bib:anio>2010</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="se/11516.rdf">
+  <bib:area>SE</bib:area>
+  <bib:ficha>11516</bib:ficha>
+  <bib:titulo>INGENIERIA DEL SOFTWARE : UN ENFOQUE DESDE LA GUIA SWEBOK</bib:titulo>
+  <bib:autor>SANCHEZ GARCiA, SALVADOR</bib:autor>
+  <bib:clasificacion>QA76.758 S36</bib:clasificacion>
+  <bib:anio>2012</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+</rdf:RDF> 

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/SE/">
+
+<rdf:Description
+rdf:about="INGENIERiA DE SOFTWARE : CICLO DE VIDA DEL DESARROLLO DEL SOFTWARE">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Análisis de requerimientos</rdf:li>
+      <rdf:li>Definición de requerimientos (especificación del sistema).</rdf:li>
+      <rdf:li>Diseño</rdf:li>
+      <rdf:li>Codificación</rdf:li>
+      <rdf:li>Instalación y Pruebas</rdf:li>
+      <rdf:li>Documentación y mantenimiento</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+</rdf:RDF> 

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="/">
+
+<rdf:Description rdf:about="Descripción_AI.rdf">
+  <bib:titulos>28</bib:titulos>
+  <bib:ejemplares>63</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description rdf:about="Descripción_HCI.rdf">
+  <bib:titulos>12</bib:titulos>
+  <bib:ejemplares>14</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description rdf:about="Descripción_SE.rdf">
+  <bib:titulos>21</bib:titulos>
+  <bib:ejemplares>27</bib:ejemplares>
+</rdf:Description>
+
+</rdf:RDF> 

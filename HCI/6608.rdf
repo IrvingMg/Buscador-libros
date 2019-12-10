@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/HCI/">
+
+<rdf:Description
+rdf:about="MORE THAN SCREEN DEEP : TOWARD EVERY-CITIZEN INTERFACES TO THE NATION'S INFORMATION INFRASTRUCTURE">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Requirements for Effective Every-Citizen Interfaces</rdf:li>
+      <rdf:li>Input/Output Technologies: Current Status and Research Needs</rdf:li>
+      <rdf:li>Design and Evaluation</rdf:li>
+      <rdf:li>Communication and Collaboration</rdf:li>
+      <rdf:li>Agents and Systems Intelligence</rdf:li>
+      <rdf:li>Conclusions and Recommendations</rdf:li>
+      <rdf:li>Bibliography</rdf:li>
+      <rdf:li>Trends in Human-Computer Interaction Research and Development</rdf:li>
+      <rdf:li>On Interface Specifics</rdf:li>
+      <rdf:li>On Functions</rdf:li>
+      <rdf:li>On Application Areas</rdf:li>
+      <rdf:li>On Selected Population Groups</rdf:li>
+      <rdf:li>On Key Processes</rdf:li>
+      <rdf:li>Appendixes</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="On Interface Specifics">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>An Embedded, Invisible Every-Citizen Interface</rdf:li>
+      <rdf:li>Intelligent Multimedia Interfaces for "Each" Citizen</rdf:li>
+      <rdf:li>Interfaces for Understanding</rdf:li>
+      <rdf:li>Interspace and an Every-Citizen Interface to the National Information Infrastructure</rdf:li>
+      <rdf:li>Mobile Access to the Nation's Information Infrastructure</rdf:li>
+      <rdf:li>Ordinary Citizens and the National Information Infrastructure</rdf:li>
+      <rdf:li>Spoken-Language Technology</rdf:li>
+      <rdf:li>Toward an Every-Citizen Interface</rdf:li>
+      <rdf:li>Nomadicity, Disability Access, and the Every-Citizen Interface</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="On Functions">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Computer-Mediated Collaboration</rdf:li>
+      <rdf:li>Creating Interfaces Founded on Principles of Discourse Communication and Collaboration</rdf:li>
+      <rdf:li>Digital Maps</rdf:li>
+      <rdf:li>Gathering and Integrating Information in the National Information Infrastructure</rdf:li>
+      <rdf:li>Integrating Audiences and Users</rdf:li>
+      <rdf:li>Intelligent Agents for Information</rdf:li>
+      <rdf:li>Intelligent Information Agents</rdf:li>
+      <rdf:li>Resource Discovery and Resource Delivery</rdf:li>
+      <rdf:li>Search and Publishing</rdf:li>
+      <rdf:li>Security</rdf:li>
+      <rdf:li>Research to Support Widespread Access to Digital Libraries and Government Information and Services</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="On Application Areas">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Community Computing Projects</rdf:li>
+      <rdf:li>Lifelong Learning</rdf:li>
+      <rdf:li>Supporting Learning in Communities of Practice</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="On Selected Population Groups">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Extending Knowledge Access to Underserved Citizens</rdf:li>
+      <rdf:li>Electronic Access to Services for Low-Income Populations</rdf:li>
+      <rdf:li>Access for People with Disabilities</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="On Key Processes">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Cross-Disciplinary, Social-Context Research</rdf:li>
+      <rdf:li>Audio Access to the National Information Infrastructure</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendixes">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Workshop Agenda and Participants</rdf:li>
+      <rdf:li>Steering Committee Members' Biographies</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

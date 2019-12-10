@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/SE/">
+
+<rdf:Description
+rdf:about="CLEANROOM SOFTWARE ENGINEERING : TECHNOLOGY AND PROCESS">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Cleanroom Software Engineering Fundamentals</rdf:li>
+      <rdf:li>The Cleanroom Software Engineering Reference Model</rdf:li>
+      <rdf:li>A Case Study in Cleanroom Software Engineering</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cleanroom Software Engineering Fundamentals">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Cleanroom Overview</rdf:li>
+      <rdf:li>Cleanroom Managament by Incremental Development</rdf:li>
+      <rdf:li>Cleanrooom Software Specification</rdf:li>
+      <rdf:li>Cleanrooom Software Development</rdf:li>
+      <rdf:li>Cleanrooom Software Certification</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cleanroom Overview">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Economic Production of High-Quality Software</rdf:li>
+      <rdf:li>Cleanroom Foundations</rdf:li>
+      <rdf:li>Cleanroom Technologies</rdf:li>
+      <rdf:li>The Cleanroom Process</rdf:li>
+      <rdf:li>Relationship of Cleanroom to Other Practices</rdf:li>
+      <rdf:li>Cleanroom Project Experience</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Suggested Reading</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cleanroom Managament by Incremental Development">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Benefits of Incremental Development</rdf:li>
+      <rdf:li>Theoretical Foundations of Incremental Development</rdf:li>
+      <rdf:li>Increment Planning Practice</rdf:li>
+      <rdf:li>Incremental Development Practice</rdf:li>
+      <rdf:li>References</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cleanroom Software Specification">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Box Structures for Cleanroom Specification and Design</rdf:li>
+      <rdf:li>The Sequence-Based Specification Process</rdf:li>
+      <rdf:li>Example: Specification of a Security Alarm</rdf:li>
+      <rdf:li>References</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cleanroom Software Development">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Box Structure Develoment</rdf:li>
+      <rdf:li>Clear Box Development</rdf:li>
+      <rdf:li>Clear Box verification</rdf:li>
+      <rdf:li>Example: The Security Alarm Clear Box</rdf:li>
+      <rdf:li>References</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cleanroom Software Certification">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Benifits Statical Testing Based on a Usage Model</rdf:li>
+      <rdf:li>Theoritical Foundations of Statistical Testing</rdf:li>
+      <rdf:li>Statical Usage Testing in Practice</rdf:li>
+      <rdf:li>Example: Security Alarm</rdf:li>
+      <rdf:li>References</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The Cleanroom Software Engineering Reference Model">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The Cleanroom Reference Model</rdf:li>
+      <rdf:li>Cleanroom Managament Processes</rdf:li>
+      <rdf:li>Cleanrooom Software Specification Processes</rdf:li>
+      <rdf:li>Cleanrooom Software Development Processes</rdf:li>
+      <rdf:li>Cleanrooom Software Certification Processes</rdf:li>
+      <rdf:li>Cleanrooom and the Capabiblity Maturity Model for Software</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The Cleanroom Reference Model">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>An Introduction to the CRM</rdf:li>
+      <rdf:li>Cleanroom Process Definition Format</rdf:li>
+      <rdf:li>Common Cleanroom Process Elements</rdf:li>
+      <rdf:li>References</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cleanroom Managament Process">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Project Planning Process</rdf:li>
+      <rdf:li>Project Managament Process</rdf:li>
+      <rdf:li>Perfomace Improvement Process</rdf:li>
+      <rdf:li>Engineering Change Process</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cleanroom Specification Process">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Requeriments Analysis Process</rdf:li>
+      <rdf:li>Function Specification Process</rdf:li>
+      <rdf:li>Usage Specification Process</rdf:li>
+      <rdf:li>Architecture Specification Process</rdf:li>
+      <rdf:li>Increment Planning Process</rdf:li>
+      <rdf:li>References</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cleanroom Development Process">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Software Reengineering Process</rdf:li>
+      <rdf:li>Increment Design Process</rdf:li>
+      <rdf:li>Correctness Verification Process</rdf:li>
+      <rdf:li>References</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cleanroom Certification Process">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Usage Modeling and Test Planning Process</rdf:li>
+      <rdf:li>Statatistical Testing and Certification Process</rdf:li>
+      <rdf:li>References</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cleanroom and the Capabiblity Maturity Model for Software">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>The CMM for Software</rdf:li>
+      <rdf:li>Cleanroon Process Mappings to CMM KPAS</rdf:li>
+      <rdf:li>Integrating CRM Tecnology and CMM Managament</rdf:li>
+      <rdf:li>References</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="A Case Study in Cleanroom Software Engineering">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Satelite Control System Requirements</rdf:li>
+      <rdf:li>Satelite Control System Black Box Specification</rdf:li>
+      <rdf:li>Satelite Control System State Box Specification</rdf:li>
+      <rdf:li>Satelite Control System Clear Box Design</rdf:li>
+      <rdf:li>Satelite Control System Testign and Certification</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Satelite Control System Requirements">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>The Satelite Control System Case Study</rdf:li>
+      <rdf:li>Staelite Operations Software Requeriments</rdf:li>
+      <rdf:li>References</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+</rdf:RDF> 

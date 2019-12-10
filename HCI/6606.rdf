@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/HCI/">
+
+<rdf:Description
+rdf:about="GUI BLOOPERS : DON'TS AND DO'S FOR SOFTWARE DEVELOPERS AND WEB DESIGNERS">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>First Principles</rdf:li>
+      <rdf:li>GUI Component Bloopers</rdf:li>
+      <rdf:li>Layout and Appearance Bloopers</rdf:li>
+      <rdf:li>Textual Bloopers</rdf:li>
+      <rdf:li>Interaction Bloopers</rdf:li>
+      <rdf:li>Web Bloopers</rdf:li>
+      <rdf:li>Responsiveness Bloopers</rdf:li>
+      <rdf:li>Management Bloopers</rdf:li>
+      <rdf:li>Software Reviews</rdf:li>
+      <rdf:li>War Stories of a User Interface Consultant</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="First Principles">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Principle 1: Focus on the users and their tasks, not the technology</rdf:li>
+      <rdf:li>Principle 2: Consider function first, presentation later</rdf:li>
+      <rdf:li>Principle 3: Conform to the users' view of the task</rdf:li>
+      <rdf:li>Principle 4: Don't complicate the users' task</rdf:li>
+      <rdf:li>Principle 5: Promote learning</rdf:li>
+      <rdf:li>Principle 6: Deliver information, not just data</rdf:li>
+      <rdf:li>Principle 7: Design for responsiveness</rdf:li>
+      <rdf:li>Principle 8: Try it out on users, the fix it!</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Principle 1: Focus on the users and their tasks, not the technology">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Understand the users</rdf:li>
+      <rdf:li>Understand the tasks</rdf:li>
+      <rdf:li>Interactive products and services function in a broad context</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Principle 2: Consider function first, presentation later">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>What "consider function first" does not mean</rdf:li>
+      <rdf:li>What "consider function first" does mean</rdf:li>
+      <rdf:li>Develop a conceptual model</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Principle 3: Conform to the users' view of the task">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Strive for naturalness</rdf:li>
+      <rdf:li>Use the users' vocabulary, not your own</rdf:li>
+      <rdf:li>Keep program internals inside the program</rdf:li>
+      <rdf:li>Find the correct point on the power/complexity trade-off</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Principle 4: Don't complicate the users' task">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Common tasks should be easy</rdf:li>
+      <rdf:li>Don't give users extra problems to solve</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Principle 5: Promote learning">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Think "outside-in", not "inside-out"</rdf:li>
+      <rdf:li>Consistency, consistency, consistency, but don't be naive about it</rdf:li>
+      <rdf:li>Provide a low-risk environment</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Principle 6: Deliver information, not just data">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Design displays carefully; get professional help</rdf:li>
+      <rdf:li>The screen belongs to the user</rdf:li>
+      <rdf:li>Preserve display inertia</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Principle 7: Design for responsiveness">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Defining responsiveness and the lack thereof</rdf:li>
+      <rdf:li>Responsiveness on the Web: A big deal</rdf:li>
+      <rdf:li>Summary of responsiveness design principles</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Principle 8: Try it out on users, the fix it!">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Test results can surprise even experienced designers</rdf:li>
+      <rdf:li>Schedule time to correct problems found by tests</rdf:li>
+      <rdf:li>Testing has two goals: Informational and social</rdf:li>
+      <rdf:li>There are tests for every time and purpose</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="GUI Component Bloopers">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Complicating access to functionality</rdf:li>
+      <rdf:li>Unconventional application windows</rdf:li>
+      <rdf:li>Misusing choice controls and tabs</rdf:li>
+      <rdf:li>Providing faulty feedback</rdf:li>
+      <rdf:li>Abusing text fields</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Complicating access to functionality">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Blooper 1: Dynamic menus</rdf:li>
+      <rdf:li>Blooper 2: Duplicate menu items</rdf:li>
+      <rdf:li>Blooper 3: Hidden functions</rdf:li>
+      <rdf:li>Blooper 4: No keyboard equivalents</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Unconventional application windows">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Blooper 5: Confusing primary windows with dialog boxes</rdf:li>
+      <rdf:li>Blooper 6: Commands are only on toolbar buttons</rdf:li>
+      <rdf:li>Blooper 7: All menubar commands are on toolbar</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Misusing choice controls and tabs">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Blooper 8: Confusing checkboxes and radiobuttons</rdf:li>
+      <rdf:li>Blooper 9: One-from-N settings with no initial value</rdf:li>
+      <rdf:li>Blooper 10: Using a checkbox for a non-ON/OFF setting</rdf:li>
+      <rdf:li>Blooper 11: Using command buttons as toggles </rdf:li>
+      <rdf:li>Blooper 12: Using tabs as radiobuttons</rdf:li>
+      <rdf:li>Blooper 13: Too many tabs</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Providing faulty feedback">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Blooper 14: Buttons that trigger on "mouse down"</rdf:li>
+      <rdf:li>Blooper 15: Ambiguous selections</rdf:li>
+      <rdf:li>Blooper 16: Not showing busy cursor</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Abusing text fields">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Blooper 17: Using text fields for read-only data</rdf:li>
+      <rdf:li>Blooper 18: Overusing text fields</rdf:li>
+      <rdf:li>Blooper 19: Type-in fields that behave abnormally</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+</rdf:RDF> 

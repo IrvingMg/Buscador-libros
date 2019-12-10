@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/HCI/">
+
+<rdf:Description
+rdf:about="AN INTRODUCTION TO HUMAN-COMPUTER INTERACTION">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Acknowledgements</rdf:li>
+      <rdf:li>Preface</rdf:li>
+      <rdf:li>Introducing Human-Computer Interaction</rdf:li>
+      <rdf:li>Interactional Devices and Technologies</rdf:li>
+      <rdf:li>Human-Computer Dialogue</rdf:li>
+      <rdf:li>Cognitive Models in Human-Computer Interaction</rdf:li>
+      <rdf:li>Usability in Human-Computer Interaction</rdf:li>
+      <rdf:li>The Design and Development Process</rdf:li>
+      <rdf:li>The Organizational Impact of Computer Systems</rdf:li>
+      <rdf:li>The Future of Human-Computer Interaction</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+      <rdf:li>Glossary</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Author Index</rdf:li>
+      <rdf:li>Subject Index</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Introducing Human-Computer Interaction">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>What is HCI?</rdf:li>
+      <rdf:li>Roles Various Disciplines Play Within HCI</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>A Selective Annotated Bibliogray</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Interactional Devices and Technologies">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Input Devices and Technologies</rdf:li>
+      <rdf:li>Speech as an Interactional Medium</rdf:li>
+      <rdf:li>Output Devices and Technologies</rdf:li>
+      <rdf:li>Commentary</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>A Selective Annotated Bibliogray</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Human-Computer Dialogue">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Dialogue Style, Structure and Content</rdf:li>
+      <rdf:li>HCI and Human Dialogue</rdf:li>
+      <rdf:li>Human and Human-Computer Dialogue Differences</rdf:li>
+      <rdf:li>The Desirable Qualities of Future Human-Computer Dialogue</rdf:li>
+      <rdf:li>Why Have We No Theory of Human-Computer Dialogue?</rdf:li>
+      <rdf:li>Commentary</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>A Selective Annotated Bibliogray</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Cognitive Models in Human-Computer Interaction">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Cognitive Perspective on HCI</rdf:li>
+      <rdf:li>Mental Models</rdf:li>
+      <rdf:li>Metaphors in HCI</rdf:li>
+      <rdf:li>User Models</rdf:li>
+      <rdf:li>Modelling Techniques</rdf:li>
+      <rdf:li>Commentary</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>A Selective Annotated Bibliogray</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Usability in Human-Computer Interaction">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Concepts for Usability</rdf:li>
+      <rdf:li>Definitions of Usability</rdf:li>
+      <rdf:li>User Needs Analysis</rdf:li>   
+      <rdf:li>Usability Testing</rdf:li>
+      <rdf:li>Evaluating the Usability of a System</rdf:li>
+      <rdf:li>The Difficulties with the Usability Approach</rdf:li>   
+      <rdf:li>Commentary</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>A Selective Annotated Bibliogray</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The Design and Development Process">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Subtema 1</rdf:li>
+      <rdf:li>Subtema 2</rdf:li>
+      <rdf:li>Subtema 3</rdf:li>      
+      <rdf:li>Commentary</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>A Selective Annotated Bibliogray</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The Organizational Impact of Computer Systems">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Present Design and Development Practice</rdf:li>
+      <rdf:li>The Characteristics of Design and Development</rdf:li>
+      <rdf:li>Formal Methods in Design and Development</rdf:li>     
+      <rdf:li>The Role of Formal Methods in the Design and Development Process</rdf:li>
+      <rdf:li>The Non-formal Cognitive Approach</rdf:li>
+      <rdf:li>The Usability Approach</rdf:li>
+      <rdf:li>Design and Development Methodologies for Developing Usable Systems</rdf:li> 
+      <rdf:li>Commentary</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>A Selective Annotated Bibliogray</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The Future of Human-Computer Interaction">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Advances in Interactional Hardware and Software</rdf:li>
+      <rdf:li>Advances in Dialogue</rdf:li>
+      <rdf:li>Advances in Modelling</rdf:li>    
+      <rdf:li>Advances in task Match Issues</rdf:li>
+      <rdf:li>Advances in Design</rdf:li>
+      <rdf:li>Advances in Organizational Issues</rdf:li>   
+      <rdf:li>Commentary</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>A Selective Annotated Bibliogray</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

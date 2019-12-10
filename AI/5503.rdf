@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/AI/">
+
+<rdf:Description
+rdf:about="INTELIGENCIA ARTIFICIAL">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>¿Qué es la Inteligencia Artificial?</rdf:li>
+      <rdf:li>Problemas, espacios problema y búsqueda</rdf:li>
+      <rdf:li>Técnicas de búsqueda heurística</rdf:li>
+      <rdf:li>El problema de la representación del conocimiento</rdf:li>
+      <rdf:li>La lógica de predicados</rdf:li>
+      <rdf:li>Representación del conocimiento mediante reglas</rdf:li>
+      <rdf:li>Razonamiento simbólico bajo incertidumbre</rdf:li>
+      <rdf:li>Razonamiento estadístico</rdf:li>
+      <rdf:li>Estructuras de ranura y relleno débiles</rdf:li>
+      <rdf:li>Estructuras de ranura y relleno fuertes</rdf:li>
+      <rdf:li>Resumen sobre la representación del conocimiento</rdf:li>
+      <rdf:li>Los juegos</rdf:li>
+      <rdf:li>La planificación</rdf:li>
+      <rdf:li>La comprensión</rdf:li>
+      <rdf:li>Procesamiento del lenguaje natural</rdf:li>
+      <rdf:li>IA paralela y distribuida</rdf:li>
+      <rdf:li>El aprendizaje</rdf:li>
+      <rdf:li>Modelos conexionistas</rdf:li>
+      <rdf:li>El sentido común</rdf:li>
+      <rdf:li>Sistemas expertos</rdf:li>
+      <rdf:li>Percepción y Acción</rdf:li>
+      <rdf:li>Conclusión</rdf:li>
+      <rdf:li>Referencias</rdf:li>
+      <rdf:li>Agradecimientos</rdf:li>
+      <rdf:li>Índice de autores</rdf:li>
+      <rdf:li>Índice analítico en inglés</rdf:li>
+      <rdf:li>Índice analítico en castellano</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="¿Qué es la Inteligencia Artificial?">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Los problemas de la IA</rdf:li>
+      <rdf:li>Las suposiciones subyacentes</rdf:li>
+      <rdf:li>¿Qué es un técnica de IA?</rdf:li>
+      <rdf:li>El nivel del modelo</rdf:li>
+      <rdf:li>Criterios de determinación del éxito</rdf:li>
+      <rdf:li>Algunas referencias generales</rdf:li>
+      <rdf:li>Un apunte final</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Problemas, espacios problema y búsqueda">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Definición del problema mediante una búsqueda en un espacio de estados</rdf:li>
+      <rdf:li>Los sistemas de producción</rdf:li>
+      <rdf:li>Características del problema</rdf:li>
+      <rdf:li>Características de los sistemas de producción</rdf:li>
+      <rdf:li>Algunos aspectos sobre el diseño de programas de búsqueda</rdf:li>
+      <rdf:li>Problemas adicionales</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Técnicas de búsqueda heurística">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Generación y prueba</rdf:li>
+      <rdf:li>Escalada</rdf:li>
+      <rdf:li>Búsqueda el primero mejor</rdf:li>
+      <rdf:li>Reducción de problemas</rdf:li>
+      <rdf:li>Verificación de restricciones</rdf:li>
+      <rdf:li>Analísis de medios y fines</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El problema de la representación del conocimiento">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Representaciones y correspondencias</rdf:li>
+      <rdf:li>Aproximaciones a la representación del conocimiento</rdf:li>
+      <rdf:li>Problemas de la representación del conocimiento</rdf:li>
+      <rdf:li>El problema del marco</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La lógica de predicados">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>La representación de hechos simples en lógica</rdf:li>
+      <rdf:li>La representación de las relaciones instancia y es-un</rdf:li>
+      <rdf:li>Las funciones calculables y los predicados</rdf:li>
+      <rdf:li>La resolución</rdf:li>
+      <rdf:li>Deducción natural</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Representación del conocimiento mediante reglas">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Comparación entre conocimiento procedimental y conocimiento declarativo</rdf:li>
+      <rdf:li>Programación lógica</rdf:li>
+      <rdf:li>Diferencias entre razonamientos hacia delante y hacia atrás</rdf:li>
+      <rdf:li>Emparejamiento</rdf:li>
+      <rdf:li>Conocimiento de control</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Razonamiento simbólico bajo incertidumbr">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introducción al razonamiento no monótono</rdf:li>
+      <rdf:li>Lógicas para razonamientos no monótonos</rdf:li>
+      <rdf:li>Cuestiones sobre la implementación</rdf:li>
+      <rdf:li>Ampliación del resolutor de problemas</rdf:li>
+      <rdf:li>Implementación: Búsqueda primero en profundidad</rdf:li>
+      <rdf:li>Implementatión: Búsqueda primero en anchura</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="SRazonamiento estadístico">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>La probabilidad y el teorema de Bayes</rdf:li>
+      <rdf:li>Factores de certeza y sistemas basados en reglas</rdf:li>
+      <rdf:li>Redes bayesianas</rdf:li>
+      <rdf:li>Teoría de Dempster-Shafer</rdf:li>
+      <rdf:li>Lógica difusa</rdf:li>
+      <rdf:li>Resumen</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Estructuras de ranura y relleno débiles">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Redes semánticas</rdf:li>
+      <rdf:li>Marcos</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Estructuras de ranura y relleno fuertes">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Dependencia conceptual</rdf:li>
+      <rdf:li>Guiones</rdf:li>
+      <rdf:li>CYC</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Resumen sobre la representación del conocimiento">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Espectro sintáctico-semántico de la representación</rdf:li>
+      <rdf:li>Estructura lógicas de ranura y relleno</rdf:li>
+      <rdf:li>Otras técnicas de representación</rdf:li>
+      <rdf:li>Resumen del papel del conocimiento</rdf:li>
+      <rdf:li>Ejercicios</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

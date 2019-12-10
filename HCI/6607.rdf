@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/HCI/">
+
+<rdf:Description
+rdf:about="HUMAN-COMPUTER INTERACTION FOR SOFTWARE DESIGNERS">
+  <bib:tema>
+    <rdf:Seq>
+    	<rdf:li>Preface and acknowledgements</rdf:li>
+      <rdf:li>HCI and the software designer</rdf:li>
+      <rdf:li>Understanding user needs and requirements</rdf:li>
+      <rdf:li>Designing the user interface</rdf:li>
+      <rdf:li>Designing graphical user interfaces</rdf:li>
+      <rdf:li>Designing user interfaces to CSCW systems</rdf:li>
+      <rdf:li>Usability</rdf:li>
+      <rdf:li>HCI standards</rdf:li>
+      <rdf:li>Appendix A</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Useful addresses</rdf:li>
+      <rdf:li>Index</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="HCI and the software designer">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>The importance of teh user interface</rdf:li>
+      <rdf:li>HCI and the software designer</rdf:li>
+      <rdf:li>Rationale for this book</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Understanding user needs and requirements">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>The software dsigner and user requirements</rdf:li>
+      <rdf:li>Understanding user needs</rdf:li>
+      <rdf:li>The CAD case study</rdf:li>
+      <rdf:li>Task analysis and allocation of function</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Designing the user interface">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Classes of user interface</rdf:li>
+      <rdf:li>Principles of good design</rdf:li>
+      <rdf:li>Evaluating designs using the principles</rdf:li>
+      <rdf:li>Factors influencing the choice of colour</rdf:li>
+      <rdf:li>A task-oriented approach to user interface design</rdf:li>
+      <rdf:li>A case study in task-oriented user interface design</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Designing graphical user interfaces">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Design of icons</rdf:li>
+      <rdf:li>Use of metaphors</rdf:li>
+      <rdf:li>GUI styleguides and toolkits</rdf:li>
+      <rdf:li>Portability between GUIs</rdf:li>
+      <rdf:li>XVT and protability between GUIs</rdf:li>
+      <rdf:li>GUI design: an object-oriented approach</rdf:li>
+      <rdf:li>Case study of an object-oriented approach to UI design</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Designing user interfaces to CSCW systems">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Computer-supported cooperative work (CSCW)</rdf:li>
+      <rdf:li>Characteristics of CSCW systems</rdf:li>
+      <rdf:li>Examples of CSCW</rdf:li>
+      <rdf:li>The role and characteristics of CSCW user interfaces</rdf:li>
+      <rdf:li>A method of specifying and designing user interfaces to CSCW systems</rdf:li>
+      <rdf:li>A case study in user interface design for a CSCW system</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Usability">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>The user's, customer's, and designer's viewpoint</rdf:li>
+      <rdf:li>Usability specification</rdf:li>
+      <rdf:li>Stage 1: user and task analysis</rdf:li>
+      <rdf:li>Stage 2: setting usability objectives and success criteria</rdf:li>
+      <rdf:li>Stage 3: writing usability statements and identifying measures</rdf:li>
+      <rdf:li>Stage 4: choosing techniques for measuring usability</rdf:li>
+      <rdf:li>Stage 5: planning a usability evaluation</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="HCI Standards">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>HCI Standards</rdf:li>
+      <rdf:li>European Computer Manufacturer's Association (ECMA)</rdf:li>
+      <rdf:li>International Organization for Standarization (ISO)</rdf:li>
+      <rdf:li>European Directive: Work with Display Screen Equipment</rdf:li>
+      <rdf:li>BSI Guide to the Design and Preparation of Documentation for Users of Application Software</rdf:li>
+      <rdf:li>Summary and conclusions</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Appendix A">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Answers to exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

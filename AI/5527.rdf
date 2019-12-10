@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/AI/">
+
+<rdf:Description
+rdf:about="LA ERA DE LAS MAQUINAS INTELIGENTES">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>De cualquier modo, ¿qué es la inteligencia artificial?</rdf:li>
+      <rdf:li>Fundamentos filosóficos</rdf:li>
+      <rdf:li>Fundamentos matemáticos</rdf:li>
+      <rdf:li>La fórmula para la inteligencia</rdf:li>
+      <rdf:li>Raíces mecánicas</rdf:li>
+      <rdf:li>Raíces eléctronicas</rdf:li>
+      <rdf:li>El reconocimiento de patrón: la búsqueda del orden</rdf:li>
+      <rdf:li>La búsqueda del conocimiento</rdf:li>
+      <rdf:li>La ciencia del arte</rdf:li>
+      <rdf:li>Visiones</rdf:li>
+      <rdf:li>El impacto en...</rdf:li>
+      <rdf:li>Posdata</rdf:li>
+      <rdf:li>Cronología</rdf:li>
+      <rdf:li>Notas</rdf:li>
+      <rdf:li>Bibliografía</rdf:li>
+      <rdf:li>Glosario</rdf:li>
+      <rdf:li>Índice analítico</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="De cualquier modo, ¿qué es la inteligencia artificial?">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>La definición usual</rdf:li>
+      <rdf:li>La definición de frontera-móvil</rdf:li>
+      <rdf:li>De cualquier modo, ¿qué es la inteligencia?</rdf:li>
+      <rdf:li>La evolución como un proceso inteligente</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Fundamentos filosóficos">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Platón y los platónicos</rdf:li>
+      <rdf:li>La Ilustración</rdf:li>
+      <rdf:li>Los positivistas lógicos y la reacción existencialista</rdf:li>
+      <rdf:li>El debate continúa</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Fundamentos matemáticos">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>La paradoja de Russell</rdf:li>
+      <rdf:li>Las cinco contribuciones de Turing</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La fórmula para la inteligencia">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Unificar fórmulas: la meta de la ciencia</rdf:li>
+      <rdf:li>El mar de la lógica y la máquina de Turing</rdf:li>
+      <rdf:li>La fórmula recursiva y tres niveles de inteligencia</rdf:li>
+      <rdf:li>Otras aproximaciones para modelar el software de la inteligencia: redes al azar, pandemónium y árboles</rdf:li>
+      <rdf:li>La fórmula de la vida como una fórmula de inteligencia</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Raíces mecánicas">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Primeros autómatas y máquinas calculadoras</rdf:li>
+      <rdf:li>Charles Babbage y la primera programadora mundial</rdf:li>
+      <rdf:li>El sendero práctico</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Raíces eléctronicas">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>La primera computadora</rdf:li>
+      <rdf:li>Bienvenida a una nueva forma de inteligencia sobre la tierra: el movimiento de IA</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El reconocimiento de patrón: la búsqueda del orden">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Visión</rdf:li>
+      <rdf:li>El mundo real</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La búsqueda del conocimiento">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Conocimiento y sistemas expertos</rdf:li>
+      <rdf:li>Poniendo a trabajar el conocimiento</rdf:li>
+      <rdf:li>El lenguaje: la expresión del conocimiento</rdf:li>
+      <rdf:li>Reuniendo todo: la era de los robots</rdf:li>
+      <rdf:li>Un negocio internacional</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="La ciencia del arte">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Las artes musicales</rdf:li>
+      <rdf:li>Las artes visuales</rdf:li>
+      <rdf:li>Las artes literarias</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Visiones">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Escenarios</rdf:li>
+      <rdf:li>Adelantos repentinos</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="El impacto en...">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>El empleo y la economía</rdf:li>
+      <rdf:li>Educación</rdf:li>
+      <rdf:li>Comunicaciones</rdf:li>
+      <rdf:li>La guerra</rdf:li>
+      <rdf:li>Medicina</rdf:li>
+      <rdf:li>Los minusválidos</rdf:li>
+      <rdf:li>Música</rdf:li>
+      <rdf:li>Política</rdf:li>
+      <rdf:li>Nuestro concepto de nosotros mismos</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

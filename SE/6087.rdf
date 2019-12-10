@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/SE/">
+
+<rdf:Description
+rdf:about="A DISCIPLINE FOR SOFTWARE ENGINEERING">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>THE PERSONAL SOFTWARE PROCESS STRATEGY</rdf:li>
+      <rdf:li>THE BASELINE PERSONAL PROCESS</rdf:li>
+      <rdf:li>PLANNING I - THE PLANNING PROCESS</rdf:li>
+      <rdf:li>PLANNING II - MEASURING SOFTWARE SIZE</rdf:li>
+      <rdf:li>PLANNING III - ESTIMATING SOFTWARE SIZE</rdf:li>
+      <rdf:li>PLANNING IV - RESOURSE AND SCHEDULE ESTIMATING</rdf:li>
+      <rdf:li>MEASUREMENTS IN THE PERSONAL SOFTWARE PROCESS</rdf:li>
+      <rdf:li>DESIGN AND CODE REVIEWS</rdf:li>
+      <rdf:li>SOFTWARE QUALITY MANAGEMENT</rdf:li>
+      <rdf:li>SOFTWARE DESIGN</rdf:li>
+      <rdf:li>SCALING UP THE PERSONAL SOFTWARE PROCESS</rdf:li>
+      <rdf:li>DESIGN VERIFICATION</rdf:li>
+      <rdf:li>DEFINING THE SOFTWARE PROCESS</rdf:li>
+      <rdf:li>USING THE PERSONAL SOFTWARE PROCESS</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="THE PERSONAL SOFTWARE PROCESS STRATEGY">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The Logic for a Software Engineering Discipline</rdf:li>
+      <rdf:li>What is a Software Process?</rdf:li>
+      <rdf:li>Process Maturity</rdf:li>
+      <rdf:li>Your Personal Responsibilites</rdf:li>
+      <rdf:li>The Personal Software Process (PSP) Strategy</rdf:li>
+      <rdf:li>The logic for the PSP</rdf:li>
+      <rdf:li>Productivity and the PSP</rdf:li>
+      <rdf:li>Caveats</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="A Government Case Study">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The Baseline Process</rdf:li>
+      <rdf:li>Why Forms Are Helpful</rdf:li>
+      <rdf:li>The PSP Process Elements</rdf:li>
+      <rdf:li>The PSP0 Process</rdf:li>
+      <rdf:li>PSP0 Measures</rdf:li>
+      <rdf:li>Time Recording Log</rdf:li>
+      <rdf:li>Defect Recording Log</rdf:li>
+      <rdf:li>PSP0 Project Plan Summary</rdf:li>
+      <rdf:li>Customizing the Initial Process</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="PLANNING I THE PLANNING PROCESS">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Why Make Plans</rdf:li>
+      <rdf:li>What is a Plan</rdf:li>
+      <rdf:li>Contents of a Software Plan</rdf:li>
+      <rdf:li>Planning a Software Project</rdf:li>
+      <rdf:li>Producing a Quality Plan</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="PLANNING II MEASURING SOFTWARE SIZE">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Size Measures</rdf:li>
+      <rdf:li>A Size Measurement Framework</rdf:li>
+      <rdf:li>Establishing a Counting Standard</rdf:li>
+      <rdf:li>Using LOC Counts</rdf:li>
+      <rdf:li>Reuse Considerations</rdf:li>
+      <rdf:li>Line of Code Accouting</rdf:li>
+      <rdf:li>Calculating Productivity</rdf:li>
+      <rdf:li>LOC Counters</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="PLANNING III - ESTIMATING SOFTWARE SIZE">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Background</rdf:li>
+      <rdf:li>Popular Estimating Methods</rdf:li>
+      <rdf:li>Proxy-based Estimating</rdf:li>
+      <rdf:li>Object Categories</rdf:li>
+      <rdf:li>Estimating</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="PLANNING IV - RESOURSE AND SCHEDULE ESTIMATING">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Resource Planning</rdf:li>
+      <rdf:li>Estimating Development Time</rdf:li>
+      <rdf:li>Estimating Task Time</rdf:li>
+      <rdf:li>Combining Multiple Estimates</rdf:li>
+      <rdf:li>Using Multiple Regression</rdf:li>
+      <rdf:li>Schedule Estimating</rdf:li>
+      <rdf:li>Earned Value Tracking</rdf:li>
+      <rdf:li>Estimating Accuracy</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="MEASUREMENTS IN THE PERSONAL SOFTWARE PROCESS">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Measurement Overview</rdf:li>
+      <rdf:li>Fundamental Process Measures</rdf:li>
+      <rdf:li>Goal-Question-Metric Paradigm</rdf:li>
+      <rdf:li>General PSP Objectives, Goals, and Questions</rdf:li>
+      <rdf:li>A GQM Example</rdf:li>
+      <rdf:li>Gathering Data</rdf:li>
+      <rdf:li>The Impact of Data Gathering</rdf:li>
+      <rdf:li>Establishing a Baseline for Your Personal Process</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="DESING AND CODE REVIEWS">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>What Are Reviews</rdf:li>
+      <rdf:li>Why Review Programs</rdf:li>
+      <rdf:li>Personal Reviews</rdf:li>
+      <rdf:li>Review Principles</rdf:li>
+      <rdf:li>Separate Desing and Code Reviews</rdf:li>
+      <rdf:li>Design Review Principles</rdf:li>
+      <rdf:li>Review Measures</rdf:li>
+      <rdf:li>Checklists</rdf:li>
+      <rdf:li>Reviewing before or after You Compile</rdf:li>
+      <rdf:li>The Relationship between Reviews and Inspections</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="SOFTWARE QUALITY MANAGEMENT">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>What is Software Quality?</rdf:li>
+      <rdf:li>The Economics of Software Quality</rdf:li>
+      <rdf:li>Developing a Quality Strategy</rdf:li>
+      <rdf:li>Process Benchmarking</rdf:li>
+      <rdf:li>Defect Removal Strategies</rdf:li>
+      <rdf:li>Defect Prevention Strategies</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="SOFTWARE DESIGN">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>The Design Process</rdf:li>
+      <rdf:li>Design Quality</rdf:li>
+      <rdf:li>Structuring the Design Process</rdf:li>
+      <rdf:li>Design Notation</rdf:li>
+      <rdf:li>Design Templates</rdf:li>
+      <rdf:li>The Functional Specification Template</rdf:li>
+      <rdf:li>The State Specification Tempalte</rdf:li>
+      <rdf:li>The Logic Specification Template</rdf:li>
+      <rdf:li>The Operational Scenario Template</rdf:li>
+      <rdf:li>Using Templates in Design</rdf:li>
+      <rdf:li>Design Guidelines</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="SCALING UP THE PERSONAL SOFTWARE PROCESS">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Usign Abstraction</rdf:li>
+      <rdf:li>The Stages of Product Size</rdf:li>
+      <rdf:li>Developing Large-scale Programs</rdf:li>
+      <rdf:li>A potential Problem with Abstractions</rdf:li>
+      <rdf:li>The Development Strategy</rdf:li>
+      <rdf:li>PSP3</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+</rdf:RDF> 

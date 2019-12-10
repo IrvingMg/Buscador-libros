@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/AI/">
+
+<rdf:Description
+rdf:about="UTILIZACION DE C EN INTELIGENCIA ARTIFICIAL">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Introducción</rdf:li>
+      <rdf:li>Inteligencia artificial: Breve Introducción</rdf:li>
+      <rdf:li>Resolución de problemas: Búsqueda de las soluciones</rdf:li>
+      <rdf:li>Sistemas expertos</rdf:li>
+      <rdf:li>Procesamiento del lenguaje natural</rdf:li>
+      <rdf:li>Visión y reconocimiento de modelos</rdf:li>
+      <rdf:li>Robótica</rdf:li>
+      <rdf:li>Aprendizaje de las máquinas</rdf:li>
+      <rdf:li>Lógica e incertidumbre</rdf:li>
+      <rdf:li>Apariencia humana</rdf:li>
+      <rdf:li>Revisión del C</rdf:li>
+      <rdf:li>Indice</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Inteligencia artificial: Breve Introducción">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Breve historia de IA</rdf:li>
+      <rdf:li>¿Pueden las computadoras pensar?</rdf:li>
+      <rdf:li>Definición de máquina inteligente</rdf:li>
+      <rdf:li>Temas fundamentales de la IA</rdf:li>
+      <rdf:li>¿Por qué usar C para la programación en IA?</rdf:li>
+      <rdf:li>Bases de datos, retroseguimieno y procesamiento de listas</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Resolución de problemas: Búsqueda de las soluciones">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Representación y terminología</rdf:li>
+      <rdf:li>Explosiones combinatorias</rdf:li>
+      <rdf:li>Técnicas de búsqueda</rdf:li>
+      <rdf:li>Evaluación de una búsqueda</rdf:li>
+      <rdf:li>La técnica de búsqueda del primero en profundidad</rdf:li>
+      <rdf:li>La técnica de búsqueda del primero en anchura</rdf:li>
+      <rdf:li>Adición de información heurística</rdf:li>
+      <rdf:li>La técnica de búsqueda de la escalada de la colina</rdf:li>
+      <rdf:li>La técnica de búsqueda del menor-coste</rdf:li>
+      <rdf:li>Elección de una técnica de búsqueda</rdf:li>
+      <rdf:li>Encontrando múltiples soluciones</rdf:li>
+      <rdf:li>Encontrando la solución óptima</rdf:li>
+      <rdf:li>Volviendo a las llaves perdidas</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Sistemas expertos">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>¿Qué es un sistema experto?</rdf:li>
+      <rdf:li>Cómo funciona un sistema experto</rdf:li>
+      <rdf:li>Creación de un sistema experto de aplicación general</rdf:li>
+      <rdf:li>Una versión más sofisticada</rdf:li>
+      <rdf:li>Ingeniería del conocimiento</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Procesamiento del lenguaje natural">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>¿Qué es el rpocesamiento del lenguaje natural?</rdf:li>
+      <rdf:li>Aproximaciones al procesamiento del lenguaje natural</rdf:li>
+      <rdf:li>Restringiendo el lenguaje</rdf:li>
+      <rdf:li>El analizador PLN de la máquina de estados</rdf:li>
+      <rdf:li>El analizador PLN recursivo-descendente de contexto-libre</rdf:li>
+      <rdf:li>El analizador de eliminación de ruidos</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Visión y reconocimiento de modelos">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Filtrado, contraste y tonalidades</rdf:li>
+      <rdf:li>Sistemas bidimensionales</rdf:li>
+      <rdf:li>Sistemas tridimensionales</rdf:li>
+      <rdf:li>Problemas comunes del reconocimiento</rdf:li>
+      <rdf:li>Reconocimiento de modelos bidimensionales</rdf:li>
+      <rdf:li>Sistemas generalizados</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Robótica">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Brazos del robot</rdf:li>
+      <rdf:li>El robot industrial</rdf:li>
+      <rdf:li>Robots autónomos</rdf:li>
+      <rdf:li>Creación de un simulador de robot</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Aprendizaje de las máquinas">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Dos tipos de aprendizaje</rdf:li>
+      <rdf:li>Cómo se aprenden las descripciones de clase</rdf:li>
+      <rdf:li>Representación del conocimiento</rdf:li>
+      <rdf:li>Implementando el procedimiento de acierto-y-casi-desacierto</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Lógica e incertidumbre">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Lógica</rdf:li>
+      <rdf:li>Incertidumbre</rdf:li>
+      <rdf:li>Lógica incierta o difusa</rdf:li>
+      <rdf:li>Sistemas probabilísticos</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Apariencia humana">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>¿Truco?</rdf:li>
+      <rdf:li>¿Cómo es de bueno?</rdf:li>
+      <rdf:li>Hombre contra máquina</rdf:li>
+      <rdf:li>Visitando al doctor</rdf:li>
+      <rdf:li>Implicaciones de las computadoras pseudo-humanas</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Revisión del C">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Los orígenes del C</rdf:li>
+      <rdf:li>El C como lenguaje estructurado</rdf:li>
+      <rdf:li>Una breve revisión</rdf:li>
+      <rdf:li>Sumario de sentencias</rdf:li>
+      <rdf:li>El preprocesador de C</rdf:li>
+      <rdf:li>La biblioteca estándar del C</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

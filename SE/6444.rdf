@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/SE/">
+
+<rdf:Description
+rdf:about="SOFTWARE REENGINEERING : A CASE STUDY AND LESSONS">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Software Reengineering and CASE Technology</rdf:li>
+      <rdf:li>A Government Case Study</rdf:li>
+      <rdf:li>Conclusions and Recommendations</rdf:li>
+      <rdf:li>Final Remarks</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Appendix A: Function Point Analysis</rdf:li>
+      <rdf:li>Appendix B: Result Metrics Analysis</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Software Reengineering and CASE Technology">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Definitions and Related Terms</rdf:li>
+      <rdf:li>Motivations For Reengineering</rdf:li>
+      <rdf:li>The Use of CASE Tools for Reengineering</rdf:li>
+      <rdf:li>The Repository</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="A Government Case Study">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Background and Goals</rdf:li>
+      <rdf:li>STechnical Approach</rdf:li>
+      <rdf:li>Issues</rdf:li>
+      <rdf:li>Findings</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Findings">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Process</rdf:li>
+      <rdf:li>Metrics Analysis</rdf:li>
+      <rdf:li>Reengineering Tools</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Conclusions and Recommendations">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>General</rdf:li>
+      <rdf:li>Corporate, System, and Reengineering Goals</rdf:li>
+      <rdf:li>Condition of Original System and Documentation</rdf:li>
+      <rdf:li>Resources</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Corporate, System, and Reengineering Goals">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Automated Tool Support</rdf:li>
+      <rdf:li>Personnel</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+</rdf:RDF> 

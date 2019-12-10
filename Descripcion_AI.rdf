@@ -1,0 +1,310 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/">
+
+<rdf:Description rdf:about="ai/5462.rdf">
+  <bib:area>AI</bib:area>
+  <bib:ficha>5462</bib:ficha>
+  <bib:titulo>CONTROVERSIA SOBRE MENTES Y MAQUINAS</bib:titulo>
+  <bib:autor> </bib:autor>
+  <bib:clasificacion>Q335 C65</bib:clasificacion>
+  <bib:anio>1984</bib:anio>
+  <bib:ejemplares>3</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description rdf:about="ai/5460.rdf">
+	<bib:area>AI</bib:area>
+  <bib:ficha>5460</bib:ficha>
+  <bib:titulo>INTRODUCTION TO ARTIFICIAL INTELLIGENCE</bib:titulo>
+  <bib:autor>CHARNIAK, EUGENE</bib:autor>
+  <bib:clasificacion>Q335 C33</bib:clasificacion>
+  <bib:anio>1985</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description rdf:about="ai/5531.rdf">
+	<bib:area>AI</bib:area>
+  <bib:ficha>5531</bib:ficha>
+  <bib:titulo>A COMPREHENSIVE GUIDE TO AI AND EXPERT SYSTEMS USING TURBO PASCAL</bib:titulo>
+  <bib:autor>LEVINE, ROBERT I.</bib:autor>
+  <bib:clasificacion>Q335 l49</bib:clasificacion>
+  <bib:anio>1988</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description rdf:about="ai/5645.rdf">
+	<bib:area>AI</bib:area>
+  <bib:ficha>5645</bib:ficha>
+  <bib:titulo>A FONDO : INTELIGENCIA ARTIFICIAL</bib:titulo>
+  <bib:autor>MISHKOFF, HENRY C.</bib:autor>
+  <bib:clasificacion>Q335 M58</bib:clasificacion>
+  <bib:anio>1988</bib:anio>
+  <bib:ejemplares>3</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description rdf:about="ai/5623.rdf">
+	<bib:area>AI</bib:area>
+  <bib:ficha>5623</bib:ficha>
+  <bib:titulo>UTILIZACION DE C EN INTELIGENCIA ARTIFICIA</bib:titulo>
+  <bib:autor>SCHILDT, HERBERT</bib:autor>
+  <bib:clasificacion>Q335 S35</bib:clasificacion>
+  <bib:anio>1989</bib:anio>
+  <bib:ejemplares>4</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5584.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5584</bib:ficha>
+  <bib:titulo>II CONGRESO IBEROAMERICANO DE INTELIGENCIA ARTIFICIAL : MEMORIAS</bib:titulo>
+  <bib:autor>CONGRESO IBEROAMERICANO DE INTELIGENCIA ARTIFICIAL</bib:autor>
+  <bib:clasificacion>Q335 C65</bib:clasificacion>
+  <bib:anio>1990</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/6086.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>6086</bib:ficha>
+  <bib:titulo>MEMORIA NATURAL Y ARTIFICIAL</bib:titulo>
+  <bib:autor>VIANA, LAURA</bib:autor>
+  <bib:clasificacion>Q335 V53</bib:clasificacion>
+  <bib:anio>1990</bib:anio>
+  <bib:ejemplares>5</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5526.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5526</bib:ficha>
+  <bib:titulo>INTELIGENCIA ARTIFICIAL : LA GRAN GUIA</bib:titulo>
+  <bib:autor>MARTINEZ, ANGEL</bib:autor>
+  <bib:clasificacion>Q335 M37</bib:clasificacion>
+  <bib:anio>1991</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5586.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5586</bib:ficha>
+  <bib:titulo>ARTIFICIAL INTELLIGENCE</bib:titulo>
+  <bib:autor>RICH, ELAINE</bib:autor>
+  <bib:clasificacion>Q335 R534</bib:clasificacion>
+  <bib:anio>1991</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/2528.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>2528</bib:ficha>
+  <bib:titulo>INTELIGENCIA ARTIFICIAL EN MEXICO</bib:titulo>
+  <bib:autor> </bib:autor>
+  <bib:clasificacion>Q335 I58</bib:clasificacion>
+  <bib:anio>1992</bib:anio>
+  <bib:ejemplares>8</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5585.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5585</bib:ficha>
+  <bib:titulo>III CONGRESO IBEROAMERICANO DE INTELIGENCIA ARTIFICIAL : MEMORIAS</bib:titulo>
+  <bib:autor>CONGRESO IBEROAMERICANO DE INTELIGENCIA ARTIFICIAL</bib:autor>
+  <bib:clasificacion>Q335 C65</bib:clasificacion>
+  <bib:anio>1992</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5503.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5503</bib:ficha>
+  <bib:titulo>INTELIGENCIA ARTIFICIAL</bib:titulo>
+  <bib:autor>RICH, ELAINE</bib:autor>
+  <bib:clasificacion>Q335 R53</bib:clasificacion>
+  <bib:anio>1994</bib:anio>
+  <bib:ejemplares>4</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5523.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5523</bib:ficha>
+  <bib:titulo>FILOSOFÍA DE LA INTELIGENCIA ARTIFICIAL</bib:titulo>
+  <bib:autor> </bib:autor>
+  <bib:clasificacion>Q335 F54</bib:clasificacion>
+  <bib:anio>1994</bib:anio>
+  <bib:ejemplares>3</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5527.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5527</bib:ficha>
+  <bib:titulo>LA ERA DE LAS MAQUINAS INTELIGENTES</bib:titulo>
+  <bib:autor>KURZWEIL, RAYMOND</bib:autor>
+  <bib:clasificacion>Q335 K87</bib:clasificacion>
+  <bib:anio>1994</bib:anio>
+  <bib:ejemplares>2</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5563.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5563</bib:ficha>
+  <bib:titulo>INTELIGENCIA ARTIFICIAL</bib:titulo>
+  <bib:autor>WINSTON, PATRICK HENRY</bib:autor>
+  <bib:clasificacion>Q335 W55</bib:clasificacion>
+  <bib:anio>1994</bib:anio>
+  <bib:ejemplares>5</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5514.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5514</bib:ficha>
+  <bib:titulo>ARTIFICIAL INTELLIGENCE : THEORY AND PRACTICE</bib:titulo>
+  <bib:autor>DEAN, TOMAS</bib:autor>
+  <bib:clasificacion>Q335 D43</bib:clasificacion>
+  <bib:anio>1995</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5499.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5499</bib:ficha>
+  <bib:titulo>INTELIGENCIA ARTIFICIAL : UN ENFOQUE MODERNO</bib:titulo>
+  <bib:autor>RUSSELL, STUART J.</bib:autor>
+  <bib:clasificacion>Q335 R88</bib:clasificacion>
+  <bib:anio>1996</bib:anio>
+  <bib:ejemplares>4</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/10023.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>10023</bib:ficha>
+  <bib:titulo>BEYOND HUMANITY : CYBEREVOLUTION AND FUTURE MINDS</bib:titulo>
+  <bib:autor>PAUL, GREGORY S.</bib:autor>
+  <bib:clasificacion>Q335 P39</bib:clasificacion>
+  <bib:anio>1996</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5501.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5501</bib:ficha>
+  <bib:titulo>INTRODUCCION AL RAZONAMIENTO</bib:titulo>
+  <bib:autor>DIEZ, F. J.</bib:autor>
+  <bib:clasificacion>Q335 D54</bib:clasificacion>
+  <bib:anio>1998</bib:anio>
+  <bib:ejemplares>2</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5504.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5504</bib:ficha>
+  <bib:titulo>ARTIFICIAL INTELLIGENCE : A NEW SYNTHESIS</bib:titulo>
+  <bib:autor>NILSSON, NILS J.</bib:autor>
+  <bib:clasificacion>Q335 N54</bib:clasificacion>
+  <bib:anio>1998</bib:anio>
+  <bib:ejemplares>4</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5522.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5522</bib:ficha>
+  <bib:titulo>FUNDAMENTALS OF THE NEW ARTIFICIAL INTELLIGENCE : BEYOND TRADITIONAL PARADIGMS</bib:titulo>
+  <bib:autor>MUNAKATA, TOSHINORI</bib:autor>
+  <bib:clasificacion>Q335 M85</bib:clasificacion>
+  <bib:anio>1998</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5535.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5535</bib:ficha>
+  <bib:titulo>COMPUTATIONAL INTELLIGENCE : A LOGICAL APPROACH</bib:titulo>
+  <bib:autor>POOLE, DAVID</bib:autor>
+  <bib:clasificacion>Q335 P66</bib:clasificacion>
+  <bib:anio>1998</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5534.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5534</bib:ficha>
+  <bib:titulo>INTELIGENCIA ARTIFICIAL : UNA NUEVA SÍNTESIS</bib:titulo>
+  <bib:autor>NILSSON, NILS J.</bib:autor>
+  <bib:clasificacion>Q335 N547</bib:clasificacion>
+  <bib:anio>2001</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5614.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5614</bib:ficha>
+  <bib:titulo>EL CUERPO TRANSFORMADO : CYBORGS Y NUESTRA DESCENDENCIA TECNOLOGICA EN LA REALIDAD Y EN LA CIENCIA FICCION</bib:titulo>
+  <bib:autor>YEHYA, NAIEF</bib:autor>
+  <bib:clasificacion>Q335 Y44</bib:clasificacion>
+  <bib:anio>2001</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/9946.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>9946</bib:ficha>
+  <bib:titulo>DIGITAL SOUL : INTELLIGENT MACHINES AND HUMAN VALUES</bib:titulo>
+  <bib:autor>GEORGES, THOMAS M.</bib:autor>
+  <bib:clasificacion>Q335 G46</bib:clasificacion>
+  <bib:anio>2003</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/5498.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>5498</bib:ficha>
+  <bib:titulo>INTELIGENCIA ARTIFICIAL : UN ENFOQUE MODERNO</bib:titulo>
+  <bib:autor>RUSSELL, STUART J.</bib:autor>
+  <bib:clasificacion>Q335 R887</bib:clasificacion>
+  <bib:anio>2004</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/675.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>675</bib:ficha>
+  <bib:titulo>INTELIGENCIA ARTIFICIAL PARA LA SUPERVISION DE PROCESOS INDUSTRIALES</bib:titulo>
+  <bib:autor>AGUILAR-MARTiN, JOSEPH</bib:autor>
+  <bib:clasificacion>Q335 A45</bib:clasificacion>
+  <bib:anio>2007</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ai/1116.rdf">
+<bib:area>AI</bib:area>
+  <bib:ficha>1116</bib:ficha>
+  <bib:titulo>MICAI 2007 : ADVANCES IN ARTIFICIAL INTELLIGENCE : SIXTH MEXICAN INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE, AGUASCALIENTES, AGS., MEXICO, NOVEMBER, 2007 : PROCEEDINGS</bib:titulo>
+  <bib:autor>MEXICAN INTERNATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE</bib:autor>
+  <bib:clasificacion>Q335 M49</bib:clasificacion>
+  <bib:anio>2007</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+</rdf:RDF> 

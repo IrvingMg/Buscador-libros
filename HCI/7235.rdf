@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/HCI/">
+
+<rdf:Description
+rdf:about="DESIGNING THE USER INTERFACE : STRATEGIES FOR EFFECTIVE HUMAN-COMPUTER INTERACTION">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>HUMAN FACTORS OF INTERACTIVE SOFTWARE</rdf:li>
+      <rdf:li>THEORIES, PRINCIPLES, AND GUIDELINES</rdf:li>
+      <rdf:li>MANAGING DESIGN PROCESSES</rdf:li>
+      <rdf:li>EXPERT REVIEWS, USABILITY TESTING, SURVEYS, AND CONTINUING ASSESSMENTS</rdf:li>
+      <rdf:li>SOFTWARE TOOLS</rdf:li>
+      <rdf:li>DIRECT MANIPULATION AND VIRTUAL ENVIRONMENTS</rdf:li>
+      <rdf:li>MENU SELECTION, FORM FILLIN, AND DIALOG BOXES</rdf:li>
+      <rdf:li>COMMAND AND NATURAL LANGUAGES</rdf:li>
+      <rdf:li>INTERACTION DEVICES</rdf:li>
+      <rdf:li>RESPONSE TIME AND DISPLAY RATE</rdf:li>
+      <rdf:li>PRESENTATION STYLES: BALANCING FUNCTION AND FASHION</rdf:li>
+      <rdf:li>PRINTED MANUALS, ONLINE HELP, AND TUTORIALS</rdf:li>
+      <rdf:li>MULTIPLE-WINDOW STRATEGIES</rdf:li>
+      <rdf:li>COMPUTER-SUPPORTED COOPERATIVE WORK</rdf:li>
+      <rdf:li>INFORMATION SEARCH AND VISUALIZATION</rdf:li>
+      <rdf:li>HYPERMEDIA AND THE WORLD WIDE WEB</rdf:li>
+      <rdf:li>SOCIETAL AND INDIVIDUAL IMPACT OF USER INTERFACE</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="HUMAN FACTORS OF INTERACTIVE SOFTWARE">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Goals of System Engineering</rdf:li>
+      <rdf:li>Goals of User-Interface Design</rdf:li>
+      <rdf:li>Moivations for Human Factors in Design</rdf:li>
+      <rdf:li>Accomodation of Human Diversity</rdf:li>
+      <rdf:li>Goals for Our Profession</rdf:li>
+      <rdf:li>Practitioner's Summary</rdf:li>
+      <rdf:li>Researcher's Agenda</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="THEORIES, PRINCIPLES, AND GUIDELINES">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>High-Level Theories</rdf:li>
+      <rdf:li>Object-Action Interface Model</rdf:li>
+      <rdf:li>Principle 1: Recognize the Diversity</rdf:li>
+      <rdf:li>Principle 2: Use the Eight Golden Rules of Interface Design</rdf:li>
+      <rdf:li>Principle 3: Prevent Errors</rdf:li>
+      <rdf:li>Guidelines for Data Display</rdf:li>
+      <rdf:li>Guidelines for Data Entry</rdf:li>
+      <rdf:li>Balance of Automation and Human Control</rdf:li>
+      <rdf:li>Practitioner's Summary</rdf:li>
+      <rdf:li>Researcher's Agenda</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="MANAGING DESIGN PROCESSES">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>High-Level Theories</rdf:li>
+      <rdf:li>Organizational Design to Support Usability</rdf:li>
+      <rdf:li>The Three Pillars of Design</rdf:li>
+      <rdf:li>Development Methodologies</rdf:li>
+      <rdf:li>Ethnographic Observation</rdf:li>
+      <rdf:li>Participatory Design</rdf:li>
+      <rdf:li>Scenario Development</rdf:li>
+      <rdf:li>Social Impact Statement for Early Design Review</rdf:li>
+      <rdf:li>Legal Issues</rdf:li>
+      <rdf:li>Practitioner's Summary</rdf:li>
+      <rdf:li>Researcher's Agenda</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="EXPERT REVIEWS, USABILITY TESTING, SURVEYS, AND CONTINUING ASSESSMENTS">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Expert Reviews</rdf:li>
+      <rdf:li>Usability Testing and Laboratories</rdf:li>
+      <rdf:li>Surveys</rdf:li>
+      <rdf:li>Acceptance Tests</rdf:li>
+      <rdf:li>Evaluation During Active Use</rdf:li>
+      <rdf:li>Controlled Psychologically Oriented Experiments</rdf:li>
+      <rdf:li>Practitioner's Summary</rdf:li>
+      <rdf:li>Researcher's Agenda</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="SOFTWARE TOOLS">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Specification Methods</rdf:li>
+      <rdf:li>Interface-Building Tools</rdf:li>
+      <rdf:li>Evaluation and Critiquing Tools</rdf:li>
+      <rdf:li>Practitioner's Summary</rdf:li>
+      <rdf:li>Researcher's Agenda</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="DIRECT MANIPULATION AND VIRTUAL ENVIRONMENTS">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Examples of Direct-Manipulation Systems</rdf:li>
+      <rdf:li>Explanations of Direct Manipulation</rdf:li>
+      <rdf:li>Visual Thinking and Icons</rdf:li>
+      <rdf:li>Direct-Manipulation Programming</rdf:li>
+      <rdf:li>Home Automation</rdf:li>
+      <rdf:li>Remote Direct Manipulation</rdf:li>
+      <rdf:li>Virtual Environments</rdf:li>
+      <rdf:li>Practitioner's Summary</rdf:li>
+      <rdf:li>Researcher's Agenda</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="MENU SELECTION, FORM FILLIN, AND DIALOG BOXES">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Task-Related Organization</rdf:li>
+      <rdf:li>Item Presentation Sequence</rdf:li>
+      <rdf:li>Response Time and Display Rate</rdf:li>
+      <rdf:li>Fast Movement Through Menus</rdf:li>
+      <rdf:li>Menu Layout</rdf:li>
+      <rdf:li>Form Fillin</rdf:li>
+      <rdf:li>Dialog Boxes</rdf:li>
+      <rdf:li>Practitioner's Summary</rdf:li>
+      <rdf:li>Researcher's Agenda</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="COMMAND AND NATURAL LANGUAGES">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Functionality to Support Users' Tasks</rdf:li>
+      <rdf:li>Command-Organization Strategies</rdf:li>
+      <rdf:li>The Benefits of Structure</rdf:li>
+      <rdf:li>Naming and Abbreviations</rdf:li>
+      <rdf:li>Command Menus</rdf:li>
+      <rdf:li>Natural Language in Computing</rdf:li>
+      <rdf:li>Practitioner's Summary</rdf:li>
+      <rdf:li>Researcher's Agenda</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="INTERACTION DEVICES">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Keyboradand Function Keys</rdf:li>
+      <rdf:li>Pointing Devices</rdf:li>
+      <rdf:li>Speech Recognition, Digitization and Generation</rdf:li>
+      <rdf:li>Image and Video Displays</rdf:li>
+      <rdf:li>Printers</rdf:li>
+      <rdf:li>Practitioner's Summary</rdf:li>
+      <rdf:li>Researcher's Agenda</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="RESPONSE TIME AND DISPLAY RATE">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Theoretical Foundations</rdf:li>
+      <rdf:li>Expectations and Attitudes</rdf:li>
+      <rdf:li>User Productivity</rdf:li>
+      <rdf:li>Variability</rdf:li>
+      <rdf:li>Practitioner's Summary</rdf:li>
+      <rdf:li>Researcher's Agenda</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

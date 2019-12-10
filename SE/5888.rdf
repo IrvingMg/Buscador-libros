@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/SE/">
+
+<rdf:Description
+rdf:about="INGENIERÍA DE SOFTWARE: MEMORIAS DEL PRIMER ENCUENTRO DE COMPUTACIÓN ENCUENTRO 97">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Un caso de estudio sobre los patrones de diseño</rdf:li>
+      <rdf:li>Web-supported collaborative software development</rdf:li>
+      <rdf:li>Object-Oriented assistant for web applications and publications</rdf:li>
+      <rdf:li>El rol del analista apoyado por las estrategias y patrones de Coad</rdf:li>
+      <rdf:li>e-journal: Un modelo simple para la construccion de revistas electrónicas</rdf:li>
+      <rdf:li>Patrones de diseño para los formatos de datos del protocolo de capa superior DICOM</rdf:li>
+      <rdf:li>Planificación de tareas de tiempo real tolerantes a fallos</rdf:li>
+      <rdf:li>C3to: Una herramienta CASE colaborativa para el análisis de escenarios aplicando la técnica CRC</rdf:li>
+      <rdf:li>Proceso de softaware modelado con objetos</rdf:li>
+      <rdf:li>HQ: Un sistema colaborativo de apoyo a la mejora de la calidad del softaware</rdf:li>
+      <rdf:li>La norma ISO9001 en la investigación y la ingeniería del software</rdf:li>
+      <rdf:li>Personas y roles un patrón de diseño</rdf:li>
+      <rdf:li>Limitaciones de la especificaciones formales por el teorema de Godel</rdf:li>
+      <rdf:li>EL CASE Salvador</rdf:li>
+      <rdf:li></rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+</rdf:RDF> 

@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/SE/">
+
+<rdf:Description
+rdf:about="REQUIREMENTS ENGINEERING : PROCESSES AND TECHNIQUES">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Introduction</rdf:li>
+      <rdf:li>Requirements Engineering Processes</rdf:li>
+      <rdf:li>Requirements Elicitation and Analysis</rdf:li>
+      <rdf:li>Requeriments Validation</rdf:li>
+      <rdf:li>Requirements Management</rdf:li>
+      <rdf:li>Methods for Requirements Engineering</rdf:li>
+      <rdf:li>Viewpoint-oriented Requeriments Methods</rdf:li>
+      <rdf:li>Non-functional Requerimnts</rdf:li>
+      <rdf:li>Interactive System Specification</rdf:li>
+      <rdf:li>Case Study</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Introduction">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>FAQs about requeriments</rdf:li>
+      <rdf:li>Systems engineering</rdf:li>
+      <rdf:li>The requirements document</rdf:li>
+      <rdf:li>Key points</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Further reading</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Requirements Engineering Process">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Procces models</rdf:li>
+      <rdf:li>Actors in requirements engineering</rdf:li>
+      <rdf:li>Procces support</rdf:li>
+      <rdf:li>Procces improvement</rdf:li>
+      <rdf:li>Key points</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Further reading</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Requirements Elicitation and Analysis">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Elicitation and analysis processes</rdf:li>
+      <rdf:li>Elicitation techniques</rdf:li>
+      <rdf:li>Prototyping</rdf:li>
+      <rdf:li>Requeriments analysis and negotiaton</rdf:li>
+      <rdf:li>Key points</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Further reading</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Requirements Validation">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Requeriments reviews</rdf:li>
+      <rdf:li>Prototyping</rdf:li>
+      <rdf:li>Model validation</rdf:li>
+      <rdf:li>Requeriments testing</rdf:li>
+      <rdf:li>Key points</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Further reading</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description> 
+
+<rdf:Description
+rdf:about="Requirements Management">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Stable and volatile requirements</rdf:li>
+      <rdf:li>Requeriments identification and storage</rdf:li>
+      <rdf:li>Change managament</rdf:li>
+      <rdf:li>Traceability</rdf:li>
+      <rdf:li>Key points</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Further reading</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+  <rdf:Description
+  rdf:about="Methods for Requeriments Engineering">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Data-flow modelling</rdf:li>
+      <rdf:li>Semantic</rdf:li>
+      <rdf:li>Object-oriented approaches</rdf:li>
+      <rdf:li>Formal methods</rdf:li>
+      <rdf:li>Key points</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Further reading</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+  <rdf:Description
+rdf:about="Viewpoint-oriented Requeriments Methods">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Structured Analysis and Design Technique (SADT)</rdf:li>
+      <rdf:li>Controlled Requirements Expression (CORE)</rdf:li>
+      <rdf:li>Viewpoint-oriented System Engineering (VOSE)</rdf:li>
+      <rdf:li>Viewpoint-oriented Requirements Definition (VORD)</rdf:li>
+      <rdf:li>Viewpoint-oriented requirements validation</rdf:li>
+      <rdf:li>Key points</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Further reading</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="Non-functional Requirements">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Classification of non-functional requirements</rdf:li>
+      <rdf:li>Deriving non-functional requirements</rdf:li>
+      <rdf:li>Requirements for critical systems</rdf:li>
+      <rdf:li>Requirements engineering for safety-related systems</rdf:li>
+      <rdf:li>Key points</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Further reading</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+  </rdf:Description>
+
+  <rdf:Description
+  rdf:about="Interactive Systems Specification">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>VORD - viewpoints for interative system specification</rdf:li>
+      <rdf:li>Requeriments definition</rdf:li>
+      <rdf:li>Transition to object-oriented design</rdf:li>
+      <rdf:li>Key points</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Further reading</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+ </rdf:Description>
+
+  <rdf:Description
+  rdf:about="Case Study">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>EDDIS requirements</rdf:li>
+      <rdf:li>Identifying EDDIS viewpoints</rdf:li>
+      <rdf:li>Analysis and evolution of EDDIS requirements</rdf:li>
+      <rdf:li>Specifying EDDIS requirements</rdf:li>
+      <rdf:li>Key points</rdf:li>
+      <rdf:li>Exercises</rdf:li>
+      <rdf:li>References</rdf:li>
+      <rdf:li>Further reading</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+  </rdf:Description>
+
+</rdf:RDF> 

@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/">
+
+<rdf:Description
+rdf:about="hci/6090.rdf">
+	<bib:area>HCI</bib:area>
+  <bib:ficha>6090</bib:ficha>
+  <bib:titulo>Z (VERSION 1)</bib:titulo>
+  <bib:autor>RUIZ DE VELASCO, CARLOS</bib:autor>
+  <bib:clasificacion>QA76.9 I58 R85</bib:clasificacion>
+  <bib:anio>1981</bib:anio>
+  <bib:ejemplares>2</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="hci/6498.rdf">
+	<bib:area>HCI</bib:area>
+  <bib:ficha>6498</bib:ficha>
+  <bib:titulo>THE PSYCHOLOGY OF HUMAN-COMPUTER INTERACTION</bib:titulo>
+  <bib:autor>CARD, STUART K.</bib:autor>
+  <bib:clasificacion>QA76.9 I58 C37</bib:clasificacion>
+  <bib:anio>1983</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="hci/6501.rdf">
+	<bib:area>HCI</bib:area>
+  <bib:ficha>6501</bib:ficha>
+  <bib:titulo>USER CENTERED SYSTEM DESIGN : NEW PERSPECTIVES ON</bib:titulo>
+  <bib:autor> </bib:autor>
+  <bib:clasificacion>QA76.9 I58 U84</bib:clasificacion>
+  <bib:anio>1986</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="hci/6499.rdf">
+	<bib:area>HCI</bib:area>
+  <bib:ficha>6499</bib:ficha>
+  <bib:titulo>AN INTRODUCTION TO HUMAN-COMPUTER INTERACTION</bib:titulo>
+  <bib:autor>BOOTH, PAUL A.</bib:autor>
+  <bib:clasificacion>QA76.9 I58 B66</bib:clasificacion>
+  <bib:anio>1989</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="hci/7235.rdf">
+	<bib:area>HCI</bib:area>
+  <bib:ficha>7235</bib:ficha>
+  <bib:titulo>DESIGNING THE USER INTERFACE : STRATEGIES FOR EFFECTIVE HUMAN-COMPUTER INTERACTION</bib:titulo>
+  <bib:autor>SHNEIDERMAN, BEN</bib:autor>
+  <bib:clasificacion>QA76.9 I58 S55</bib:clasificacion>
+  <bib:anio>1998</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="hci/4257.rdf">
+	<bib:area>HCI</bib:area>
+  <bib:ficha>4257</bib:ficha>
+  <bib:titulo>THE GUI GUIDE : INTERNATIONAL TERMINOLOGY FOR THE WINDOWS INTERFACE</bib:titulo>
+  <bib:autor> </bib:autor>
+  <bib:clasificacion>QA76.9 U83 G85</bib:clasificacion>
+  <bib:anio>1993</bib:anio>
+  <bib:ejemplares>2</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="hci/6871.rdf">
+	<bib:area>HCI</bib:area>
+  <bib:ficha>6871</bib:ficha>
+  <bib:titulo>USABILITY ENGINEERING</bib:titulo>
+  <bib:autor>NIELSEN, JAKOB</bib:autor>
+  <bib:clasificacion>QA76.9 U83 N54</bib:clasificacion>
+  <bib:anio>1993</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="hci/6867.rdf">
+	<bib:area>HCI</bib:area>
+  <bib:ficha>6867</bib:ficha>
+  <bib:titulo>HANDBOOK OF USABILITY TESTING : HOW TO PLAN, DESIGN, AND CONDUCT EFFECTIVE TESTS</bib:titulo>
+  <bib:autor>RUBIN, JEFFREY</bib:autor>
+  <bib:clasificacion>QA76.9 U83 R82</bib:clasificacion>
+  <bib:anio>1994</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="hci/6607.rdf">
+	<bib:area>HCI</bib:area>
+  <bib:ficha>6607</bib:ficha>
+  <bib:titulo>HUMAN-COMPUTER INTERACTION FOR SOFTWARE DESIGNERS</bib:titulo>
+  <bib:autor>MACAULAY, LINDA</bib:autor>
+  <bib:clasificacion>QA76.9 U83 M33</bib:clasificacion>
+  <bib:anio>1995</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="hci/6608.rdf">
+	<bib:area>HCI</bib:area>
+  <bib:ficha>6608</bib:ficha>
+  <bib:titulo>MORE THAN SCREEN DEEP : TOWARD EVERY-CITIZEN INTERFACES TO THE NATION'S INFORMATION INFRASTRUCTURE / TOWARD AN EVERY-CITIZEN INTERFACE TO THE NATION'S INFORMATION INFRASTRUCTURE STEERING COMMITTEE, COMPUTER SCIENCE AND TELECOMMUNICATIONS BOARD, COMMISSION ON PHYSICAL SCIENCES, MATHEMATICS, AND APPLICATIONS, NATIONAL RESEARCH COUNCIL</bib:titulo>
+  <bib:autor>BNATIONAL RESEARCH COUNCIL (U. S.). TOWARD AN EVERY-CITIZEN INTERFACE TO THE NATION'S INFORMATION INFRASTRUCTURE STEERING COMMITTEE</bib:autor>
+  <bib:clasificacion>QA76.9 U83 N38</bib:clasificacion>
+  <bib:anio>1997</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="hci/6606.rdf">
+	<bib:area>HCI</bib:area>
+  <bib:ficha>6606</bib:ficha>
+  <bib:titulo>GUI BLOOPERS : DON'TS AND DO'S FOR SOFTWARE DEVELOPERS AND WEB DESIGNERS</bib:titulo>
+  <bib:autor>JOHNSON, JEFF</bib:autor>
+  <bib:clasificacion>QA76.9 U83 J64</bib:clasificacion>
+  <bib:anio>2000</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="hci/1567.rdf">
+	<bib:area>HCI</bib:area>
+  <bib:ficha>1567</bib:ficha>
+  <bib:titulo>DESIGNING INTERFACES</bib:titulo>
+  <bib:autor>TIDWELL, JENIFER</bib:autor>
+  <bib:clasificacion>QA76.9 U83 T53</bib:clasificacion>
+  <bib:anio>2005</bib:anio>
+  <bib:ejemplares>1</bib:ejemplares>
+</rdf:Description>
+
+</rdf:RDF> 

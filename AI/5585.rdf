@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/AI/">
+
+<rdf:Description
+rdf:about="III CONGRESO IBEROAMERICANO DE INTELIGENCIA ARTIFICIAL : MEMORIAS">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>SISTEMAS EXPERTOS</rdf:li>
+      <rdf:li>PROGRAMACION LÓGICA</rdf:li>
+      <rdf:li>ALGORITMOS GENÉTICOS Y REDES NEURONALES</rdf:li>
+      <rdf:li>COOPERACIÓN</rdf:li>
+      <rdf:li>RAZONAMIENTO</rdf:li>
+      <rdf:li>APRENDIZAJE Y ADQUISICIÓN DEL CONOCIMIENTO</rdf:li>
+      <rdf:li>TUTORES INTELIGENTES</rdf:li>
+      <rdf:li>VISIÓN</rdf:li>
+      <rdf:li>INDICE DE AUTORES</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="SISTEMAS EXPERTOS">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Mecanismos de Diagnóstico Técnico en Modelos de Conocimiento por Objetos</rdf:li>
+      <rdf:li>"CONDE": Un Sistema Experto para Reconocimiento de Patrones de Síntomas y Diagnóstico</rdf:li>
+      <rdf:li>Un Sistema Basado en el Conocimiento para la Diagnosis en Plantas de Tratamiento de Aguas Residuales</rdf:li>
+      <rdf:li>Un Gestor Extensible de Procedimientos Asociados en el Contexto de los Sistemas Orientados a Objetos</rdf:li>
+      <rdf:li>Sistema Consultante para la Electroacupuntura Analgésica Clínica (SCEAC)</rdf:li>
+      <rdf:li>Sistema Experto en Alcoholismo. Ingeniería del Conocimiento</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="PROGRAMACION LÓGICA">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>PEPS: Programación conFunciones y Tipos Ordenados</rdf:li>
+      <rdf:li>Esquema para la Compilación de PROLOG Basado en la Máquina Abstracta de Warren</rdf:li>
+      <rdf:li>Simulación Basada en el Conocimiento sobre PROLOG</rdf:li>
+      <rdf:li>Verificación y Construcción Automática de Programas por Transformaciones de Objetos</rdf:li>
+      <rdf:li>Detección Automática de Reglas y Cadenas Circulares de Reglas en PROLOG</rdf:li>
+      <rdf:li>Programación Lógica y Programación Basada en Estados</rdf:li>
+      <rdf:li>Integrando la Programación Orientada a Objetos y la Programación Lógica Mediante O-PROLOG</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="ALGORITMOS GENÉTICOS Y REDES NEURONALES">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Optimización de Permutaciones con Algoritmos Genéticos, Problemas de Programación de Tareas</rdf:li>
+      <rdf:li>Un Extractor de Carcaterísticas para OCR</rdf:li>
+      <rdf:li>Un Experimento en el Reconocimiento de Letras Manuscritas Utilizando Redes Neuronales Artificiales Localmente Conectadas</rdf:li>
+      <rdf:li>Mínimos en Máquinas de Boltzmann y Diseño de Experimentos</rdf:li>
+      <rdf:li>Optimización de Permutaciones con Algoritmos Genéticos: Problemas de Vendedor Viajero</rdf:li>
+      <rdf:li>Aportaciones de los Algoritmos Genéticos a la Identificación Paramétrica de Sistemas</rdf:li>
+      <rdf:li>A New Kind of Neural Netowrk Applied to the Recognition of Complex Temporal Sequences</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="COOPERACIÓN">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Sistemas Basados en el Conocimiento para Coordinación de Trabajo Cooperativo</rdf:li>
+      <rdf:li>Medio Ambiente para la Generación de Organizaciones y Agentes Cooperativos</rdf:li>
+      <rdf:li>Desarrollo de Arquitecturas Basadas en Sociedades de Agentes</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="RAZONAMIENTO">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Intuicionismo y No Monotonía: La Misma Cara de la Moneda</rdf:li>
+      <rdf:li>Condicionales Derotables e Inferencias No Monótonas</rdf:li>
+      <rdf:li>Un Estudio de la Lógica Cronológica R, Orietnado a la Verificación de KBS Temporales</rdf:li>
+      <rdf:li>Actualización de Bases de Conocimiento USando Teorías de Cambio de Creencia</rdf:li>
+      <rdf:li>Técnicas de Razonamiento Temporal para Control de Procesos</rdf:li>
+      <rdf:li>Mantenimiento de la Razón en Sistemas con Restricciones Abordados con Técnicas CLP</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="APRENDIZAJE Y ADQUISICIÓN DEL CONOCIMIENTO">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>LINNEO: Herramienta para la Adquisición de Conocimiento y Generación de Reglas de Clasificación en Dominios Poco Estructurados</rdf:li>
+      <rdf:li>KLASS: Una Herramienta Estadística Basada en el Conocimiento para la Creación de Prototipos en Dominios Poco Estrcuturados</rdf:li>
+      <rdf:li>Aprendizaje de Reglas a Través de Clustering Conceptual con Objetos Irregulares</rdf:li>
+      <rdf:li>Aprendizaje Circunscripcional de Reglas de Primer Orden Mediante Sesgos Sintácticos y Semánticos</rdf:li>
+      <rdf:li>Modelos de Algoritmos de Reconocimiento con Aprendizaje Parcial</rdf:li>
+      <rdf:li>Prognosis y sus Aplicaciones a las Geociencias</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="TUTORES INTELIGENTES">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Diagnóstico y Estrategias de Recuperación en Sistemas ICAI Aplicados a Entornos Industriales</rdf:li>
+      <rdf:li>Consideraciones Acerca de la Construcción de Entrenadores para la Programación en PROLOG</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="VISIÓN">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Búsqueda de la Correspondencia en un Par Estéreo Mediante el Uso de Descriptores de Curvas</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

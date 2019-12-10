@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/AI/">
+
+<rdf:Description
+rdf:about="INTELIGENCIA ARTIFICIAL EN MEXICO">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>La Inteligencia Artificial: Presentación</rdf:li>
+      <rdf:li>Arquitectura Lingüistico-Interactivo para Sistemas Evolutivos</rdf:li>
+      <rdf:li>Diseño de Robots Inteligentes</rdf:li>
+      <rdf:li>Esquemas para el Procesamiento de Programas Lógicos</rdf:li>
+      <rdf:li>Aplicaciones de los Sistemas Expertos en la Ingeniería</rdf:li>
+      <rdf:li>La Situación de la Informática en México (con un Leve Sesgo en Inteligencia Artificial)</rdf:li>
+      <rdf:li>Herramientas Modernas de Programación de los 90's</rdf:li>
+      <rdf:li>Inteligencia Artificial Distribuida: Redes Neuronales</rdf:li>
+      <rdf:li>La Utilización de Herramientas CASE en la Formación de los Profesionales en Informática</rdf:li>
+      <rdf:li>Organización y Modelos Sociales de Actores</rdf:li>
+      <rdf:li>Hacia los Sistemas Interoperables</rdf:li>
+      <rdf:li>CASSANDRA. Ingeniería de Software: Un Enfoque de Calidad</rdf:li>
+      <rdf:li>Las Reuniones Anuales de la Sociedad Mexicana de Inteligencia Artificial</rdf:li>
+      <rdf:li>La Recuesta del Progreso</rdf:li>
+		<rdf:li>Algunos Aspectos Básicos sobre los Virus de Computadoras</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+</rdf:RDF> 

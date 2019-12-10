@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/SE/">
+
+<rdf:Description
+rdf:about="THE MYTHICAL MAN-MONTH : ESSAYS ON SOFTWARE ENGINENERING">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Preface to the 20th Anniversary Edition  </rdf:li>
+      <rdf:li>Preface to the First Edition </rdf:li>
+      <rdf:li>The Tar Pit</rdf:li>
+      <rdf:li>The Mythical Man-Month</rdf:li>
+      <rdf:li>The Surgical Team</rdf:li>
+      <rdf:li>Aristocracy, Democracy, and System Design</rdf:li>
+      <rdf:li>The Second-System Effect</rdf:li>
+      <rdf:li>Passing the Word</rdf:li>
+      <rdf:li>Why Did the Tower of Babel Fail?</rdf:li>
+      <rdf:li>Calling the Shot</rdf:li>
+      <rdf:li>Ten Pounds in a Five-Pound Sac</rdf:li>
+      <rdf:li>The Documentary Hypothesis</rdf:li>
+      <rdf:li>Plan to Throw One Away</rdf:li>
+      <rdf:li>Sharp Tools</rdf:li>
+      <rdf:li>The Whole and the Parts</rdf:li>
+      <rdf:li>Hatching a Catastrophe</rdf:li>
+      <rdf:li>The Other Face </rdf:li>
+      <rdf:li>No Silver Bullet—Essence and Accident </rdf:li>
+      <rdf:li>"No Silver Bullet"Refired</rdf:li>
+      <rdf:li>Propositions of The Mythical Man-Month: True or False? </rdf:li>
+      <rdf:li>The Mythical Man-Month after 20 Years</rdf:li>
+      <rdf:li>Epilogue</rdf:li>
+      <rdf:li>Notes and References</rdf:li>
+      <rdf:li>Index</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+</rdf:RDF> 

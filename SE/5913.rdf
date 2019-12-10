@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/SE/">
+
+<rdf:Description
+rdf:about="Software Engineering for Parallel and Distributed Sytsems">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Preface</rdf:li>
+      <rdf:li>Research Papers</rdf:li>
+      <rdf:li>Proyect Reviews</rdf:li>
+      <rdf:li>Demonstrations</rdf:li>
+      <rdf:li>Index of contributors</rdf:li>
+      <rdf:li>Keyword index</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Research Papers">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Infrastructural software for model driven distributed manufacturing systems</rdf:li>
+      <rdf:li>Methodology and tools for the development of high perfomance parallel systems with SDL/MSCs</rdf:li>
+      <rdf:li>Designing and implementing complex systems with agents</rdf:li>
+      <rdf:li>Communications are everything: a design methodology for fault-tolerant concurrent systems</rdf:li>
+      <rdf:li>Designing distributed multimedia systems using PARSE</rdf:li>
+      <rdf:li>Hypersequential programming - a novel paradigm for concurrent programming</rdf:li>
+      <rdf:li>Efficient composition and automatic initialization of arbitrary structured PVM programs</rdf:li>
+      <rdf:li>Arcadia: a platform for the study of dynamic scheduling of communicating processes</rdf:li>
+      <rdf:li>Interactive testing tool for parallel programs</rdf:li>
+      <rdf:li>Cerberus - a tool for debugging distributed algorithms</rdf:li>
+      <rdf:li>Debugging parallel programs using temporal logic</rdf:li>
+      <rdf:li>OPERA: a toolbox for loop parallelization</rdf:li>
+      <rdf:li>program comprehension engines for automatic parallelization: a comparative study</rdf:li>
+      <rdf:li>Concurrent semantics for structured design methods</rdf:li>
+      <rdf:li>Towards a theory of shared data in distributed systems</rdf:li>
+      <rdf:li>Usign concurrency and formal methods for the design of safe procces control</rdf:li>
+      <rdf:li>Usign data flow algebra to analyse the alternating bit protocol</rdf:li>
+      <rdf:li>A hierachical classification of overheads in parallel programs</rdf:li>
+      <rdf:li>Periodicity in an asynchronous algorithm for parallel proccesing</rdf:li>
+      <rdf:li>Perfomance indices to characterise concurrent applications: experimenting GSPN evaluation techniques in plant automation</rdf:li>
+      <rdf:li>Reverse profifling</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Proyect Reviews">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>SEMPA: software engineering methods for parallel scientific applications</rdf:li>
+      <rdf:li>EPOCA: status and prospects</rdf:li>
+      <rdf:li>The PARSE project</rdf:li>
+      <rdf:li>The AL++ Project: object-oriented parallel programming on multicomputers</rdf:li>
+      <rdf:li>The Basel Tool Suite for parallel process</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+
+
+<rdf:Description
+rdf:about="Demonstrations">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Development framework for real-time control system design</rdf:li>
+      <rdf:li>A knowledge based approach to parallel software engineering</rdf:li>
+      <rdf:li>Problem-solving on scalable parallel systems using applications specification and reusable software components</rdf:li>
+      <rdf:li>The PS project: devolopment of a simulator of PVM applications for heterogeneous and network computing</rdf:li>
+      <rdf:li>Supporting integrated  modelling of parallel hybrid systems</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 

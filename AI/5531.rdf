@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/AI/">
+
+<rdf:Description
+rdf:about="A COMPREHENSIVE GUIDE TO AI AND EXPERT SYSTEMS USING TURBO PASCAL">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Human and Machine Intelligence</rdf:li>
+      <rdf:li>Inference Mechanisms: Tools for Machine Thinking</rdf:li>
+      <rdf:li>Expert Systems: Knowledge Plus Inference</rdf:li>
+      <rdf:li>Advanced Programming Techniques for Powerful Systems</rdf:li>
+      <rdf:li>Advanced Knowledge Representation for Smart Systems</rdf:li>
+      <rdf:li>Languages Used in Artificial Intelligence</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Human and Machine Intelligence">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>An Overview of Intelligence</rdf:li>
+      <rdf:li>Developing an Artifical Intelligence System</rdf:li>
+      <rdf:li>Defining Expert Systems</rdf:li>
+      <rdf:li>Natural Language Processing</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="An Overview of Intelligence">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>What Is Artificial Intelligence?</rdf:li>
+      <rdf:li>What is Programming Like Without Artificial Intelligence?</rdf:li>
+      <rdf:li>How Does Artificial Intelligence Make Programming Better?</rdf:li>
+      <rdf:li>How Does Human Intelligence Work?</rdf:li>
+      <rdf:li>Goals</rdf:li>
+      <rdf:li>Facts and Rules</rdf:li>
+      <rdf:li>Pruning</rdf:li>
+      <rdf:li>Inference Mechanism</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Developing an Artifical Intelligence System">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Defining Goals</rdf:li>
+      <rdf:li>Defining Facts</rdf:li>
+      <rdf:li>Obtaining Data</rdf:li>
+      <rdf:li>Rules and Inferences</rdf:li>
+      <rdf:li>Verification through the Inference Mechanism</rdf:li>
+      <rdf:li>Pruning</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Defining Expert Systems">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Heuristic Rules</rdf:li>
+      <rdf:li>Blackboard</rdf:li>
+      <rdf:li>You Can Do It</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Natural Languaje Processing">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Lexical Analysis</rdf:li>
+      <rdf:li>Syntax Analysis</rdf:li>
+      <rdf:li>Semantic Analysis</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Inference Mechanisms: Tools for Machine Thinking">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Forward Chaining</rdf:li>
+      <rdf:li>Backward Chaining</rdf:li>
+      <rdf:li>Use of Probability and Fuzzy Logic in Expert Systems</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Forward Chaining">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Example Using Forward Chaining</rdf:li>
+      <rdf:li>The Knowledge Base</rdf:li>
+      <rdf:li>Processing the Knowledge Base</rdf:li>
+      <rdf:li>Forward Chaining Example</rdf:li>
+      <rdf:li>Concepts for Design Implementation</rdf:li>
+      <rdf:li>Programming Applications</rdf:li>
+      <rdf:li>Forward Chaining Worksheet</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Backward Chaining">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>A Procedure for Designing the Knowledge Base: The Decision Tree</rdf:li>
+      <rdf:li>Conversion to IF-THEN Rules</rdf:li>
+      <rdf:li>Rule Generating Technique</rdf:li>
+      <rdf:li>Processing the Knowledge Base</rdf:li>
+      <rdf:li>Conclusion List</rdf:li>
+      <rdf:li>Conclusion Stack</rdf:li>
+      <rdf:li>An Example Using the Knowledge Base</rdf:li>
+      <rdf:li>Concepts for Design Implementation</rdf:li>
+      <rdf:li>The Tool Itself</rdf:li>
+      <rdf:li>Programming Applications</rdf:li>
+      <rdf:li>Backward Chaining Worksheet</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Use of Probability and Fuzzy Logic in Expert Systems">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Fundamentals of Probability</rdf:li>
+      <rdf:li>Bayesian Probability</rdf:li>
+      <rdf:li>Example</rdf:li>
+      <rdf:li>Fuzzy Concepts</rdf:li>
+      <rdf:li>Probability Membership Table</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Programming Applications</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Expert Systems: Knowledge Plus Inference">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Financial Planning Expert Systems</rdf:li>
+      <rdf:li>Sales Expert System</rdf:li>
+      <rdf:li>Learning Evaluation Expert System</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Financial Planning Expert Systems">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>How Do You Choose a Domain?</rdf:li>
+      <rdf:li>How Do You Research Your Topic? </rdf:li>
+      <rdf:li>Organizing the Relevant Facts for the Domain</rdf:li>
+      <rdf:li>Decision Tree</rdf:li>
+      <rdf:li>Backward and Forward Chaining C0nsiderations</rdf:li>
+      <rdf:li>Programming Applications</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Sales Expert System">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Establishing the Facts</rdf:li>
+      <rdf:li>Salesperson Personality Types</rdf:li>
+      <rdf:li>Instantiating the Facts</rdf:li>
+      <rdf:li>Weighting Factors</rdf:li>
+      <rdf:li>How Are Wighting Factors Used?</rdf:li>
+      <rdf:li>An Example of the System at Work</rdf:li>
+      <rdf:li>Assessing the Salesperson Personality Scores</rdf:li>
+      <rdf:li>Assessing the Possible Sales and Customer Combinations</rdf:li>
+      <rdf:li>Expert System Assessments</rdf:li>
+      <rdf:li>Programming Applications</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Learning Evaluation Expert System">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Organizing the Data Into Topics and Subtopics</rdf:li>
+      <rdf:li>Listing the Facts</rdf:li>
+      <rdf:li>Assigning Weighting Factors and Establishing Decision Levels</rdf:li>
+      <rdf:li>An Example of the System At Work</rdf:li>
+      <rdf:li>Verification Using the Inference Mechanism</rdf:li>
+      <rdf:li>Additional Applications</rdf:li>
+      <rdf:li>Summary</rdf:li>
+      <rdf:li>Programming Applications</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+</rdf:RDF> 

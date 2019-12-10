@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:bib="Biblioteca/SE/">
+
+<rdf:Description
+rdf:about="SOFTWARE ENGINEERING PROCESSES : PRINCIPLES AND APPLICATIONS">
+  <bib:tema>
+    <rdf:Seq>
+      <rdf:li>Fundamental of the Software Engineering Process</rdf:li>
+      <rdf:li>Software Engineering Process System Modeling</rdf:li>
+      <rdf:li>Software Engineering Process System Analysis</rdf:li>
+      <rdf:li>Software Engineering Process System Establisshment</rdf:li>
+      <rdf:li>Software Engineering Process System Assessment</rdf:li>
+      <rdf:li>Software Engineering Process System Improvement</rdf:li>
+    </rdf:Seq>
+  </bib:tema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Fundamental of the Software Engineering Process">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Introducction</rdf:li>
+      <rdf:li>A Unified of the Software Engineering Process</rdf:li>
+      <rdf:li>Process Algebra</rdf:li>
+      <rdf:li>Process-Based Software Engineering</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Introducction">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Overview</rdf:li>
+      <rdf:li>The Nature of Software Engineering Process</rdf:li>
+      <rdf:li>Approaches to Software ENgineering</rdf:li>
+      <rdf:li>A Perpective on the Foundations of Software Engineering</rdf:li>
+      <rdf:li>The Process Approach to Software Engineering</rdf:li>
+      <rdf:li>Issues in Software Engineering Procces Research and Practices</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="A Unified of the Software Engineering Process">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introducction</rdf:li>
+      <rdf:li>Domain of Software Engineering</rdf:li>
+      <rdf:li>A fundamental View of Sofware Engineering Process Systems</rdf:li>
+      <rdf:li>Fundamental of Software Process Systems Modeling</rdf:li>
+      <rdf:li>Fundamental of Software Process System Analysis</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Process Algebra">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introducction</rdf:li>
+      <rdf:li>Process Abstraction</rdf:li>
+      <rdf:li>Process Relations</rdf:li>
+      <rdf:li>Formal Description of Process Systems</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Process-Based Software Engineering">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introducction</rdf:li>
+      <rdf:li>Software Engineering Process Systems Establishment</rdf:li>
+      <rdf:li>Software Engineering Process Systems Assessment</rdf:li>
+      <rdf:li>Software Engineering Process Systems Improvement</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Software Engineering Process System Modeling">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>The CMM Model</rdf:li>
+      <rdf:li>The ISO 9001 Model</rdf:li>
+      <rdf:li>The BOOTSTRAP model</rdf:li>
+      <rdf:li>The ISO/IEC TR 15504 (SPICE) Model</rdf:li>
+      <rdf:li>The software Engineering Process Reference Model: SEPRM</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The CMM Model">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introducction</rdf:li>
+      <rdf:li>The CMM Process Model</rdf:li>
+      <rdf:li>The CMM Process Assessment Model</rdf:li>
+      <rdf:li>The CMM Algorithm</rdf:li>
+      <rdf:li>The Sample CMM Assessment</rdf:li>
+      <rdf:li>Aplications CMM</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The ISO 9001 Model">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introducction</rdf:li>
+      <rdf:li>The ISO 9001 Process Model</rdf:li>
+      <rdf:li>The ISO 9001 Process Assessment Model</rdf:li>
+      <rdf:li>The ISO 9001 Algorithm</rdf:li>
+      <rdf:li>The Sample ISO 9001 Assessment</rdf:li>
+      <rdf:li>Aplications ISO 9001</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The BOOTSTRAP model">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introducction</rdf:li>
+      <rdf:li>The The BOOTSTRAP Process Model</rdf:li>
+      <rdf:li>The The BOOTSTRAP Process Assessment Model</rdf:li>
+      <rdf:li>The The BOOTSTRAP Algorithm</rdf:li>
+      <rdf:li>The Sample The BOOTSTRAP Assessment</rdf:li>
+      <rdf:li>Aplications The BOOTSTRAP</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The ISO/IEC TR 15504 (SPICE) model">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introducction</rdf:li>
+      <rdf:li>The ISO/IEC TR 15504 Process Model</rdf:li>
+      <rdf:li>The ISO/IEC TR 15504 Process Assessment Model</rdf:li>
+      <rdf:li>The ISO/IEC TR 15504 Algorithm</rdf:li>
+      <rdf:li>The Sample The ISO/IEC TR 15504 Assessment</rdf:li>
+      <rdf:li>Aplications The ISO/IEC TR 15504</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="The software Engineering Process Reference Model: SEPRM">
+  <bib:leccion>
+    <rdf:Seq>
+      <rdf:li>Introducction</rdf:li>
+      <rdf:li>The SEPRM Process Model</rdf:li>
+      <rdf:li>The SEPRM Process Assessment Model</rdf:li>
+      <rdf:li>The SEPRM Algorithm</rdf:li>
+      <rdf:li>The Sample SEPRM Assessment</rdf:li>
+      <rdf:li>Aplications SEPRM</rdf:li>
+      <rdf:li>Summary</rdf:li>
+    </rdf:Seq>
+  </bib:leccion>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Software Engineering Process System Analysis">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Benchmarking the SEPRM Process</rdf:li>
+      <rdf:li>Comparative Analysis of Current Process Models</rdf:li>
+      <rdf:li>Transformation of Capability Levels between Current Process Models</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Software Engineering Process System Establishment">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Software Process Establishment Methodologies</rdf:li>
+      <rdf:li>An Extension of ISO/IEC TR 15504 Model</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Software Engineering Process System Assessment">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Software Process Assessment Methodologies</rdf:li>
+      <rdf:li>Supporting Tools for Software Process Assessment</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="Software Engineering Process System Improvement">
+  <bib:subtema>
+    <rdf:Seq>
+      <rdf:li>Software Process Improvement Methodologies</rdf:li>
+      <rdf:li>Case Studies in Software Process Improvement</rdf:li>
+      <rdf:li>Review and Perspectives</rdf:li>
+      <rdf:li>Bibliography</rdf:li>
+      <rdf:li>Appendixes</rdf:li>
+      <rdf:li>Index</rdf:li>
+    </rdf:Seq>
+  </bib:subtema>
+</rdf:Description>
+
+</rdf:RDF> 
